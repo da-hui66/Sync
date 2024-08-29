@@ -1,0 +1,35 @@
+## other ##
+--------
+NetworkReview
+1325
+1335
+1354
+2321
+1307
+
+
+## FreeCodeCamp AWS ## 
+-------------------
+2x +read
+1x @4hrs
+1x @13hrs
+1x @14hrs
+
+## Linkedin Learning AWS ##
+-------------------
+1x @4hrs
+
+## Cloud Guru AWS ##
+------------------
+1x @6hrs
+1x @11hrs
+1x @16hrs
+
+## next steps ##
+-------------
+cloud practitioner
+linux essentials
+network+
+terraform associate
+microsoft azure fundamentals
+microsoft technology associate (mta)

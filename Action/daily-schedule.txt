@@ -1,0 +1,20 @@
+Code + apps = 20min
+Guitar = 20min
+Read = 20min
+Journal = 10min
+Workout 
+Meditation
+Training
+Yoga
+Study
+---------
+Jitz classes
+Hand strength
+Vitamins
+---------
+Groceries
+Chores
+---------
+Work
+Sleep
+---------

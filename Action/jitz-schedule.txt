@@ -1,0 +1,20 @@
+## TEMP ##
+-----------
+sun - 11:00 - nogi
+mon - 22:00 - gi
+tue - 22:00 - nogi
+wed - 19:00 - nogi
+thur - 22:00 - gi
+fri - 11:00 nogi + wrestling 09:00? 
+sat - 09:00 - nogi
+
+
+## STANDARD ##
+--------------
+sun - 11:00
+mon - 19:00
+tue - 19:00
+wed - 19:00
+thur - 19:00
+fri - 11:00
+sat - 11:00

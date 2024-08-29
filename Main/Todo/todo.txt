@@ -1,0 +1,13 @@
+groceries due:8-28
+dylan gossett +buy-ticket due:8-28
+evan horner +buy-ticket due:8-28
+wyatt flores +buy-ticket +hotel due:8-28 @9-12-stephenville?
+thursday boot return due:8-2
+nginx runbook
+sre training
+put spending +segment-vegas
+plan jiu jitsu 
+reschedule eye doctor
+order styling cream
+order sunglasses
+buy long socks

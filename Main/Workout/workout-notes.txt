@@ -1,0 +1,18 @@
+## BOXING ##
+-------------
+add combos + movement + defense together
+
+add kicks?
+
+## GRAPPLING ##
+---------------
+add back takes/trips to arm drags
+
+add counter attacks (down block/shot)
+
+add follow up attacks (shot/reshot)
+
+add hand fighting
+
+## OTHER ##
+------------

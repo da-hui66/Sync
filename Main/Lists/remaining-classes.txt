@@ -1,0 +1,27 @@
+# AAS
+------
+[] ITSC 1325 PC hardware
+[] ITNW 2312 Routers
+[] ITSY 2301 Firewalls and Network security **BAS prereq**
+[] ITSY 2300 OS Security **BAS prereq**
+[] ITSY 2343 Computer Forensics **BAS prereq**
+[] ITSY 2330 Intrusion Detection **BAS prereq**
+[] SPCH 1321 Business Speech
+[] EDUC-1100 Learning Framework(?)
+
+# BAS
+------
+[] ITSE-1302 Scientific Python OR ITSC-2337 UNIX Operating Systems II
+[] PHIL-2306 Ethics
+[] COSC-3302 Computational Thinking
+[] CSIS-3313 Information Security Standards, Risk Management, and Compliance
+[] CSIS-3301 Essentials of Technology Management
+[] CSIS-3333 Information Security: Cybersecurity
+[] ASTR 1303 Stellar Astronomy [030 Core Curriculum List]
+[] CSIS-3352 Artificial Intelligence
+[] CSIS-3353 Cyber Law and the Legal System
+[] CSIS-3385 Database and Web Vulnerability and Security
+[] MUSI 1310 American Music [050 Creative Arts]
+[] CSIS-4320 Malware Analysis
+[] CSIS-4323 IT Security Auditing
+[] CSIS-4385 Cybersecurity Capstone

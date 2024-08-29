@@ -1,0 +1,33 @@
+LPI Linux Essentials
+Network +
+AWS Certified Cloud Practitioner
+Microsoft Azure Fundamentals
+Microsoft Technology Associate (MTA)
+-------------------------------------------
+AWS Certified Solutions Architect (Associate)
+Microsoft Azure Administrator Associate
+Cisco Certified Entry Networking Technician (CCENT)
+Security +
+LPIC-1
+Microsoft Certified Systems Associate (MCSA)
+VMware Certified Technical Associate
+-------------------------------------------
+AWS Certified SysOps Administrator (Associate)
+Cisco Certified Network Associate (CCNA)
+LPIC-2
+VMware certified Associate
+HashiCorp Consul Associate
+-------------------------------------------
+AWS Solutions Architect (Professional)
+Cisco Certified Networking Professional (CCNP)
+LPIC-3 (Mixed, Security, Virtualization, etc.)
+Microsoft Certified Systems Engineer (MCSE)
+-------------------------------------------
+AWS Certified Developer (Associate)
+Cisco Certified Internetwork Expert (CCIE)
+Docker Ceertified Associate
+Red Hat Certified Systems Administrator (RHCSA)
+-------------------------------------------
+Red Hat Certified Engineer (RHCE)
+CCNP Security
+Hasicorp Vault Associate

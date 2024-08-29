@@ -1,0 +1,32 @@
+# Linux
+-------
+x brave
+x ungoogled chromium
+x nvim
+x thunderbird
+x spotify
+x virt manager
+x wireshark
+x packet tracer
+x vscodium
+x sublimetext
+x bitwarden
+x docker
+x htop    
+
+# Windows
+---------
+x brave
+x thunderbird
+x spotify
+x kindle
+x hyper V
+x sandbox
+x bit warden
+x git windows
+x terminal
+x libreoffice
+x vscodium
+x sublime text
+x greenshot
+x WSL

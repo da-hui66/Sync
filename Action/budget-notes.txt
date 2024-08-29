@@ -1,0 +1,26 @@
+---
+Budget Ideas
+# track spending daliy -> weekly, until mothly is established
+---
+
+# fixed (monthly)
+---------
+1100 - Rent
+300 - Renzo
+80 - Electric
+76 - Internet
+---------
+1556 =
+
+# variable (monthyl)
+----------
+xx - gas
+xx - groceries
+xx - subscriptions
+
+# unaccounted
+-------------
+xx - misc spending (slist, food, etc) = budget needs defining
+xx - tuition (allocated from savings = budget allotment needs defining)
+
+

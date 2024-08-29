@@ -1,0 +1,32 @@
+## DYLAN GOSSETT ##
+--------------------
+austin tuesday 9/10
+[]buy ticket
+
+## WYATT FLORES ##
+------------------
+stephenville thursday 9/12
+[] buy ticket
+[] ask off
+[] get hotel
+
+## EVAN HORNER ##
+-----------------
+austin saturday 9/14
+[x]ask off
+[]buy ticket
+
+## MUSCADINE BLOODLINE ##
+--------------------------
+dallas friday 10/25
+[] buy ticket
+[] ask off
+[] get hotel
+
+
+
+## SAM BARBER ##
+----------------
+austin friday 11/22
+[] buy ticket
+[] ask off
