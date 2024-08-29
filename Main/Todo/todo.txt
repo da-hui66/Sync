@@ -1,12 +1,11 @@
-groceries due:8-28
-dylan gossett +buy-ticket due:8-28
-evan horner +buy-ticket due:8-28
-wyatt flores +buy-ticket +hotel due:8-28 @9-12-stephenville?
-thursday boot return due:8-2
-nginx runbook
-sre training
+(A) nginx runbook
 put spending +segment-vegas
 plan jiu jitsu 
+dylan gossett +buy-ticket due:8-29
+evan horner +buy-ticket due:8-29
+thursday boot return due:8-30
+wyatt flores planning
+sre training
 reschedule eye doctor
 order styling cream
 order sunglasses
