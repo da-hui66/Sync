@@ -3,13 +3,6 @@
 austin tuesday 9/10
 []buy ticket
 
-## WYATT FLORES ##
-------------------
-stephenville thursday 9/12
-[] buy ticket
-[] ask off
-[] get hotel
-
 ## EVAN HORNER ##
 -----------------
 austin saturday 9/14
@@ -23,6 +16,11 @@ dallas friday 10/25
 [] ask off
 [] get hotel
 
+## WYATT FLORES ##
+------------------
+[] buy tickets
+[] ask off
+[] get hotel
 
 
 ## SAM BARBER ##

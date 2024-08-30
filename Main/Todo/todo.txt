@@ -1,19 +1,25 @@
+## MORE ##
+----------
+dylan gossett +buy-ticket
+evan horner +buy-ticket
+novo amor +buy-ticket
+thursday boot return due:8-31
+buy long socks due:8-31
 (A) nginx runbook
+wyatt flores planning @NC @10-18 +plan-for-halloween? +cancel-muscadine?
+look at bright eyes vegas
+
+
+## LESS ##
+-----------
 work cases
-dylan gossett +buy-ticket due:8-29
-evan horner +buy-ticket due:8-29
-put spending +segment-vegas
-plan jiu jitsu 
+plan jiu jitsu
 look into synchthings to replace dropbox
-thursday boot return due:8-30
-wyatt flores planning @NC @10-18 +plan-for-halloween
-cancel muscadine?
-look at bright eyes vegas?
 sre training
+put spending +segment-vegas
+look at christamas tickets
+look at bright eyes ticket @atx
+add MA days between lifts
 reschedule eye doctor
 order styling cream
 order sunglasses
-buy long socks
-look at christamas tickets
-look at bright eyes tickets @atx
-add MA days between lifts
