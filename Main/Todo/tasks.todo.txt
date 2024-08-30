@@ -1,13 +1,13 @@
 ## SOON ##
 ----------
 shop for new shoes (boots with chinos? sneakers with ahtletic short?)
-shop christmas tickets
 muscadine bloodline +buy-ticket +hotel due:9-1
 sam barber +buy-ticket due:10-1
 
 
 ## LATER ##
 -----------
+build guitar repertoire
 finish wno 24
 watch WNO 23
 write adrienne
