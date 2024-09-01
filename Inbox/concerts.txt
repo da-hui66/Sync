@@ -1,25 +1,20 @@
 ## DYLAN GOSSETT ##
 --------------------
 austin tuesday 9/10
-[]buy ticket
+[]buy tickets
 
 ## EVAN HORNER ##
 -----------------
 austin saturday 9/14
 [x]ask off
-[]buy ticket
+[]buy tickets
 
-## MUSCADINE BLOODLINE ##
---------------------------
-dallas friday 10/25
-[] buy ticket
-[] ask off
-[] get hotel
 
 ## WYATT FLORES ##
 ------------------
-[] buy tickets
 [] ask off
+[] buy tickets
+[] plane ticket
 [] get hotel
 
 

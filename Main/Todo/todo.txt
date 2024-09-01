@@ -1,26 +1,26 @@
 ## MORE ##
 ----------
-dylan gossett +buy-ticket
-evan horner +buy-ticket
-novo amor +buy-ticket
-thursday boot return due:8-31
-buy long socks due:8-31
-(A) nginx runbook
-wyatt flores planning @NC @10-18 +plan-for-halloween? +cancel-muscadine?
-look at bright eyes vegas
-add shoulder to iso/move ma days between lift days
+shave/clip nails
+wells fargo
+print paper
+target +long-socks
+pay rent
+pay CCs
+dylan gossett +buy-tickets
+evan horner +buy-tickets
+bright eyes +buy-tickets
+add shoulders to ISO
+add MA days between lifts
+thursday boot return due:8-31 @10:00
+rental car reservation
+plan jiu jitsu
+wyatt flores planning @NC @10-18 +plan-for-halloween?
+put spending +segment-vegas
+look at christamas tickets
 
 
 ## LESS ##
 -----------
+(A) nginx runbook
 work cases
-plan jiu jitsu
-look into synchthings to replace dropbox
 sre training
-put spending +segment-vegas
-look at christamas tickets
-look at bright eyes ticket @atx
-add MA days between lifts
-reschedule eye doctor
-order styling cream
-order sunglasses

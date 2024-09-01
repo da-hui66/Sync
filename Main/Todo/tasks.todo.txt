@@ -1,8 +1,8 @@
 ## SOON ##
 ----------
-muscadine bloodline +buy-ticket +hotel due:9-1
 sam barber +buy-ticket due:10-1
-
+order styling cream
+order sunglasses
 
 ## LATER ##
 -----------
