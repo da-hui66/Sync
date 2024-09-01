@@ -8,14 +8,14 @@ schedule = 1/2/3/1/2/4
 AM = bike + kb
 PM = run + footwork + jumprope
 
-## DAY 2 ##
----------
-AM = bike + cal
-PM = run + footwork + jumprope
-
 ## DAY 3 ##
 --------
 AM = bike + grppl + emom + jumprope
+PM = run + footwork + jumprope
+
+## DAY 2 ##
+---------
+AM = bike + cal
 PM = run + footwork + jumprope
 
 ## DAY 4 ## 

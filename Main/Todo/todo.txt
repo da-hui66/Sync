@@ -1,22 +1,13 @@
 ## MORE ##
 ----------
 shave/clip nails
-wells fargo
-print paper
-target +long-socks
-pay rent
-pay CCs
 dylan gossett +buy-tickets
 evan horner +buy-tickets
 bright eyes +buy-tickets
-add shoulders to ISO
-add MA days between lifts
-thursday boot return due:8-31 @10:00
 rental car reservation
-plan jiu jitsu
-wyatt flores planning @NC @10-18 +plan-for-halloween?
-put spending +segment-vegas
+wyatt flores planning @10-18
 look at christamas tickets
+plan jiu jitsu
 
 
 ## LESS ##
@@ -24,3 +15,4 @@ look at christamas tickets
 (A) nginx runbook
 work cases
 sre training
+put spending +segment-vegas
