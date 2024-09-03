@@ -1,6 +1,7 @@
 ## MORE ##
 ----------
-shave/clip nails
+reply
+clip nails
 finish beef
 dylan gossett +buy-tickets
 evan horner +buy-tickets
@@ -9,11 +10,11 @@ rental car reservation
 wyatt flores planning @10-18
 look at christamas tickets
 plan jiu jitsu
+plan studying
 
 
 ## LESS ##
 -----------
 (A) nginx runbook
-work cases
 sre training
 put spending +segment-vegas
