@@ -26,3 +26,4 @@ eye drops (day)
 eye drops (night)
 mouthwash white
 mouthwash green
+bathroom cleaner
