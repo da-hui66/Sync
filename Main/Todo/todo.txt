@@ -1,12 +1,10 @@
 ## MORE ##
 ----------
 reply
+rental car reservation
 clip nails
 finish beef
-dylan gossett +buy-tickets
-evan horner +buy-tickets
-bright eyes +buy-tickets
-rental car reservation
+clean house
 wyatt flores planning @10-18
 look at christamas tickets
 plan jiu jitsu
@@ -18,3 +16,4 @@ plan studying
 (A) nginx runbook
 sre training
 put spending +segment-vegas
+therapy letter

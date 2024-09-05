@@ -1,6 +1,7 @@
 ## SOON ##
 ----------
 sam barber +buy-ticket due:10-1
+chance pena 10-2?
 order styling cream
 order sunglasses
 
