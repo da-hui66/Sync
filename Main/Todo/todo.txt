@@ -10,6 +10,7 @@ plan jiu jitsu
 plan studying
 garth brooks planning
 thursday exchange
+delete syncthing/directory add dropbox/configure/alias
 
 
 ## LESS ##
