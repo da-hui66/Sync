@@ -11,6 +11,7 @@ plan studying
 garth brooks planning
 thursday exchange
 delete syncthing/directory add dropbox/configure/alias
+cancle rental car
 
 
 ## LESS ##
