@@ -2,6 +2,8 @@ avocado
 beef
 eggs
 milk
+butter
 cheese
 coffee
-eye-drops-day
+eye drops day
+paper towels
