@@ -16,5 +16,4 @@ garth brooks planning
 -----------
 (A) nginx runbook
 sre training
-put spending +segment-vegas
 therapy letter

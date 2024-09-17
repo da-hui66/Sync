@@ -1,8 +1,9 @@
 ## SOON ##
 ----------
 sam barber +buy-ticket due:10-1
-chance pena 10-2?
 order sunglasses
+put spending +segment-vegas
+
 
 ## LATER ##
 -----------
@@ -10,10 +11,6 @@ write kaya letter
 setup ftp client
 shop for lace boots with chinos 
 shop for sneakers with ahtletic shorts
-finish wno 24
-watch WNO 23
-rewatch CJI
-rewatch ADCC
 replace fiat tire @discount-tire
 complete unistall of zed text editor
 figure out how to resell boston clogs

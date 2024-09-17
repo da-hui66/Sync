@@ -15,3 +15,8 @@ replace 'sometimes you feel so alone'
 replace 'sifting through the word'
 
 replace 'on the road'
+
+finish wno 24
+watch WNO 23
+rewatch CJI
+rewatch ADCC
