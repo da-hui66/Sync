@@ -1,22 +1,19 @@
 ## MORE ##
 ----------
-laundry
-wash/vaccum car/clean inside
-reschedule eye doctor
-grocery list
+wash/vaccum car 
+clean inside car
+grocery
 shave/trim
-wyatt flores planning @10-18?
+harrassment training
+reschedule eye doctor
+wyatt flores planning @10-29
 plan jiu jitsu
 plan studying
 garth brooks planning
-thursday exchange
-delete syncthing/directory add dropbox/configure/alias
-cancle rental car
 
 
 ## LESS ##
 -----------
 (A) nginx runbook
 sre training
-put spending +segment-vegas
 therapy letter

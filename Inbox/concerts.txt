@@ -1,15 +1,3 @@
-## DYLAN GOSSETT ##
---------------------
-austin tuesday 9/10
-[]buy tickets
-
-## EVAN HORNER ##
------------------
-austin saturday 9/14
-[x]ask off
-[]buy tickets
-
-
 ## WYATT FLORES ##
 ------------------
 [] ask off
