@@ -1,15 +1,16 @@
 ## MORE ##
 ----------
+grocery
+thursday return
+apple return
 wash/vaccum car 
 clean inside car
-grocery
-shave/trim
 harrassment training
 reschedule eye doctor
 wyatt flores planning @10-29
 plan jiu jitsu
 plan studying
-garth brooks planning
+garth brooks flights
 
 
 ## LESS ##
@@ -17,3 +18,4 @@ garth brooks planning
 (A) nginx runbook
 sre training
 therapy letter
+preorder airpods 4 due:9-20

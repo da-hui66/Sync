@@ -4,7 +4,6 @@ eggs
 milk
 butter
 cheese
-coffee
 eye drops day
 paper towels
 laundry detergent

@@ -3,7 +3,7 @@
 sam barber +buy-ticket due:10-1
 order sunglasses
 put spending +segment-vegas
-
+buy vegas flight +garth-brooks
 
 ## LATER ##
 -----------
