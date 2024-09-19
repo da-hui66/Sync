@@ -3,7 +3,6 @@
 grocery
 garth brooks flights
 wyatt flores planning @10-29
-setup ftp client
 write kaya letter
 thursday return
 apple return
@@ -19,5 +18,5 @@ plan studying
 -----------
 (A) nginx runbook
 sre training
-therapy letter
+therapy letter +dad-forgivness
 preorder airpods 4 due:9-20
