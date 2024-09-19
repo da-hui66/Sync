@@ -4,21 +4,16 @@ try insomnia cookies
 
 try voodoo dounghnuts
 
+replace:
+    'nine stories'
+    'make something up'
+    'sometimes you feel so alone'
+    'sifting through the word'
+    'on the road'
 
-replace 'nine stories'
+watch WNO: 23, 24
 
-replace 'make something up'
+rewatch CJI, ADCC
 
-replace 'sometimes you feel so alone'
-
-replace 'sifting through the word'
-
-replace 'on the road'
-
-finish wno 24
-watch WNO 23
-rewatch CJI
-rewatch ADCC
-
-buy land trinidad, CO
+buy land -- trinidad, CO
 
