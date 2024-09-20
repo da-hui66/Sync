@@ -1,6 +1,5 @@
 ## MORE ##
 ----------
-grocery
 garth brooks flights
 wyatt flores planning @10-29
 write kaya letter
@@ -19,4 +18,3 @@ plan studying
 (A) nginx runbook
 sre training
 therapy letter +dad-forgivness
-preorder airpods 4 due:9-20
