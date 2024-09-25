@@ -2,7 +2,7 @@
 ----------
 get vans
 get box/travel bottels
-(A) nginx runbook
+
 harrassment training
 cook beef
 
@@ -19,6 +19,7 @@ reschedule eye doctor
 muscadine tickets?
 write kaya letter
 look at lease
+(A) nginx runbook
 
 
 ## LESS ##
