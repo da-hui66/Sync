@@ -1,12 +1,14 @@
 ## SOON ##
 ----------
 sam barber +buy-ticket due:10-1
-order sunglasses
 put spending +segment-vegas
-buy vegas flight +garth-brooks
+wyatt flores +buy-ticket due:10-16
+bright eyes +sell-ticket +buy-new
+
 
 ## LATER ##
 -----------
+order sunglasses
 replace fiat tire @discount-tire
 complete unistall of zed text editor
 figure out how to resell boston clogs

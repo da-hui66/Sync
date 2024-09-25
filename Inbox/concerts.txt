@@ -2,7 +2,6 @@
 ------------------
 [] ask off
 [] buy tickets
-[] plane ticket
 [] get hotel
 
 
