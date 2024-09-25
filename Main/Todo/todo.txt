@@ -2,8 +2,7 @@
 ----------
 get vans
 get box/travel bottels
-
-harrassment training
+pack list
 cook beef
 
 trim
@@ -11,10 +10,13 @@ wash/vaccum car
 clean inside car
 clean house
 laundry
+pack
+write travel workouts +cal-okla +kb-nv +cal-nv
+
 
 thursday return
 apple return
-pack
+harrassment training
 reschedule eye doctor
 muscadine tickets?
 write kaya letter
