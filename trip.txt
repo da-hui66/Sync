@@ -1,0 +1,12 @@
+## VEGAS SCHEDULE ##
+--------------------
+mon = sleep vegas
+tue = leave for querq
+wed = slep querq
+thur = leave for atx
+fri = begin again
+
+
+## TEMP WORKOUTs ##
+------------------
+

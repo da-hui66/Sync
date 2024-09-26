@@ -1,16 +1,16 @@
 ## MORE ##
 ----------
-work cases
-pack list
-laundry
-trim/shave
+x 2024-09-26 pack list
+x 2024-09-25 laundry
+shave
 workout
-clean house
-pack
+x 2024-09-26 clean house
+x 2024-09-26 pack
 write travel workouts +cal-okla +kb-nv +cal-nv
 thursday return
 apple return
 
+work cases
 harrassment training
 reschedule eye doctor
 muscadine tickets?
