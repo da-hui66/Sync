@@ -1,9 +1,5 @@
 ## MORE ##
 ----------
-get vans
-get box/travel bottels
-wash/vaccum car 
-clean inside car
 work cases
 pack list
 laundry
