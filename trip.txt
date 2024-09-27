@@ -10,3 +10,10 @@ fri = begin again
 ## TEMP WORKOUTs ##
 ------------------
 
+
+## TO DO ##
+-----------
+chairs
+water
+sweatpants
+jeans
