@@ -1,34 +1,22 @@
 ## MORE ##
 ----------
-x 2024-09-26 pack list
-x 2024-09-25 laundry
-shave
-workout
-x 2024-09-26 clean house
-x 2024-09-26 pack
-write travel workouts +cal-okla +kb-nv +cal-nv
-thursday return
-apple return
-
+shave/nails
 work cases
-harrassment training
+(A) harrassment training
 reschedule eye doctor
-muscadine tickets?
 write kaya letter
 look at lease
-(A) nginx runbook
+(B) nginx runbook
+edibles in vegas
 
 
 ## LESS ##
 -----------
-josh meloy? due:11-2
-edibles in vegas
-compare ftp server/dropbox
-get 'oil'
+thursday return
+apple return
 sre training
 plan jiu jitsu
 plan studying
-therapy letter +dad-forgivness
 garth brooks flights
 ask off garth brooks
 wyatt flores planning @12-27

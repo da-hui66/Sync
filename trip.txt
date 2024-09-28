@@ -7,13 +7,22 @@ thur = leave for atx
 fri = begin again
 
 
-## TEMP WORKOUTs ##
+## TEMP WORKOUT ##
 ------------------
+jumprope
 
+band deadlift
+band squat
+band shoulder press
+band rows
+push ups
+band curls
+band tricep extensions
+v ups
 
-## TO DO ##
------------
-chairs
-water
-sweatpants
-jeans
+>> EMOM <<
+burpees
+lunges
+sit ups
+
+run
