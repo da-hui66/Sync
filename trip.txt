@@ -19,8 +19,9 @@ push ups
 band curls
 band tricep extensions
 v ups
-
->> EMOM <<
+--------
+--EMOM--
+--------
 burpees
 lunges
 sit ups
