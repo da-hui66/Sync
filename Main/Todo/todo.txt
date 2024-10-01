@@ -1,21 +1,11 @@
-## MORE ##
-----------
-work cases
-(A) harrassment training
-reschedule eye doctor
-write kaya letter
 look at lease
+work cases
 (B) nginx runbook
-edibles in vegas
-
-
-## LESS ##
------------
-thursday return
-apple return
+write kaya letter
+reschedule eye doctor
+wyatt flores +buy-ticket due:10-31
+sam barber +buy-ticket due:10-16
 sre training
+garth brooks flights +southwest
 plan jiu jitsu
 plan studying
-garth brooks flights
-ask off garth brooks
-wyatt flores planning @12-27

@@ -1,13 +1,6 @@
-## SOON ##
-----------
-sam barber +buy-ticket due:10-1
 put spending +segment-vegas
-wyatt flores +buy-ticket due:10-16
-bright eyes +sell-ticket +buy-new
-
-
-## LATER ##
------------
+wyatt flores planning
+bright eyes +sell-ticket +buy-new?
 therapy letter +dad-forgivness
 order sunglasses
 replace fiat tire @discount-tire

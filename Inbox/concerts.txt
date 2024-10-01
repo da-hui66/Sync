@@ -1,13 +1,15 @@
-## WYATT FLORES ##
-------------------
-ft worth 12/27
-[] ask off
-[] buy tickets
-[] get hotel
-
-
 ## SAM BARBER ##
 ----------------
 austin friday 11/22
 [] buy ticket
-[] ask off
+[x] ask off
+
+## WYATT FLORES ##
+------------------
+ft worth 12/27
+[x] ask off
+[] buy tickets
+[] get hotel
+
+
+
