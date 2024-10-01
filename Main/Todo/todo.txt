@@ -9,3 +9,4 @@ sre training
 garth brooks flights +southwest
 plan jiu jitsu
 plan studying
+buy airpods
