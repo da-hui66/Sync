@@ -3,6 +3,7 @@
 tire guage
 weed
 frontier
+gas
 
 ## TEMP WORKOUT ##
 ------------------
