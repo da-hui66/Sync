@@ -27,3 +27,5 @@ lunges
 sit ups
 
 run
+
+test
