@@ -9,6 +9,7 @@ groceries list
 finish organize apartment
 apartment stuff list
 move marcus money
+put spending +restart-current+new-balances
 look at lease +cleaning?
 lexa gates +buy-tickets +ask-off
 work cases
