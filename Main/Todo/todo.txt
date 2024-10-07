@@ -1,3 +1,6 @@
+pay CC
+(B) nginx runbook
+(A) jared project
 salvation army
 box exchange
 deposit money
@@ -9,7 +12,6 @@ move marcus money
 look at lease +cleaning?
 lexa gates +buy-tickets +ask-off
 work cases
-(B) nginx runbook
 write kaya letter
 reschedule eye doctor
 wyatt flores +buy-ticket due:10-31
