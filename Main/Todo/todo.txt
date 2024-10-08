@@ -13,6 +13,7 @@ write kaya letter
 reschedule eye doctor
 plan jiu jitsu
 plan studying
+no show socks +target
 
 ## LATER ##
 ------------
