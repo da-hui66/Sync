@@ -13,7 +13,6 @@ how to not use keys in terrafrom
 make bridge network in virt manager
 make IAM swap the root creds for those in terraform project
 delete root user access key
-rewrite schedule +back-to-jiujitsu
 backup local files to storage
 write guitar routine
 write 3x yoga routine
@@ -31,6 +30,7 @@ rework resume
 plan certs q2/personal
 Anki python tutorial
 generate unique passwords/usernames for creds in bitwarden
+transfer email logins to proton mail
 get enigma subscription
 work though browser links
 'watch later' in youtube

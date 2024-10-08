@@ -1,7 +1,14 @@
-look at lease +cleaning?
-lexa gates +buy-tickets +ask-off
+grocery list
+salvation army drop
 work cases
+(A) jared assignment 
 (B) nginx runbook
+research how to do brisked
+wash car
+laundry
+look at lease +cleaning?
+put spending +start-new
+lexa gates +buy-tickets +ask-off
 write kaya letter
 reschedule eye doctor
 wyatt flores +buy-ticket due:10-31
@@ -13,3 +20,4 @@ plan studying
 buy airpods
 find new apartment
 move calendar to proton
+change apple car
