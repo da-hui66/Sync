@@ -1,26 +1,24 @@
-grocery list
-salvation army drop
 work cases
 (A) jared assignment 
 (B) nginx runbook
-research how to do brisked
-wash car
 laundry
+wash car
+research how to do brisket
+change apple card
 look at lease +cleaning?
 put spending +start-new
 make cleaning schedule
 lexa gates +buy-tickets +ask-off
 write kaya letter
 reschedule eye doctor
-wyatt flores +buy-ticket due:10-31
-sam barber +buy-ticket due:10-16
-sre training
-garth brooks flights +southwest
 plan jiu jitsu
 plan studying
+
+## LATER ##
+------------
 buy airpods
-find new apartment
-forward email to proton
-move calendar to proton
-set email alias
-change apple car
+wyatt flores +buy-ticket due:10-31
+sam barber +buy-ticket due:10-16
+(C) sre training
+garth brooks flights +southwest
+(A) find new apartment
