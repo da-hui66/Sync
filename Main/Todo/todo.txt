@@ -8,6 +8,7 @@ wash car
 laundry
 look at lease +cleaning?
 put spending +start-new
+make cleaning schedule
 lexa gates +buy-tickets +ask-off
 write kaya letter
 reschedule eye doctor
@@ -19,5 +20,7 @@ plan jiu jitsu
 plan studying
 buy airpods
 find new apartment
+forward email to proton
 move calendar to proton
+set email alias
 change apple car
