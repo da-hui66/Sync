@@ -1,5 +1,4 @@
 work cases
-(A) jared assignment 
 (B) nginx runbook
 laundry
 wash car
@@ -14,6 +13,7 @@ reschedule eye doctor
 plan jiu jitsu
 plan studying
 no show socks +target
+tank tops +target
 
 ## LATER ##
 ------------
