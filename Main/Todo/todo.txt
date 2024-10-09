@@ -1,27 +1,28 @@
-work cases
-(B) nginx runbook
 laundry
 wash car
-research how to do brisket
-change apple card
-look at lease +cleaning?
-put spending +start-new
-make cleaning schedule
 lexa gates +buy-tickets +ask-off
-write kaya letter
-reschedule eye doctor
+change apple card
+research how to do brisket
+schedule therapy
+put spending +start-new
 plan jiu jitsu
-plan studying
+look at lease +cleaning?
+work cases
+(A) nginx runbook
+reschedule eye doctor due:10-11
 no show socks +target
 tank tops +target
-make fiat appointment
-schedule therapy
+(A) jared program assignment
 
 ## LATER ##
 ------------
+(A) find new apartment
+make fiat appointment
+make cleaning schedule
+plan studying
+write kaya letter
 buy airpods
 wyatt flores +buy-ticket due:10-31
 sam barber +buy-ticket due:10-16
 (C) sre training
-garth brooks flights +southwest
-(A) find new apartment
+(B) garth brooks flights +southwest
