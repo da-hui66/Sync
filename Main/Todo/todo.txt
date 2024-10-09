@@ -7,6 +7,7 @@ schedule therapy
 put spending +start-new
 plan jiu jitsu
 look at lease +cleaning?
+order aux chord
 work cases
 (A) nginx runbook
 reschedule eye doctor due:10-11
