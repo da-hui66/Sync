@@ -15,6 +15,7 @@ plan studying
 no show socks +target
 tank tops +target
 make fiat appointment
+schedule therapy
 
 ## LATER ##
 ------------
