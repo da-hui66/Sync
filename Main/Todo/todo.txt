@@ -1,7 +1,8 @@
-laundry
 wash car
 lexa gates +buy-tickets +ask-off
 change apple card
+get reading list from safari
+move brave favorites
 research how to do brisket
 schedule therapy
 put spending +start-new

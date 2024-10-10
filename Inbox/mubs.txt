@@ -1,0 +1,13 @@
+## Room ##
+-----------
+Total = 904.66
+Due = 339.01 (Capitol One -- 8770)(Paid: 9-17)
+Remaining = 565.65 
+
+## Concert ##
+-------------
+Tickets = $669.04 (Visa -- 9187)(Paid: 9-17)
+
+## Plane ##
+-----------
+Tickets = $881.90 (Visa -- 9187)(Paid: 9-24)
