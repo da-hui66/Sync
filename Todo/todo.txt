@@ -1,7 +1,7 @@
 wash car
 get pillow
 lexa gates +buy-tickets +ask-off
-change apple card +darl-reader-4-safari
+change apple card +dark-reader-4-safari
 configure adguard
 get reading list from safari
 move brave favorites
