@@ -1,32 +1,30 @@
-wash car
-get pillow
-lexa gates +buy-tickets +ask-off
+lexa gates +ask-off +check-venue
+sam barber +ask-off +check-venue
 change apple card +dark-reader-4-safari
 configure adguard
 get reading list from safari
-move brave favorites
-research how to do brisket
 schedule therapy
 put spending +start-new
 plan jiu jitsu
 look at lease +cleaning?
-order aux chord
 work cases
 (A) nginx runbook
 reschedule eye doctor due:10-11
-no show socks +target
 tank tops +target
 (A) jared program assignment
+(B) garth brooks flights +southwest
+make cleaning schedule
+plan studying
 
 ## LATER ##
 ------------
+lexa gates +buy-tickets due:?
+sam barber +buy-ticket due:10-16
+wyatt flores +buy-ticket due:10-31
 (A) find new apartment
 make fiat appointment
-make cleaning schedule
-plan studying
+
 write kaya letter
 buy airpods
-wyatt flores +buy-ticket due:10-31
-sam barber +buy-ticket due:10-16
 (C) sre training
-(B) garth brooks flights +southwest
+
