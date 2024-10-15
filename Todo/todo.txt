@@ -1,30 +1,26 @@
-lexa gates +ask-off +check-venue
-sam barber +ask-off +check-venue
-change apple card +dark-reader-4-safari
-configure adguard
-get reading list from safari
-schedule therapy
+(A) nginx runbook
+(B) jared program assignment
+shave/toe nails
+clean house
+copy key
+apartment notice due:10-20
 put spending +start-new
 plan jiu jitsu
 look at lease +cleaning?
-work cases
-(A) nginx runbook
 reschedule eye doctor due:10-11
-tank tops +target
-(A) jared program assignment
-(B) garth brooks flights +southwest
 make cleaning schedule
 plan studying
+(C) garth brooks flights +southwest
+change workout 4x day cycle +combine-grapple/box +4th=EMOM/ETC.
 
 ## LATER ##
 ------------
-lexa gates +buy-tickets due:?
-sam barber +buy-ticket due:10-16
-wyatt flores +buy-ticket due:10-31
+city and colour +buy-tickets due:10-24
+lexa gates +buy-tickets due:10-31
+sam barber +buy-ticket due:11-14
+wyatt flores +buy-ticket +hotel due:11-28
 (A) find new apartment
-make fiat appointment
-
+(B) sre training
 write kaya letter
-buy airpods
-(C) sre training
+watch recent FPI
 
