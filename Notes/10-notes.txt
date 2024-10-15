@@ -19,3 +19,7 @@ laundry bag
 key bowl
 
 rvca yoggers?
+
+look up golang tutorials
+
+how to not use keys in terrafrom
