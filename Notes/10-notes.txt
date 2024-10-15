@@ -1,1 +1,25 @@
+<<<<<<< HEAD
 
+=======
+canvas,leather,bomber jacket
+
+move static files from sync to documents/storage
+
+quaterly calendar reminder to back up files
+
+make own tincture
+
+try legal edibles
+
+explore bylt basics
+
+upgrade underwear, all black
+
+fiat vent phone holder
+
+laundry bag
+
+key bowl
+
+rvca yoggers?
+>>>>>>> 6e7592bf2b4ab0e79c08426589ed64b07a0fa87c
