@@ -1,10 +1,4 @@
-canvas jacket
-
-leather jacket
-
-bomber jacket
-
-home obsidian use?
+canvas,leather,bomber jacket
 
 move static files from sync to documents/storage
 
