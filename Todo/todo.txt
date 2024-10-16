@@ -1,4 +1,5 @@
 (A) nginx runbook
+ask off wyatt flores?
 check voter registration
 check muscadine tour
 groceries +toliet-paper +coffee-filters +milk +copy-key?
@@ -11,8 +12,10 @@ look at lease +cleaning?
 reschedule eye doctor due:10-11
 make cleaning schedule
 plan studying
-(C) garth brooks flights +southwest
 change workout 4x day cycle +combine-grapple/box +4th=EMOM/ETC.
+go through notes due:11-1
+(C) garth brooks flights +southwest
+
 
 ## LATER ##
 ------------
