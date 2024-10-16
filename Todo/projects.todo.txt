@@ -1,13 +1,15 @@
 after CCs paidoff: +loan-repayment +car-savings +school-budget +tattoo-savings
 transfer payment to CC +renzo +spotify +spectrum +betterhelp
 set up auto drafts on student loan payments due:11-24
+schedule haircut due:december
 set up searxng
 set up next cloud instace to replace Dropbox
 write budget @student-loans
 write footwork for workout
 write better solo grappling workout
 write cron job to auto update/upgrade applications
-
+look up golang tutorials
+how to not use keys in terrafrom
 make bridge network in virt manager
 make IAM swap the root creds for those in terraform project
 delete root user access key
@@ -36,21 +38,14 @@ clear archived emails
 fix virt-manager w/ bridge network
 apply for 3rd credit card (travel/large purchase)
 try manjaro linux
-try mx-linux
+cutover to mx-linux
 configure NAS +orderMemory +swapSSD/RAM
 replace dell battery
-
+organize nvim config (use subheading)
+portable tails OS
 Migration: {oneNote-personal=plaintext, oneNote-school=markdown, oneNote-grappling=markdown}
-
-migrate safari reading list +from-iphone
-
-
-
-## SECONDARY ##
-----------------
-jiujitsu gameplan
-set up linkdin
 odin project
 hack the box
-portable tails OS
-organize nvim config (use subheading)
+migrate safari reading list +from-iphone
+set up linkdin
+jiujitsu gameplan
