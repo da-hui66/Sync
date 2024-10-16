@@ -1,9 +1,9 @@
 (A) nginx runbook
 check voter registration
 check muscadine tour
+groceries +toliet-paper +coffee-filters +milk +copy-key?
 shave/toe nails
 clean house
-copy key
 apartment notice due:10-20
 put spending +start-new
 plan jiu jitsu
