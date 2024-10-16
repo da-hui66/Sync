@@ -1,4 +1,5 @@
 (A) nginx runbook
+check voter registration
 check muscadine tour
 shave/toe nails
 clean house
