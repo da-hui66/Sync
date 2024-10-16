@@ -2,19 +2,18 @@
 ask off wyatt flores?
 check voter registration
 check muscadine tour
-groceries +toliet-paper +coffee-filters +milk +copy-key?
 shave/toe nails
 clean house
-apartment notice due:10-20
-put spending +start-new
-plan jiu jitsu
 look at lease +cleaning?
-reschedule eye doctor due:10-11
+apartment notice due:10-20
 make cleaning schedule
-plan studying
 change workout 4x day cycle +combine-grapple/box +4th=EMOM/ETC.
-go through notes due:11-1
+reschedule eye doctor due:10-11
+plan jiu jitsu
+plan studying
 (C) garth brooks flights +southwest
+go through notes due:11-1
+put spending +start-new
 
 
 ## LATER ##
