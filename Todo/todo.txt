@@ -1,29 +1,29 @@
+laundry
 pay toll bill
-ask off wyatt flores?
-check voter registration
-check muscadine tour
-work cases
+check voter registration card
+apartment notice due:10-20
 jared program
 (A) nginx runbook
 look at lease +cleaning?
-apartment notice due:10-20
 make cleaning schedule
 change workout 4x day cycle +combine-grapple/box +4th=EMOM/ETC.
 reschedule eye doctor due:10-11
 plan jiu jitsu
-(C) garth brooks flights +southwest
 go through notes due:11-1
 put spending +start-new
 plan studying
+(B) find new apartment
 
-
-## LATER ##
-------------
-city and colour +buy-tickets due:10-24
+## CONCERTS ##
+--------------
+(C) garth brooks flights +southwest?
 lexa gates +buy-tickets due:10-31
 sam barber +buy-ticket due:11-14
 wyatt flores +buy-ticket +hotel due:11-28
-(A) find new apartment
+
+## LATER ##
+------------
+
 (B) sre training
 write kaya letter
 watch recent FPI
