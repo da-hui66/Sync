@@ -25,3 +25,5 @@ look up golang tutorials
 how to not use keys in terrafrom
 
 netflix: chef's table BBQ, BBQ showdown
+
+how to run FL studio on linux? -- music production alternative?

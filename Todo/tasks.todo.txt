@@ -5,7 +5,7 @@ airpods alternative research
 replace fiat tire @discount-tire
 check HVAC air filter
 schedule physical
-schedule haircut due:december
+schedule haircut due:12-1
 restring guitar
 bright eyes +sell-ticket +buy-new?
 find online school

@@ -1,17 +1,12 @@
-laundry
-pay toll bill
+shave
+look at lease +cleaning?
+change workout 4x day cycle +combine-grapple/box +4th=EMOM/ETC.
 check voter registration card
+laundry due:10-20
 apartment notice due:10-20
+plan jiu jitsu
 jared program
 (A) nginx runbook
-look at lease +cleaning?
-make cleaning schedule
-change workout 4x day cycle +combine-grapple/box +4th=EMOM/ETC.
-reschedule eye doctor due:10-11
-plan jiu jitsu
-go through notes due:11-1
-put spending +start-new
-plan studying
 (B) find new apartment
 
 ## CONCERTS ##
@@ -23,8 +18,10 @@ wyatt flores +buy-ticket +hotel due:11-28
 
 ## LATER ##
 ------------
-
+make cleaning schedule
+go through notes due:11-1
+plan studying
+put spending +start-new
 (B) sre training
 write kaya letter
 watch recent FPI
-
