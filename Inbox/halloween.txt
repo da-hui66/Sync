@@ -1,0 +1,4 @@
+mon = chili verde
+tue = crumble cookie
+wed = carve pumpkin
+thur = BBQ "the crow"
