@@ -10,7 +10,7 @@ PM = run + footwork + jumprope
 
 ## DAY 3 ##
 --------
-AM = bike + grppl + emom + jumprope
+AM = bike + grppl + box 
 PM = run + footwork + jumprope
 
 ## DAY 2 ##
@@ -20,6 +20,6 @@ PM = run + footwork + jumprope
 
 ## DAY 4 ## 
 -----------
-AM = bike + box + kb finisher + bike sprints
+AM = bike  + kb finisher + bike sprints + emom + jumprope
 PM = run + footwork + jumprope
 

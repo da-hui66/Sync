@@ -1,23 +1,18 @@
-## BOXING ##
---------
-1-2-3-2
-left/right
-1-2-5-2
-fwd/bak
-1-6-3-2
-pivots
-2-5-2-3
-1-2-1-6
-slips
-1-2-3-6
-rolls
-2-5-6-3
-
 ## EMOM ##
--------
+-----------
 devils press
 thrusters
 
 ## ASSAULT BIKE ##
----------------
+-------------------
 8x 20s work/40s rest
+
+## KB FINISHER ##
+------------------
+halos
+farmers
+tgu
+
+## JUMPROPE ##
+--------------
+10x60s
