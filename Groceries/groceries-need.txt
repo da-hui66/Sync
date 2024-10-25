@@ -1,11 +1,2 @@
-limes
-avocado
-beef
-butter
-eggs
-milk
-coffee
-salt
-raw sugar
-gum
-yellow bird
+bentos
+delis
