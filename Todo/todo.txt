@@ -1,23 +1,5 @@
-call darla
-confirm apartment received
-jared program
-(A) nginx runbook
-plan jiu jitsu
-(B) find new apartment
-
 ## CONCERTS ##
 --------------
-(C) garth brooks flights +southwest?
-lexa gates +buy-tickets due:10-31
-sam barber +buy-ticket due:11-14
-wyatt flores +buy-ticket +hotel due:11-28
 
 ## LATER ##
 ------------
-make cleaning schedule
-go through notes due:11-1
-plan studying
-put spending +start-new
-(B) sre training
-write kaya letter
-watch recent FPI
