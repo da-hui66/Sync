@@ -10,6 +10,7 @@ budgets after CCs paidof +loan-repayment +car-savings +school-budget +tattoo-sav
 transfer payment to CC +renzo +spotify +spectrum +betterhelp
 set up auto drafts on student loan payments due:11-24
 set up searxng
+change debian to centOS for server OS
 set up next cloud instace to replace Dropbox
 write budget @student-loans
 write footwork for workout
