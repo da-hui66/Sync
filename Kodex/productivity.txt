@@ -1,0 +1,25 @@
+use dropbox for images?
+
+use dropbox for pdfs?
+
+confirm hosting own cloud is on project list
+
+move static files from repository to storage
+
+find another app to host schedule >> second calendar?
+
+set alias or obsidian access
+
+move tasks, keep, notion
+
+make aliass for kodex nvaigation
+
+make alias for syncing kodex 'ga . && gc && gps' >> mirror script
+
+if this dosent work move files back to dropbox
+
+move kodex directory to vscode? >> dont duplicate files
+
+terminus in sublime text? >> configure from work computer
+
+test working copy with pdf/ 
