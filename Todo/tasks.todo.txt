@@ -1,6 +1,5 @@
 ## SOON ##
 ----------
-go through projects.todo.txt
 
 ## LATER ##
 ------------

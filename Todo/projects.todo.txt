@@ -19,7 +19,6 @@ write cron job to auto update/upgrade applications
 make bridge network in virt manager
 make IAM swap the root creds for those in terraform project
 delete root user access key
-backup local files to storage
 write guitar routine
 write 3x yoga routine
 add footwork/ladder drills to grapple/box
