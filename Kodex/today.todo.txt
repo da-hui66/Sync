@@ -10,3 +10,4 @@ move groceries need to kodex
 kodex todo.txt = today.todo.txt 
 rework quicknote script
 start buy directory +break-down-slist
+play with anki/ankiweb
