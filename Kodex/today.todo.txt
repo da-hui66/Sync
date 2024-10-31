@@ -11,7 +11,7 @@ move groceries need to kodex
 kodex todo.txt = today.todo.txt 
 rework quicknote script
 start buy directory +break-down-slist
-play with anki/ankiweb
+play with anki/ankiweb +google-docs-integration
 dont need Kodex directory
     move quick notes to notes
     put groceries back
