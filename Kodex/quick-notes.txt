@@ -1,2 +1,6 @@
-test entry
-test2
+dont need Kodex directory
+    move quick notes to notes
+    put groceries back
+    find new home for spending
+    add today.todo.txt to todo.txt?
+    dont need additional daily.txt
