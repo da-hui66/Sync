@@ -1,3 +1,4 @@
+add ssh key to working copy
 move gsuite to vscode
 configure kodex files
 clean calendar -remove tasks view
