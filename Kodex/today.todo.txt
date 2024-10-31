@@ -11,3 +11,9 @@ kodex todo.txt = today.todo.txt
 rework quicknote script
 start buy directory +break-down-slist
 play with anki/ankiweb
+dont need Kodex directory
+    move quick notes to notes
+    put groceries back
+    find new home for spending
+    add today.todo.txt to todo.txt?
+    dont need additional daily.txt
