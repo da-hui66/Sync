@@ -1,4 +1,10 @@
-
+## TODAY ##
+-----------
+move gsuite to vscode
+configure kodex files 
 
 ## CONCERTS ##
 --------------
+
+## Later ##
+-----------
