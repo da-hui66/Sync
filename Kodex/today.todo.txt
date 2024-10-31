@@ -1,0 +1,12 @@
+move gsuite to vscode
+configure kodex files
+clean calendar -remove tasks view
+move lexa gates pdf to dropbox
+make watch now video cataloug in youtube
+get rental voucher from email 
+read plaintext articles
+look up GTD articles
+move groceries need to kodex
+kodex todo.txt = today.todo.txt 
+rework quicknote script
+start buy directory +break-down-slist
