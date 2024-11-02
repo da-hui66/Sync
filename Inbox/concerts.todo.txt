@@ -1,0 +1,19 @@
+## SAM BARBER 11/22 ##
+----------------------
+tickets due:11-7
+
+## GARTH BROOKS 12/14 ##
+------------------------
+flights due:11-28
+
+## WYATT FLORES 12/27 ##
+------------------------
+tickets due:11-14
+hotel due:12-16
+coopers BBQ due:12-27 @11:00
+
+## BRIGHT EYES ##
+------------------
+change tickets
+- get ticket next to mine
+- sell previous/get new
