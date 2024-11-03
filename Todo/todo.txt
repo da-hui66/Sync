@@ -1,6 +1,17 @@
-## TODAY ##
------------
-
-
-## Later ##
------------
+(A) call darla
+change Action dir in notes to new name @work @home
+start buy directory +break-down-slist
+file vscode notes +inbox +action +etc.
+play with anki/ankiweb +google-docs-integration
+find new home for spending/bills-tracking
+get rental voucher from email 
+rework quicknote script
+rework schedule
+    - when to strectch on weekends
+fix zwee script to not shut off
+read plaintext articles
+look up GTD articles
+fix review mirror
+make fiat servie appointment
+change hvac filter
+bright eyes situation due:1-10
