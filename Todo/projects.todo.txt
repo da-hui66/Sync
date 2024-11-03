@@ -1,5 +1,3 @@
-## SHORT TERM ##
-----------------
 try crest whitening trays
 therapy letter +dad-forgivness
 increase linux disk space from windows
@@ -47,10 +45,6 @@ cutover to mx-linux
 configure NAS +orderMemory +swapSSD/RAM
 Migration: {oneNote-personal=plaintext, oneNote-school=markdown, oneNote-grappling=markdown}
 migrate safari reading list +from-iphone
-
-
-## LONG TERM ##
----------------
 apply for 3rd credit card (travel/large purchase)
 setup VPN
 hack the box

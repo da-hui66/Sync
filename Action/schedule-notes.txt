@@ -1,11 +1,17 @@
-# weekly todo:
--------
+## WEEKLY ##
+-------------
 consolidate notes
 laundry
 groceries
 
-# weekly clean:
--------------------
+## CLEAN ##
+------------
 bathroom: mirror, sink, toliet, shower, floors
 main/office: floors
 sun = kitchen: stove, fridge, counters, sink, floors
+
+## TO-DO ##
+------------
+figure out when to eat
+define morning routine
+define bedtime routine

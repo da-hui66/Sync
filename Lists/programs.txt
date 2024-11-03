@@ -1,18 +1,6 @@
 # Linux
 -------
-x brave
-x ungoogled chromium
-x nvim
-x thunderbird
-x spotify
-x virt manager
-x wireshark
-x packet tracer
-x vscodium
-x sublimetext
-x bitwarden
-x docker
-x htop    
+## make this listing and gather config files
 
 # Windows
 ---------
