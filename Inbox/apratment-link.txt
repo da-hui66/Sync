@@ -8,3 +8,8 @@ https://yourhome.mriprospectconnect.com/Search/Index/159
 3. Is the free month applied in december since november prorated rent is due at move in
 
 apartment application: xJaLofYIxj6G0y
+
+## ADMIN FEES ##
+-----------------
+app/admin waved = 150 + 75
+1/4 of depoist = 100
