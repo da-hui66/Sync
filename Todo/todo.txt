@@ -1,35 +1,8 @@
-(A) call darla
-plan jiujitsu +rember-zen-planner
-plan studying
-file vscode notes +inbox +action +etc.
-schedule haircut
-write kaya letter
-watch recent FPI
-watch recent enigma
-make cleaning schedule
-play with anki/ankiweb +google-docs-integration
-try mullvad
-find new home for spending/bills-tracking
-get rental voucher from email 
-rework quicknote script
-rework schedule
-    - when to strectch on weekends
-fix zwee script to not shut off
-start new 'spending'
-read plaintext articles
-look up GTD articles
-fix review mirror
-make fiat servie appointment
-change hvac filter
-replace fiat tire
-sam barber tickets due:11-7
-wyatt flore tickets due:11-14
-garth brook flights due:11-28
-wyatt flores hotel due:12-5
-bright eyes situation due:1-9
-find new therapist
-shop for cheap bluetooth earbuds
-shop for laundry bag
-get HDMI to usbC
-move local Notes directory to Obsidian
-break down slist
+disconnect apple watch due:11-3
+cook beef due:11-4
+make guac dur:11-4
+apply for apartment due:11-4
+trim due:11-4
+set leanne appointment due:11-4
+drop off apple watch due:11-4
+confirm marcus transfer due:11-4
