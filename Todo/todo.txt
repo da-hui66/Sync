@@ -1,4 +1,4 @@
-disconnect apple watch due:11-3
+x disconnect apple watch due:11-3
 cook beef due:11-4
 make guac dur:11-4
 apply for apartment due:11-4
@@ -6,3 +6,6 @@ trim due:11-4
 set leanne appointment due:11-4
 drop off apple watch due:11-4
 confirm marcus transfer due:11-4
+sam barber tickets
+combine todo/daily
+look back into ACC
