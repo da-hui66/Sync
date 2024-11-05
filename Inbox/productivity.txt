@@ -1,14 +1,18 @@
-quick notes = sublime text/kodex
-long notes = vscode
-drive = working copy/dropbox
-office = libre
-obsidian = course learning
+- [ ] test working copy with pdf/images
+- [ ]move static files from repository to local storage
+- [ ] set calendar reminder for backup +frequency?
+- [ ] set alias for obsidian access
+- [ ] start obsidian repository
+
+
 
  
 ## NOTES ##
 -----------
 add expected due dates to as calendar entries
 use fusion of markdown and plaintext for structuring notes
+    - use multi level indentations
+    - use markdown for 'todo' in notes = '- [ ]'
 have notes in a single file till they grow too big then move to own file by subject
 libre office phone access? +test
 figure out how to incorporate spreadsheets
@@ -23,10 +27,10 @@ how to strcuture todos
     - change today.todo.txt to todo.txt?
 make own kodex repository?
 
-## TO-DO ##
------------
-test working copy with pdf/images
-move static files from repository to local storage
-    - [ ] set calendar reminder for backup +frequency?
-set alias for obsidian access
-    - [ ] start own repository
+## TEMPLATE ##
+---------------
+quick notes = sublime text/kodex
+long notes = vscode
+drive = working copy/dropbox
+office = libre
+obsidian = course learning

@@ -1,13 +1,5 @@
-confirm receipt of non-renewal notice due:11-8
-inquire about moveout paper work due:11-8
-schedule marcus transfer for new rent due:11-8
-figure out books placement
-YMH/garth brooks feud
 go through tasks.todo.txt
 consolidate month notes
-add school email to thunderbird
-import favorites to firefox
-get links from email
 change apple store card @debit-card
 check UPT
 (A) call darla
@@ -20,12 +12,12 @@ watch recent FPI
 watch recent enigma
 make cleaning schedule
 play with anki/ankiweb +google-docs-integration
-try mullvad
 find new home for spending/bills-tracking
 get rental voucher from email 
 rework quicknote script
 rework schedule
-    - when to strectch on weekends
+    - change run to AM
+    - change lift to before jiu jitsu
 fix zwee script to not shut off
 start new 'spending'
 read plaintext articles
@@ -50,3 +42,4 @@ go through productivity note
 look into online school
 schedule physical
 explore central market
+harden firefox

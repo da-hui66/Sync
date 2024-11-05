@@ -5,7 +5,7 @@ chilis
 cilantro
 avocado
 limes
-beef
+ground beef
 butter
 eggs
 milk

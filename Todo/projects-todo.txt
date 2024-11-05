@@ -11,7 +11,7 @@ transfer payment to CC +renzo +spotify +spectrum +betterhelp
 set up auto drafts on student loan payments due:11-24
 set up searxng
 change debian to centOS for server OS
-set up next cloud instace to replace Dropbox
+set up next cloud instace to replace Dropbox +buy-domain
 write budget @student-loans
 write footwork for workout
 write better solo grappling workout
@@ -52,3 +52,7 @@ odin project
 set up linkdin
 portable tails OS
 jiujitsu gameplan
+pay off CCs
+    - restore marcus savings
+    - payoff student loans
+    - start saving accounts
