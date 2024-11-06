@@ -18,3 +18,5 @@
 denton = 182
 whichita falls = 82
 temple = 125
+
+- half of each of these

@@ -1,15 +1,25 @@
-https://yourhome.mriprospectconnect.com/Search/Index/159
+## TO-DO ##
+------------
+- [ ] sign lease agreement
+- [ ] get renters insurance/email proof
+- [ ] pay lease rent/deposit
+- [ ] move electricty
+- [ ] move spectrum
+- [ ] confirm free month = december
 
-1. go over summary of charges:
-    - what is admin fee for?
-    - what is admin deposit for?
-    - which fees are refundable?
-2. what's the latest move in date possible, 
-3. Is the free month applied in december since november prorated rent is due at move in
+## ADDRESS ##
+--------------
+401 West 39th # 203, Austin Tx, 78751
 
-apartment application: xJaLofYIxj6G0y
+## MOVE-IN ##
+--------------
+prorated = +705.50
+deposit = +800.00
+1/4 deposit = -100.00
+waved app/admin = -300.00
+>> TOTAL = 1105.50
 
 ## ADMIN FEES ##
 -----------------
-app/admin waved = 150 + 75
+app/admin waved = 150 + 75 + 75 (Kova)
 1/4 of depoist = 100

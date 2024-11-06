@@ -1,3 +1,7 @@
+harden firefox
+obsidian readme
+read plaintext articles
+look up GTD articles
 try crest whitening trays
 therapy letter +dad-forgivness
 increase linux disk space from windows
@@ -11,6 +15,7 @@ transfer payment to CC +renzo +spotify +spectrum +betterhelp
 set up auto drafts on student loan payments due:11-24
 set up searxng
 change debian to centOS for server OS
+try syncthing
 set up next cloud instace to replace Dropbox +buy-domain
 write budget @student-loans
 write footwork for workout
@@ -20,6 +25,10 @@ make bridge network in virt manager
 make IAM swap the root creds for those in terraform project
 delete root user access key
 write guitar routine
+    -focus on:
+	relearn theory by
+	learn scales in c multiple positions
+	learb chords in c multiple positions
 write 3x yoga routine
 add footwork/ladder drills to grapple/box
 fix assualt bike arm

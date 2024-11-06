@@ -1,5 +1,6 @@
+leanne spreadsheet
 go through tasks.todo.txt
-consolidate month notes
+go through 23-24 notes
 change apple store card @debit-card
 check UPT
 (A) call darla
@@ -20,14 +21,13 @@ rework schedule
     - change lift to before jiu jitsu
 fix zwee script to not shut off
 start new 'spending'
-read plaintext articles
-look up GTD articles
+get the stranger @half-priced-books
 fix review mirror
 make fiat servie appointment
 change hvac filter
 replace fiat tire
 wyatt flore tickets due:11-14
-garth brook flights due:11-28
+garth brook flights due:11-28 +marcus-transfer
 wyatt flores hotel due:12-5
 bright eyes situation due:1-9
 find new therapist
@@ -42,4 +42,3 @@ go through productivity note
 look into online school
 schedule physical
 explore central market
-harden firefox
