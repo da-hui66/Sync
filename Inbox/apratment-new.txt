@@ -6,6 +6,7 @@
 - [ ] move electricty
 - [ ] move spectrum
 - [ ] confirm free month = december
+- [ ] make sure app/admin are applied
 
 ## ADDRESS ##
 --------------
@@ -23,3 +24,9 @@ waved app/admin = -300.00
 -----------------
 app/admin waved = 150 + 75 + 75 (Kova)
 1/4 of depoist = 100
+
+## COSTS ##
+-----------
+base rent = 1245
+trash = 15
+pest = 10

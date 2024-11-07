@@ -5,3 +5,8 @@ carrot cake
 ## FAVORITES ##
 ---------------
 movie: a rainy day in new york
+
+## SPENDING ##
+---------------
+$$ gas to come
+$ 900 rent
