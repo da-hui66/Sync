@@ -1,3 +1,5 @@
+call cleaning company for quote
+replace lightbulbs/hvac
 (A) call darla
 schedule haircut
 write kaya letter
@@ -19,7 +21,6 @@ make fiat servie appointment
 change hvac filter
 replace fiat tire
 wyatt flore tickets due:11-14
-garth brook flights due:11-28 +marcus-transfer
 wyatt flores hotel due:12-5
 vegas flights due:1-1
 vegas uhaul or rental car due:1-1
