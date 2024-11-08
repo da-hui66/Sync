@@ -9,6 +9,7 @@ check UPT
 plan jiujitsu +rember-zen-planner
 plan studying
 file vscode notes +inbox +action +etc.
+wyatt flores tickets
 
 ## MARCUS ## 
 -----------
