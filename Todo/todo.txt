@@ -1,10 +1,5 @@
-figure out books placement
-x 2024-11-07 sign new lease
-review move out paperwork
 look at plane tickets
-marcus transfer
-move album playlists to album saves
-BN squash research
+marcus transfer +leanne +apartment +flights
 leanne money/spreadsheet
 go through tasks.todo.txt
 go through 23-24 notes
@@ -13,6 +8,12 @@ check UPT
 plan jiujitsu +rember-zen-planner
 plan studying
 file vscode notes +inbox +action +etc.
+
+## MARCUS ## 
+-----------
+leanne
+apartment
+flights
 
 ## WORKOUT ##
 -------------
