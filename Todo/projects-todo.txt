@@ -1,5 +1,6 @@
 harden firefox
 obsidian readme
+read working copy welcome
 read plaintext articles
 look up GTD articles
 try crest whitening trays

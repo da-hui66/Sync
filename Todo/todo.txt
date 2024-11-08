@@ -1,12 +1,25 @@
-cook beef
-shave
-figure out books placement
-schedule marcus transfer for new rent
-shop for headphones
-send Ian email
-    - first month rent not in portal
-    - $75 dollar difference in breakdown
-    - lease dosent match break down
+work cases
+x 2024-11-08 look at plane tickets
+marcus transfer +leanne +apartment +flights
+leanne spreadsheet
+go through tasks.todo.txt
+go through 23-24 notes
+change apple store card @debit-card
+check UPT
+plan jiujitsu +rember-zen-planner
+plan studying
+file vscode notes +inbox +action +etc.
+wyatt flores tickets
+
+## MARCUS ## 
+-----------
+leanne = 500 + ?
+apartment = 
+flights = 775
+
+## WORKOUT ##
+-------------
+2/4/1/3
 
 ## DAILY ##
 -----------
