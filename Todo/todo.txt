@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+work cases
+figure out books placement
+x 2024-11-07 sign new lease
+review move out paperwork
+>>>>>>> e7f25ed4a6a77351317405c553db348cb61d028d
 look at plane tickets
 marcus transfer +leanne +apartment +flights
 leanne money/spreadsheet
