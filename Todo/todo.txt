@@ -1,14 +1,12 @@
 work cases
-x 2024-11-08 marcus transfer +leanne +apartment +flights
-leanne spreadsheet
 go through tasks.todo.txt
 go through 23-24 notes
-change apple store card @debit-card
-check UPT
-plan jiujitsu +rember-zen-planner
+plan jiujitsu 
+set zen planner reminders for class
 plan studying
 file vscode notes +inbox +action +etc.
 wyatt flores tickets
+leanne spreadsheet
 
 
 ## WORKOUT ##
