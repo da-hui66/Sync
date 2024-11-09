@@ -1,3 +1,4 @@
+look into online school
 harden firefox
 obsidian readme
 read working copy welcome
@@ -16,7 +17,6 @@ transfer payment to CC +renzo +spotify +spectrum +betterhelp
 set up auto drafts on student loan payments due:11-24
 set up searxng
 change debian to centOS for server OS
-try syncthing
 set up next cloud instace to replace Dropbox +buy-domain
 write budget @student-loans
 write footwork for workout
@@ -39,7 +39,7 @@ transfer credentials to bit warden
 remove done-date from todo extension in codium
 turn off auto complete in codium
 plan/budget slist
-set auto-withdrawls for +savings +tattoos +slist-fund
+set auto-withdrawls for +savings +car +tattoos +slist-fund
 rework resume
 plan certs q2/personal
 Anki python tutorial

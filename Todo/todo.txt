@@ -1,12 +1,23 @@
 work cases
+clean shower
+sweep/mop
+make dry chili salsa
 go through tasks.todo.txt
 go through 23-24 notes
+file vscode notes +inbox +action +etc.
+break down slist
+go through projects.todo
+go through productivity note
+move local Notes directory to Obsidian
+find new home for spending/bills-tracking
 plan jiujitsu 
 set zen planner reminders for class
 plan studying
-file vscode notes +inbox +action +etc.
-wyatt flores tickets
-leanne spreadsheet
+jabra active 8 gen1 review
+jbl live free 2 review
+try syncthing
+set up cloud instead of git
+
 
 
 ## WORKOUT ##
