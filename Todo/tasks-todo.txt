@@ -1,8 +1,7 @@
 call cleaning company for quote
-set up new electricty
-set up new spectrum
-(A) pay rental fees
-(A) get rental insurance
+move spectrum
+cancel old electric due:11-30
+
 leanne spreadsheet
 replace lightbulbs/hvac
 (C) call darla
@@ -25,7 +24,6 @@ fix review mirror
 make fiat servie appointment
 change hvac filter
 replace fiat tire
-(A) wyatt flores tickets due:11-14
 (B) wyatt flores hotel due:12-5
 (C) vegas flights due:1-1
 (C) vegas uhaul or rental car due:1-1

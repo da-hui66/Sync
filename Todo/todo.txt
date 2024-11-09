@@ -1,4 +1,6 @@
+laundry
 work cases
+(A) get rental insurance
 clean shower
 sweep/mop
 make dry chili salsa
@@ -17,7 +19,8 @@ jabra active 8 gen1 review
 jbl live free 2 review
 try syncthing
 set up cloud instead of git
-
+wyatt flores tickets
+(A) pay rental fees
 
 
 ## WORKOUT ##

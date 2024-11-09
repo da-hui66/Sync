@@ -1,16 +1,18 @@
 ## TO-DO ##
 ------------
-- [ ] sign lease agreement
+- [x] sign lease agreement
 - [ ] get renters insurance/email proof
 - [ ] pay lease rent/deposit
-- [ ] move electricty
+- [ ] start new electricty
+- [x] cancel old electricty
+- [ ] change of address
 - [ ] move spectrum
 - [ ] confirm free month = december
-- [ ] make sure app/admin are applied
+- [ ] make sure app+kova/admin/ are applied
 
 ## ADDRESS ##
 --------------
-401 West 39th # 203, Austin Tx, 78751
+401 W 39th St # 203, Austin Tx, 78751
 
 ## MOVE-IN ##
 --------------
