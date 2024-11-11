@@ -1,8 +1,13 @@
 laundry
-(A) get rental insurance
-clean shower
-sweep/mop
+shave/nails
+cook beef
 make dry chili salsa
+(A) get rental insurance
+(A) pay rental fees
+call cleaning company for quote
+move spectrum
+(C) call darla
+clean shower
 go through tasks.todo.txt
 go through 23-24 notes
 file vscode notes +inbox +action +etc.
@@ -19,7 +24,6 @@ jbl live free 2 review
 try syncthing
 set up cloud instead of git
 wyatt flores tickets
-(A) pay rental fees
 
 
 ## WORKOUT ##
