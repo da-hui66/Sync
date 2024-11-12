@@ -15,3 +15,7 @@ portabke vaporize is better than desktop vaporizer
 use linx instead of desktop vaporizer?
 
 upgrde stash jar
+
+use nvim instead of vscode?
+
+look at ACC
