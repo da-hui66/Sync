@@ -1,6 +1,7 @@
 shave/nails
-cook beef due:11-12
+finish beef due:11-12
 make salsa due:11-12
+make guac due:11-12
 make dry chili salsa due:11-12
 (A) get rental insurance
 (A) pay rental fees
