@@ -15,5 +15,5 @@
 ## BRIGHT EYES ##
 ------------------
 - [ ] change tickets
-- get ticket next to mine?
-- sell previous/get new?
+    - get ticket next to mine?
+    - sell previous/get new?

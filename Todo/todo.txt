@@ -1,12 +1,13 @@
-laundry
+x 2024-11-11 laundry
+x (C) 2024-11-12 pay toll due:11-1
 shave/nails
-cook beef
-make dry chili salsa
+cook beef due:11-12
+make salsa due:11-12
+make dry chili salsa due:11-12
 (A) get rental insurance
 (A) pay rental fees
 call cleaning company for quote
 move spectrum
-(C) call darla
 clean shower
 go through tasks.todo.txt
 go through 23-24 notes
