@@ -2,13 +2,13 @@
 ------------
 - [x] sign lease agreement
 - [ ] get renters insurance/email proof
-- [ ] pay lease rent/deposit
-- [ ] start new electricty
-- [x] cancel old electricty
+- [x] pay lease rent/deposit
+- [x] start new electricty
+- [ ] cancel old electricty
 - [ ] change of address
 - [ ] move spectrum
 - [ ] confirm free month = december
-- [ ] make sure app+kova/admin/ are applied
+- [ ] make sure kova-app applied
 
 ## ADDRESS ##
 --------------

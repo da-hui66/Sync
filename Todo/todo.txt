@@ -1,9 +1,11 @@
+x 2024-11-11 laundry
+x (C) 2024-11-12 pay toll due:11-1
 shave/nails
-cook beef due:11-12
+x 2024-11-12 cook beef due:11-12
 make salsa due:11-12
 make dry chili salsa due:11-12
 (A) get rental insurance
-(A) pay rental fees
+x (A) 2024-11-12 pay rental fees
 call cleaning company for quote
 move spectrum
 clean shower
