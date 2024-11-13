@@ -19,3 +19,5 @@ upgrde stash jar
 use nvim instead of vscode?
 
 look at ACC
+
+pax charging dock?

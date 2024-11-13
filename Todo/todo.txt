@@ -1,8 +1,13 @@
 x 2024-11-11 laundry
 x (C) 2024-11-12 pay toll due:11-1
 shave/nails
+<<<<<<< HEAD
 x 2024-11-12 cook beef due:11-12
+=======
+finish beef due:11-12
+>>>>>>> ba37f9fab04339299af29820acdc47be9f0e8d20
 make salsa due:11-12
+make guac due:11-12
 make dry chili salsa due:11-12
 (A) get rental insurance
 x (A) 2024-11-12 pay rental fees
