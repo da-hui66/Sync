@@ -1,11 +1,15 @@
-(C) call darla
 move spectrum
 call cleaning company for quote due:11-22 
 cancel old electric due:11-22
+go through 23-24 notes
+file vscode notes +inbox +action +etc.
+break down slist
+go through projects.todo
+go through productivity note
+find new home for spending/bills-tracking
 leanne spreadsheet
 replace lightbulbs/hvac
 figure out CC replayment strategy
-schedule haircut
 write kaya letter
 watch recent FPI
 watch recent enigma
@@ -26,11 +30,14 @@ replace fiat tire
 (B) wyatt flores hotel due:12-5
 (C) vegas flights due:1-1
 (C) vegas uhaul or rental car due:1-1
-edibles in NV
 (C) bright eyes situation due:1-9
+edibles in NV
 find new therapist
 shop for cheap bluetooth earbuds
 get HDMI to usbC
 clean retainers
 schedule physical
 explore central market
+look at ACC
+try syncthing
+set up cloud instead of git

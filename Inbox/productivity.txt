@@ -1,7 +1,7 @@
 - [ ] test working copy with pdf/images
 - [ ]move static files from repository to local storage
 - [ ] set calendar reminder for backup +frequency?
-- [ ] set alias for obsidian access
+- [x] set alias for obsidian access
 - [ ] start obsidian repository
 
 
@@ -34,3 +34,4 @@ long notes = vscode
 drive = working copy/dropbox
 office = libre
 obsidian = course learning
+

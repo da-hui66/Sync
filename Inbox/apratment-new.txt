@@ -9,6 +9,7 @@
 - [ ] move spectrum
 - [ ] confirm free month = december
 - [ ] make sure kova-app applied
+- [ ] confrim new electric is enrolled in auto pay
 
 ## ADDRESS ##
 --------------
