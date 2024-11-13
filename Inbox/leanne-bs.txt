@@ -2,16 +2,9 @@
 --------
 545 
 
-- this should be discounted since not going
-- this is essentially throwing money in the trash
-
 ## ZB ##
 --------
-448 x 3 = 1344
-- brother = 250
-- 2nd ticket = 448
--------------------
-646/3 = 216
+448 
 
 ## HOTELS ##
 ------------
@@ -19,4 +12,8 @@ denton = 182
 whichita falls = 82
 temple = 125
 
-- half of each of these
+## TOTAL ##
+-----------
+1382
+
+- 500 = 882
