@@ -3,6 +3,7 @@
 - [ ] set calendar reminder for backup +frequency?
 - [x] set alias for obsidian access
 - [x] start obsidian repository
+- [ ] write git script for obsidian
 
 
 
