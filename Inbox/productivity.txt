@@ -2,7 +2,7 @@
 - [ ]move static files from repository to local storage
 - [ ] set calendar reminder for backup +frequency?
 - [x] set alias for obsidian access
-- [ ] start obsidian repository
+- [x] start obsidian repository
 
 
 
@@ -26,6 +26,7 @@ how to strcuture todos
     - add todo.txt to tasks.todo.txt?
     - change today.todo.txt to todo.txt?
 make own kodex repository?
+obsidian terminal/git integration
 
 ## TEMPLATE ##
 ---------------
