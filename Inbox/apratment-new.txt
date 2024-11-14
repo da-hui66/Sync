@@ -1,15 +1,17 @@
 ## TO-DO ##
 ------------
 - [x] sign lease agreement
-- [ ] get renters insurance/email proof
+- [x] get renters insurance/email proof
 - [x] pay lease rent/deposit
 - [x] start new electricty
-- [ ] cancel old electricty
-- [ ] change of address
-- [ ] move spectrum
-- [ ] confirm free month = december
-- [ ] make sure kova-app applied
-- [ ] confrim new electric is enrolled in auto pay
+    - [] confrim new electric enrolled in auto pay
+- [x] cancel old electricty
+    - [] confirm cancelation due:12-2
+- [] change of address
+- [] change CCs/Wells to new address
+- [] move spectrum
+- [] confirm free month = december
+- [] make sure kova-app applied
 
 ## ADDRESS ##
 --------------
@@ -20,8 +22,8 @@
 prorated = +705.50
 deposit = +800.00
 1/4 deposit = -100.00
-waved app/admin = -300.00
->> TOTAL = 1105.50
+waved app/admin = -225.00
+TOTAL = 1180.50
 
 ## ADMIN FEES ##
 -----------------

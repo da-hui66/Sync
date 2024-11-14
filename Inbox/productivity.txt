@@ -1,6 +1,6 @@
 - [ ] test working copy with pdf/images
 - [ ]move static files from repository to local storage
-- [ ] set calendar reminder for backup +frequency?
+- [ ] set calendar reminder for local backup to external +frequency?
 - [x] set alias for obsidian access
 - [x] start obsidian repository
 - [ ] write git script for obsidian

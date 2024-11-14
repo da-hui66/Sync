@@ -4,8 +4,8 @@ obsidian readme
 read working copy welcome
 read plaintext articles
 look up GTD articles
+obsidian tutorial
 try crest whitening trays
-therapy letter +dad-forgivness
 increase linux disk space from windows
 get proton mobile apps +calendar +mail
 forward email to proton
@@ -26,10 +26,10 @@ make bridge network in virt manager
 make IAM swap the root creds for those in terraform project
 delete root user access key
 write guitar routine
-    -focus on:
-	relearn theory by
-	learn scales in c multiple positions
-	learb chords in c multiple positions
+    +focus-on:
+	- relearn theory by
+	- learn scales in c multiple positions
+	- learb chords in c multiple positions
 write 3x yoga routine
 add footwork/ladder drills to grapple/box
 fix assualt bike arm
@@ -43,7 +43,7 @@ set auto-withdrawls for +savings +car +tattoos +slist-fund
 rework resume
 plan certs q2/personal
 Anki python tutorial
-generate unique passwords/usernames for creds in bitwarden
+generate unique passwords/usernames(aliases) for creds in bitwarden
 transfer email logins to proton mail
 get enigma subscription
 work though browser links

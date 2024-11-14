@@ -1,13 +1,13 @@
-plan jiujitsu 
-set zen planner reminders for class
 plan studying
-jabra active 8 gen1 review
-jbl live free 2 review
 move spectrum
+change of address
+change address for CCs/wells
 call cleaning company for quote due:11-22 
-cancel old electric due:11-22
+change hvac filter
+replace lightbulbs
 go through 23-24 notes
 file vscode notes +inbox +action +etc.
+therapy letter +dad-forgivness
 break down slist
 go through projects.todo
 go through productivity note
@@ -30,7 +30,6 @@ start new 'spending'
 get the stranger @half-priced-books
 fix review mirror
 make fiat servie appointment
-change hvac filter
 replace fiat tire
 (B) wyatt flores hotel due:12-5
 (C) vegas flights due:1-1
@@ -46,3 +45,4 @@ explore central market
 look at ACC
 try syncthing
 set up cloud instead of git
+set up obsidian git
