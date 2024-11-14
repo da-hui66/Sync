@@ -1,3 +1,5 @@
+work cases
+move spectrum
 go through tasks.todo.txt
 schedule therapy
 read haircut articles
