@@ -1,0 +1,9 @@
+kaya += yeti/straw
+
+file free code camp directory
+
+file linux directory to links/freecodecamp
+
+extract fileable from links directory
+
+priroity buy += heavy bag stand
