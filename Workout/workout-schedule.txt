@@ -1,5 +1,6 @@
 ** lift in the morning - run daily after work before jitz
 
+temp-schedule 1/2/3/1/2/4
 schedule = 1/3/2/4
 
 

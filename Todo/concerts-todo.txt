@@ -8,12 +8,12 @@
 
 ## WYATT FLORES 12/27 ##
 ------------------------
-- [ ] tickets due:11-14
-- [ ] hotel due:12-16
-- [ ] coopers BBQ due:12-27 @11:00
+- [x] tickets due:11-14
+- [] hotel due:12-16
+- [] coopers BBQ due:12-27 @11:00
 
 ## BRIGHT EYES ##
 ------------------
-- [ ] change tickets
-    - get ticket next to mine?
-    - sell previous/get new?
+- [] change tickets
+    > get ticket next to mine?
+    > sell previous/get new?
