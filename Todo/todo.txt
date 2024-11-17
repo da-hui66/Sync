@@ -1,13 +1,6 @@
 conditions form
 grocery list
 
-read haircut articles
-move spectrum
-schedule therapy
-go through tasks.todo.txt
-plan jiujitsu 
-set zen planner reminders for class
-
 
 ## WORKOUT ##
 -------------
