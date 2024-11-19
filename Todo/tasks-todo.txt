@@ -1,5 +1,5 @@
-schedule therapy
-change hvac filter
+schedule therapy due:11-29
+change hvac filter due:11-29
 replace lightbulbs
 go through tasks.todo.txt
 find affirmations
@@ -7,7 +7,7 @@ jabra active 8 gen1 review
 jbl live free 2 review
 plan studying
 go through 23-24 notes
-file vscode notes +inbox +action +etc.
+file vscode notes +inbox +action +etc
 therapy letter +dad-forgivness
 break down slist
 go through projects.todo
