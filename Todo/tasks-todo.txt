@@ -1,3 +1,6 @@
+plan jiujitsu 
+set calendar for zen planner reminders
+kaya christmas
 schedule therapy due:11-29
 change hvac filter due:11-29
 replace lightbulbs
@@ -8,8 +11,10 @@ jbl live free 2 review
 plan studying
 go through 23-24 notes
 file vscode notes +inbox +action +etc
+try soundlink via usbc audio
 therapy letter +dad-forgivness
 break down slist
+schedule haircut feburary
 go through projects.todo
 go through productivity note
 find new home for spending/bills-tracking
@@ -47,3 +52,8 @@ look at ACC
 try syncthing
 set up cloud instead of git
 set up obsidian git
+replace laptop battery (how to test?)
+move laundry to new day
+move groceres to new day
+plan beef/salsa days
+schedule todo time on schedule +reoccuring-weeklys
