@@ -1,0 +1,3 @@
+move tolitries to 2x smaller bins
+
+move stationary to new location, only keep finished journals with books
