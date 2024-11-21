@@ -1,7 +1,9 @@
-look into online school
-check out nothing phone/headphones
+look at ACC or online school
+play with anki/ankiweb +google-docs-integration
+try syncthing
 harden firefox
 obsidian readme
+explore pine phone/purism librem
 read working copy welcome
 read plaintext articles
 look up GTD articles

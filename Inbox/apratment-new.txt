@@ -9,7 +9,7 @@
     - [] confirm cancelation due:12-2
 - [] change of address
 - [] change CCs/Wells to new address
-- [] move spectrum
+- [x] move spectrum
 - [] confirm free month = december
 - [] make sure kova-app applied
 
