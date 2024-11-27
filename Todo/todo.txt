@@ -1,3 +1,4 @@
+call COA about 2nd bill due:11-27
 thanks giving sides 2x +groceries
 fix house
 shave/nails/trim
@@ -5,7 +6,6 @@ change of address
 change address for CCs/wells
 air tires
 guacamole salsa recipie
-
-replace lightbulbs due:11-29
-change hvac filter due:11-29
-key drop due:11-29
+replace lightbulbs due:11-30
+change hvac filter due:11-30
+key drop due:11-30
