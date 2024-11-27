@@ -35,3 +35,4 @@ shampoo
 conditioer
 lysol spray
 matches
+body soap

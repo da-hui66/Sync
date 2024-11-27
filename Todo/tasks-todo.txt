@@ -1,6 +1,5 @@
-replace lightbulbs due:11-29
-change hvac filter due:11-29
-key drop due:11-29
+
+code read car
 schedule therapy
 rework schedule
     - add time for todo +reoccuring/weeklys
