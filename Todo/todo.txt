@@ -1,12 +1,14 @@
-prep lisr
 call COA about 2nd bill due:11-27
-thanks giving sides +drop
+change of address due:11-27
+thanks giving sides due:11-27
+thanks giving sides +drop due:11-27
+code read car 11-28
 fix house
 shave/nails/trim
-change of address
 change address for CCs/wells
 air tires
 replace lightbulbs due:11-30
 change hvac filter due:11-30
 key drop due:11-30
 buy house shit
+schedule therapy

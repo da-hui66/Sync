@@ -1,5 +1,4 @@
-code read car
-schedule therapy
+(A) kaya christmas
 rework schedule
     - add time for todo +reoccuring/weeklys
         - move laundry to new day
@@ -9,7 +8,6 @@ rework schedule
     - schedule run +weekdays/weekends
     - schedule lifting +weekdays/weekends
 set calendar for zen planner reminders
-(A) kaya christmas
 make copy of key to run with
 go through tasks.todo.txt
 find affirmations
