@@ -1,17 +1,12 @@
-call COA about 2nd bill due:11-27
-get sink screen
-change of address due:11-27
-thanks giving sides due:11-27
-thanks giving sides +drop due:11-27
-code read car 11-28
+change of address due:11-28
+change address for CCs/wells due:11-28
+buy house stuff due:11-28
+code read car due:11-28
 salsa/guac
 fix house +gym +desk
-shave/nails/trim
-change address for CCs/wells
 air tires
-replace lightbulbs due:11-30
-change hvac filter due:11-30
+replace lightbulbs due:11-29
+change hvac filter due:11-29
+take box to spectrum due:11-29
 key drop due:11-30
-take box to spectrum due:11-30
-buy house shit
 schedule therapy

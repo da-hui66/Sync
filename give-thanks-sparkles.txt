@@ -16,6 +16,7 @@
 [] 13. bake loaf
 [] 14. make glaze
 [] 15. finish loaf w/ glaze
+[] 16. slice loaf
 
 # LOAF GLAZE #
 --------------
@@ -63,7 +64,9 @@
 [] 18. chop dill
 [] 19. mix in dill/chevre
 [] 20. make vingerette
-[] 21. mix salad/vinagarette due:11/28
+[] 21. dress beets separately
+[] 22. mix salad/vinagarette
+[] 23. fold beets into salad
 
 # SHERRY/TARRAGON-VINGERETTE #
 ------------------------------
