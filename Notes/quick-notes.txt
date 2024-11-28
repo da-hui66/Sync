@@ -69,3 +69,5 @@ liquid measuring cup
 headband at home/hat outside
 
 phone clip
+
+run nextcloud as webserver docker image
