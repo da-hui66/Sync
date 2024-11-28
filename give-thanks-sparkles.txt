@@ -1,0 +1,86 @@
+=====================
+## MUSH/BEEF-LOAF ##
+=====================
+[x] 1. defrost beef
+[x] 2. peel garlic
+[] 3. mince garlic
+[x] 4. pick sage/rose/thyme
+[] 5. chop herbs
+[] 6. roast mush w/ garlic+herbs
+[] 7. chop onion/carrot/celery
+[] 8. rst veg w/ garlic+herbs
+[] 9. spin veg
+[] 10. mix beef with veg
+[] 11. male egg mix
+[] 12. mix in panko
+[] 13. bake loaf
+[] 14. make glaze
+[] 15. finish loaf w/ glaze
+
+# LOAF GLAZE #
+--------------
+3/4c cat soup
+1/4c brown sug
+1/2c ACV
+
+=======================
+## BRUSSEL-GRATIN ##
+=======================
+[x] 1. peel garlic (2 clove for vinagerette)
+[x] 2. peel shallot (1 each for vinagerette)
+[x] 3. trim/cut brussels
+[] 4. roast brussels w/ garlic
+[] 5. reduce cream with herb+bayleaf
+[] 6. roast shallot
+[] 7. render bacon
+[] 8. season cream redux w/ dijon
+[] 9. toast bread crumb
+[] 10. grate chees
+[] 11. mix brussel/bacon/redux
+[] 12. mix in cheese
+[] 13. bake to set
+[] 14. finish with bread crumbs
+
+=============================
+## BEET/CARROT-SALAD ##
+=============================
+[] 1. cut apples
+[] 2. pickel apples
+[] 3. cut fennel
+[] 4. roast fennel
+[] 5. blanch kale
+[] 6. braise beets
+[] 7. peel carrots
+[] 8. cut carrots
+[] 9. roast carrots
+[] 10. peel beets
+[] 11. cut beets
+[] 12. toast pecans + honey glaze
+[] 13. mix veg
+[] 14. mix in cranberries/pecans
+[] 15. mix in apples
+[] 17. pick dill
+[] 18. chop dill
+[] 19. mix in dill/chevre
+[] 20. make vingerette
+[] 21. mix salad/vinagarette due:11/28
+
+# SHERRY/TARRAGON-VINGERETTE #
+------------------------------
+1.5tbl sherry vin
+1.5tbl tarragon vin
+1 tbl water
+2 tsp dijon
+3/4c evoo
+salt/bp
+1 each shallot
+2 clove garlic
+
+
+# PICKLE BRINE #
+-----------------
+1/2c sherry vin
+1/2c taragon vin
+1c water
+25g boogah suga
+4g salt
