@@ -71,3 +71,7 @@ headband at home/hat outside
 phone clip
 
 run nextcloud as webserver docker image
+
+learb java script
+
+learn about using llama LLM
