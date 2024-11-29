@@ -1,5 +1,5 @@
 (A) kaya christmas
-rework schedule
+rework schedule due:12-2
     - add time for todo +reoccuring/weeklys
         - move laundry to new day
         - move groceres to new day
@@ -7,7 +7,9 @@ rework schedule
     - add time for study
     - schedule run +weekdays/weekends
     - schedule lifting +weekdays/weekends
-set calendar for zen planner reminders
+set calendar for zen planner reminders @jiujitsu
+look into gathering of nations
+wedding/graduation plans
 make copy of key to run with
 go through tasks.todo.txt
 find affirmations
@@ -32,7 +34,7 @@ rework quicknote script
 fix zwee script to not shut off
 start new 'spending'
 get the stranger @half-priced-books
-fix review mirror
+fix review mirror +install-dream-catcher
 make fiat servie appointment
 replace fiat tire
 (B) wyatt flores hotel due:12-5
