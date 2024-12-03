@@ -1,12 +1,4 @@
 (A) kaya christmas
-rework schedule due:12-2
-    - add time for todo +reoccuring/weeklys
-        - move laundry to new day
-        - move groceres to new day
-        - plan beef/salsa days
-    - add time for study
-    - schedule run +weekdays/weekends
-    - schedule lifting +weekdays/weekends
 set calendar for zen planner reminders @jiujitsu
 look into gathering of nations
 wedding/graduation plans

@@ -7,11 +7,11 @@
     - [] confrim new electric enrolled in auto pay
 - [x] cancel old electricty
     - [] confirm cancelation due:12-2
-- [] change of address
+- [x] change of address
 - [] change CCs/Wells to new address
 - [x] move spectrum
-- [] confirm free month = december
-- [] make sure kova-app applied
+- [x] confirm free month = december
+- [x] make sure kova-app applied
 
 ## ADDRESS ##
 --------------
