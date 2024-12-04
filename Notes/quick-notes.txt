@@ -1,0 +1,27 @@
+mint container for edibles
+
+focus on repaying venture (pay higher than minimum)
+	- pay quicksilver minimum unitl venture paid off
+
+focus only on work during work day
+
+obsidian productivity plugins
+
+focus study time: sre training, IDP
+
+put reoccuring in reminders app/put deadline dates on calendar
+
+use basic timer for pomodoro technique
+
+if cannot hack at WF, look up tutorial on freecodecamp
+
+if cannot figure out functional grappling routine for home, do extended boxing routine
+
+need to drop mondays at wholefoods eventually to use the day for groceries/laundry/chores/todo
+
+move files that are not actively working to obsidian
+	- limit number of directories/files in Sync
+
+kanban osidian plugin
+
+todo.txt obsidian plugin

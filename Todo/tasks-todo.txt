@@ -51,3 +51,4 @@ back up files to external
 make WNO 23/24 listing
 make ADCC listing
 make CJI listing
+extract letters from kaya messages
