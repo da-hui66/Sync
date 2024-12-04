@@ -1,0 +1,26 @@
+- [] add to reminder reoccuring:
+    >> weeklys
+    - [] laundry
+    - [] groceres
+    - [] plan beef/salsa days
+    - [] cleaning
+    - [] consolidate quick notes
+    - [] shave/nails/trim
+-----------------------------------
+- [] define fasting window
+- [] figure out when to eat: breakfast, lunch, dinner
+- [] define morning routine
+- [] define bedtime routine
+
+
+## CLEAN ##
+------------
+bathroom: mirror, sink, toliet, shower, floors
+main/office: floors
+kitchen: stove, fridge, counters, sink, floors
+
+## MORNING ROUTINE ##
+---------------------
+
+## EVENING ROUTINE ##
+----------------------

@@ -1,8 +1,9 @@
 (A) kaya christmas
-set calendar for zen planner reminders @jiujitsu
+(B) nginx runbook
 look into gathering of nations
 wedding/graduation plans
 make copy of key to run with
+write footwork for workout
 go through tasks.todo.txt
 find affirmations
 go through 23-24 notes
@@ -25,7 +26,7 @@ get rental voucher from email
 rework quicknote script
 fix zwee script to not shut off
 start new 'spending'
-get the stranger @half-priced-books
+get the stranger from library
 fix review mirror +install-dream-catcher
 make fiat servie appointment
 replace fiat tire

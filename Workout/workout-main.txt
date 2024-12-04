@@ -45,16 +45,20 @@ ab wheel
 
 ## RUN ##
 ---------
-8x hill runs
+hill run
+non hill run
+
 
 ## JUMPROPE ##
 ------------
 intervals
 
+## FOOTWORK ##
+---------------
+
 ## ASSAULT BIKE ##
 ---------------
 8x 20s work/40s rest
-
 
 ## GRAPPLING ##
 -----------

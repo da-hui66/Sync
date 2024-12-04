@@ -1,12 +1,11 @@
 cardio
 workout
-handstrength
-vitamins
 training
-duolingo/code
+code
+tryhackme
 guitar
-read
-study
-yoga
+ET
 journal
+read
+yoga
 meditation

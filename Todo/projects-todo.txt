@@ -21,7 +21,6 @@ set up searxng
 change debian to centOS for server OS
 set up next cloud instace to replace Dropbox +buy-domain +run-as-container
 write budget @student-loans
-write footwork for workout
 write better solo grappling workout
 write cron job to auto update/upgrade applications
 make bridge network in virt manager

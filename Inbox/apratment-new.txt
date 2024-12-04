@@ -12,6 +12,7 @@
 - [x] move spectrum
 - [x] confirm free month = december
 - [x] make sure kova-app applied
+- [] confirm security deposit back
 
 ## ADDRESS ##
 --------------
