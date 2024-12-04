@@ -3,7 +3,7 @@
 look into gathering of nations
 wedding/graduation plans
 make copy of key to run with
-write footwork for workout
+write footwork for workout +incorporate-ladder?
 go through tasks.todo.txt
 find affirmations
 go through 23-24 notes
@@ -14,7 +14,6 @@ break down slist
 schedule haircut feburary
 go through projects.todo
 go through productivity note
-find new home for spending/bills-tracking
 leanne spreadsheet
 replace lightbulbs/hvac
 figure out CC replayment strategy
@@ -38,6 +37,18 @@ edibles in NV
 find new therapist
 clean retainers
 schedule physical
-set up cloud instead of git
-set up obsidian git
+set up obsidian git plugin 
 replace laptop battery (how to test?)
+write guitar routine for 30min (5min warmup x 25min session)
+    -focus-on:
+        - relearn theory by:
+            - learn scales in c multiple positions
+            - learn chords in c multiple positions
+        - reading music
+        - licks/improvisation
+        - repertoire
+write 4x yoga routine
+back up files to external
+make WNO 23/24 listing
+make ADCC listing
+make CJI listing

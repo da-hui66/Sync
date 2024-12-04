@@ -1,25 +1,104 @@
 ## TUE ##
 ----------
+5:30-6:00 cardio
 6:30-7:30 training
+8:00-9:00 to-do
+9:00-10:00 study
+10:00-10:30 guitar
+11:00-21:00 q2
+    13:00 journal ~10min
+    18:00 et ~5min
+    20:30 Code/Hack ~30min
+21:00-22:00 workout
+23:00-23:30 yoga/meditate
+23:30-24:00 read
 
 ## WED ##
 ----------
-6:30-7:30 training 
+5:30-6:00 cardio
+6:30-7:30 training
+8:00-9:00 to-do
+9:00-10:00 study
+10:00-10:30 guitar
+11:00-21:00 q2
+    13:00 journal ~10min
+    18:00 et ~5min
+    20:30 Code/Hack ~30min
+21:00-22:00 workout
+23:00-23:30 yoga/meditate
+23:30-24:00 read
 
 ## THU ##
 ----------
+5:30-6:00 cardio
 6:30-7:30 training 
+8:00-9:00 to-do
+9:00-10:00 study
+10:00-10:30 guitar
+11:00-21:00 q2
+    13:00 journal ~10min
+    18:00 et ~5min
+    20:30 Code/Hack ~30min
+21:00-22:00 workout
+23:00-23:30 yoga/meditate
+23:30-24:00 read
 
 ## FRI ##
 ----------
+5:30-6:00 cardio
 6:30-7:30 training 
+8:00-9:00 to-do
+9:00-10:00 study
+10:00-10:30 guitar
+11:00-21:00 q2
+    13:00 journal ~10min
+    18:00 et ~5min
+    20:30 code/hack ~30min
+21:00-22:00 workout
+23:00-23:30 yoga/meditate
+23:30-24:00 read
 
 ## SAT ##
 ----------
+5:30-6:00 cardio
+6:30-7:30 Workout
+8:00-9:00 to-do
+9:00-10:00 study
+10:00-10:30 guitar
+11:00-13:00 training
+13:00 journal ~10min
+14:00-23:00 wf
+    18:00 et ~5min
+    20:30 code/hack ~30min
+23:00-23:30 yoga/meditate
+23:30-24:00 read 
 
 ## SUN ##
 ----------
+5:30-6:00 cardio
+6:30-7:30 Workout
+8:00-9:00 to-do
+9:00-10:00 study
+10:00-10:30 guitar
+11:00-13:00 training
+13:00 journal ~10min
+14:00-23:00 wf
+    18:00 et ~5min
+    20:30 code/hack ~30min
+23:00-23:30 yoga/meditate
+23:30-24:00 read
 
 ## MON ##
 ----------
+5:30-6:00 cardio
 6:30-7:30 training 
+8:00-9:00 to-do
+9:00-10:00 study
+10:00-10:30 guitar
+11:00-12:00 Workout
+13:00 journal ~10min
+14:00-23:00 wf
+    18:00 et ~5min
+    20:30 code/hack ~30min
+23:00-23:30 yoga/meditate
+23:30-24:00 read

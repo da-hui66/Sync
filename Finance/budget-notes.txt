@@ -1,16 +1,14 @@
----
-Budget Ideas
-# track spending daliy -> weekly, until mothly is established
----
+track spending daliy, weekly, monthly
 
 # fixed (monthly)
 ---------
-1100 - Rent
+repayment>> (CCs/student loans)
+1245 - Rent
 300 - Renzo
-80 - Electric
+?? - Electric
+?? - Water
 76 - Internet
 ---------
-1556 =
 
 # variable (monthyl)
 ----------
@@ -21,6 +19,5 @@ xx - subscriptions
 # unaccounted
 -------------
 xx - misc spending (slist, food, etc) = budget needs defining
-xx - tuition (allocated from savings = budget allotment needs defining)
-
+xx - savings (tattoo, travel, car)
 

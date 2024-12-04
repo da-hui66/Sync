@@ -26,13 +26,6 @@ write cron job to auto update/upgrade applications
 make bridge network in virt manager
 make IAM swap the root creds for those in terraform project
 delete root user access key
-write guitar routine
-    +focus-on:
-	- relearn theory by
-	- learn scales in c multiple positions
-	- learb chords in c multiple positions
-write 3x yoga routine
-add footwork/ladder drills to grapple/box
 fix assualt bike arm
 read through AI chat
 transfer brave creds to bit warden

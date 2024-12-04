@@ -7,21 +7,32 @@ SEC+
 
 2. CompTIA Speciality
 ----------------------
-    # INFRA
-    --------
-        Linux+
-        Server+
-        Cloud+
-    #  SEC
-    --------
-        CYSA+
-        PenTest+
-        CASP+
+
+# INFRA #
+--------
+Linux+
+Server+
+Cloud+
+
+# SEC #
+--------
+CYSA+
+PenTest+
+CASP+
 
 3. Vendor
 ---------
-    # Microsoft
-    # Cisco
-    # Red Hat
-    # AWS
-    # Hasicorp
+
+# Microsoft
+-----------
+# Cisco
+-----------
+
+# Red Hat
+-----------
+
+# AWS
+-----------
+
+# Hasicorp
+-----------
