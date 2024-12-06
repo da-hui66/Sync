@@ -24,4 +24,14 @@ move files that are not actively working to obsidian
 
 kanban osidian plugin
 
-todo.txt obsidian plugin
+holder for sponges
+
+xdg-open /path-to-image
+
+apartment+= bigger britta
+
+mexican beef stew recipies
+	- how to tamales
+	- how to empanades
+
+soda stream
