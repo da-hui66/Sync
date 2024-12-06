@@ -8,4 +8,5 @@ buy jeans?
     +kaya-buy.txt
     +yoga-mem
     +pilates-mem
-    +wireless HDMI?
+    +wireless-HDMI?
+    +yeti?
