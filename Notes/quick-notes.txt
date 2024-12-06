@@ -22,16 +22,12 @@ need to drop mondays at wholefoods eventually to use the day for groceries/laund
 move files that are not actively working to obsidian
 	- limit number of directories/files in Sync
 
-kanban osidian plugin
+kanban obsidian plugin
 
-holder for sponges
+git obsidian plugin
 
 xdg-open /path-to-image
-
-apartment+= bigger britta
 
 mexican beef stew recipies
 	- how to tamales
 	- how to empanades
-
-soda stream
