@@ -26,8 +26,6 @@ kanban obsidian plugin
 
 git obsidian plugin
 
-xdg-open /path-to-image
-
 mexican beef stew recipies
 	- how to tamales
 	- how to empanades
