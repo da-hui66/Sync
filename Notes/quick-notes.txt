@@ -21,11 +21,7 @@ need to drop mondays at wholefoods eventually to use the day for groceries/laund
 
 move files that are not actively working to obsidian
 	- limit number of directories/files in Sync
-
-kanban obsidian plugin
-
-git obsidian plugin
-
+ 
 mexican beef stew recipies
 	- how to tamales
 	- how to empanades
@@ -35,3 +31,5 @@ switch to att for isp?
 good fellow shirts for work
 pair of theives for workout?
 true classic for casual
+
+put spending/schedule template in google docs?

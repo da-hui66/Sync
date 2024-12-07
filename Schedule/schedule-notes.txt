@@ -1,13 +1,14 @@
 - [] add to reminder reoccuring:
     # weeklys
-    - [] laundry -- on q2 day
-    - [] groceries -- on mon at todo time?
+    - [x] laundry -- on q2 day
+    - [x] groceries -- on mon at todo time?
     - [] plan beef/salsa days -- on q2 day, over 2 days
     - [] cleaning (split days: bathroom, kitchen, main)
-    - [] consolidate quick notes
-    - [] shave 3x
-    - [] nails 2x
+    - [x] consolidate quick notes
+    - [x] shave 3x
+    - [x] nails 2x
     - [] trim 1x
+    - [] therapy
 -----------------------------------
 - [] define fasting window
 - [] figure out when to eat: breakfast, lunch, dinner

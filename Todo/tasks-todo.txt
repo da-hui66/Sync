@@ -1,5 +1,6 @@
 (B) nginx runbook
 look into gathering of nations
+look into muscadine at red rocks @9-14-25
 wedding/graduation plans
 make copy of key to run with
 write footwork for workout +incorporate-ladder?
@@ -36,7 +37,7 @@ edibles in NV
 find new therapist
 clean retainers
 schedule physical
-set up obsidian git plugin 
+set up obsidian git +plugin +.git-ignore
 replace laptop battery (how to test?)
 write guitar routine for 30min (5min warmup x 25min session)
     -focus-on:

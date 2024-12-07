@@ -1,10 +1,10 @@
 shave
 nails
-utilities
 look into spectrum
-check deposit on lease
-figure out remaining reminders
 figure out remaining schedule todos
 schedule therapy
-send phone links/text-videos to email
+send phone links to email
 shop jacket
+
+## SCHEDULE/DAILY ##
+## SRE/IDP ##

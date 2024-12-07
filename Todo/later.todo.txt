@@ -1,6 +1,6 @@
-terf cases
-log cases
-nginx runbook
+terf cases due:12-9
+log cases due:12-9
+nginx runbook due:12-9
 buy house stuff
 buy pair of theives sweat stuff
 buy casual hoodie/sweat
