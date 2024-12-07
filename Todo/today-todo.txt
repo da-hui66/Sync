@@ -1,4 +1,6 @@
-laundry
+shave
+utilities
+look into spectrum
 figure out remaining reminders
 figure out remaining schedule todos
 schedule therapy
