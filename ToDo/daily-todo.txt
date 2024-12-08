@@ -1,0 +1,11 @@
+[] cardio
+[] workout
+[] training
+[] code
+[] tryhackme
+[] guitar
+[] ET
+[] journal
+[] read
+[] yoga
+[] meditation
