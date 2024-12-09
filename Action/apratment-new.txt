@@ -1,5 +1,3 @@
-## TO-DO ##
-------------
 - [x] sign lease agreement
 - [x] get renters insurance/email proof
 - [x] pay lease rent/deposit
@@ -12,4 +10,4 @@
 - [x] move spectrum
 - [x] confirm free month = december
 - [x] make sure kova-app applied
-- [] confirm security deposit bac
+- [] confirm security deposit back
