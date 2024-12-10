@@ -36,3 +36,6 @@ long notes = vscode
 drive = working copy/dropbox
 office = libre
 obsidian = course learning
+---------------------------
+use basic timer for pomodoro technique
+focus only on work during work day

@@ -95,7 +95,7 @@
 8:00-9:00 to-do
 9:00-10:00 study
 10:00-10:30 guitar
-11:00-12:00 Workout
+11:00-12:00 workout
 13:00 journal ~10min
 14:00-23:00 wf
     18:00 et ~5min

@@ -1,0 +1,37 @@
+email aliasing
+
+use gmail for non sensitive stuff
+use proton for main sensitive stuff
+
+
+
+keepass password manger
+simple login emial aliasing
+addy.io email aliasing
+safing portmaster firewall
+nextDNS 
+ente auth TOTP
+tor network
+calyx vpn
+riseup vpn
+
+
+
+## tips ##
+1. freeze credit, unfreeze credit when applying for somethin
+
+-----------------------
+Use password manager 
+install anti-virus 
+Use RFID blocking wallet 
+WPA2 
+Set up firewall 
+Diceware/1password 
+Change default Wi-Fi pass/Enable WPA2 
+Check for router updates 
+Create separate networks (SSID) for work, home, and “smart” devices 
+Apple Pay encrypts CC info and does not get to vendors 
+VPN when browsing public network 
+Passphrase > password 
+create alternate account on machine that is not root user 
+How to secure browser (MS edge) 

@@ -56,3 +56,5 @@ make WNO 23/24/25 listing
 make ADCC listing
 make CJI listing
 extract letters from kaya messages
+move files that are not actively working to obsidian
+	- limit number of directories/files in Sync
