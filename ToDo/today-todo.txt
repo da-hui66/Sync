@@ -1,4 +1,3 @@
-x 2024-12-09 clean email
 rewrite schedule to have cardio during daylight hours
 (A) kaya christmas due:12-9
     +kaya-buy.txt

@@ -1,15 +1,28 @@
-Split warm up across 4x days 
+30min (5min warmup x 25min session) -- 7x day cycle 
 
-Split techniques (chords, scales, book, licks, etc) across 3x days 
+split warm up/technique per session
+    -
+    -
+    -
+    -
+    -
+    -
+    -
 
-Repertoire/improvisation 1x days 
+split techniques persession
+    - chords
+    - scales
+    - book
+    - licks
+    - repertoire
+    - improvisation = 1x days 
 
-Follow similar cycle as workout - 4x day cycle 
 
-Make listing of scales, arps, chords 
-
-Guitar licks = webpage 
-
-Guitar chords = webpage 
-
-Reptoire = find songs 
+## FOCUS ##
+-----------
+relearn theory:
+- learn scales in c multiple positions
+- learn chords in c multiple positions
+reading music:
+    - book
+    - lead sheets
