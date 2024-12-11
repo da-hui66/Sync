@@ -1,6 +1,0 @@
-walmart
-    - sweatshirt
-    - sweat pants
-    - house shoes
-library
-ups
