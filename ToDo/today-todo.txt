@@ -1,4 +1,3 @@
-rewrite schedule to have cardio during daylight hours
 (A) kaya christmas due:12-9
     +kaya-buy.txt
     +yoga-mem
@@ -6,5 +5,7 @@ rewrite schedule to have cardio during daylight hours
     +wireless-HDMI?
     +yeti?
     +headphone-jack?
+rewrite schedule to have cardio during daylight hours
+
 plan pack/travel needs +travel-bottels?
 schedule therapy +change-therapists?
