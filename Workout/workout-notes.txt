@@ -16,3 +16,4 @@ add hand fighting
 
 ## OTHER ##
 ------------
+if cannot figure out functional grappling routine for home, do extended boxing routine

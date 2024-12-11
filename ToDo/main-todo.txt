@@ -1,5 +1,5 @@
 buy house stuff
-figure out remaining schedul noted todos 
+figure out remaining schedule notes todos 
 (B) nginx runbook due:12-13,14,15
 look into gathering of nations
 look into muscadine at red rocks @9-14-25
@@ -27,7 +27,6 @@ get rental voucher from email
 rework quicknote script
 fix zwee script to not shut off
 start new 'spending'
-get the stranger from library
 fix review mirror +install-dream-catcher
 make fiat servie appointment
 replace fiat tire
@@ -41,17 +40,12 @@ clean retainers
 schedule physical
 set up obsidian git +plugin +.git-ignore
 replace laptop battery (how to test?)
-write guitar routine for 30min (5min warmup x 25min session)
-    -focus-on:
-        - relearn theory by:
-            - learn scales in c multiple positions
-            - learn chords in c multiple positions
-        - reading music
-        - licks/improvisation
-        - repertoire
+write guitar routine
 write 4x yoga routine
 back up files to external
 make WNO 23/24/25 listing
 make ADCC listing
 make CJI listing
 extract letters from kaya messages
+move files that are not actively working to obsidian
+	- limit number of directories/files in Sync

@@ -14,6 +14,10 @@
 - [] figure out when to eat: breakfast, lunch, dinner
 - [] define morning routine
 - [] define bedtime routine
+-----------------------------------
+if cannot hack at WF, look up tutorial on freecodecamp
+focus study time: sre training, IDP
+plan next day everday before bed
 
 
 ## MORNING ROUTINE ##

@@ -1,0 +1,11 @@
+What is DHCP
+Explain how an API works
+How to read URLs
+Explain how DNS works
+Explain how IP addresses work
+What are open API
+What are fin techs
+Bandwidth explained
+what is hot swapping
+What are containers
+How do pointers work
