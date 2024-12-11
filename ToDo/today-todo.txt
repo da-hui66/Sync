@@ -5,5 +5,6 @@ rewrite schedule to have cardio during daylight hours
     +pilates-mem
     +wireless-HDMI?
     +yeti?
+    +headphone-jack?
 plan pack/travel needs +travel-bottels?
 schedule therapy +change-therapists?
