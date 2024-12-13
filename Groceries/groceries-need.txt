@@ -1,5 +1,19 @@
 # mint container for edibles
+# travel bottels
 gum
-body soap
 q tips
+tomatillo
+garlic
+onion
+chilis
+cilantro
+avocado
+limes
+chicken
+eggs
+milk
+toilet paper
+eye drops (day)
+mouthwash white
 matches
+body soap
