@@ -1,3 +1,6 @@
+schedule therapy +change-therapists?
+figure out remaining schedule notes todos
+shop for multi plugs
 (A) kaya christmas due:12-9
     +kaya-buy.txt
     +yoga-mem
@@ -6,7 +9,7 @@
     +yeti?
     +headphone-jack?
 (B) nginx runbook due:12-13,14,15
-(B)work cases +terfs +logs
+(B)work cases +terfs +logs due:12-13,14,15
 buy house stuff @vegas +light +dressers +multi-plugs +powerstrips
 vegas buy sweats @vegas +walmart +target +true classic
 look into gathering of nations
