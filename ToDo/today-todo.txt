@@ -6,6 +6,5 @@
     +yeti?
     +headphone-jack?
 rewrite schedule to have cardio during daylight hours
-
 plan pack/travel needs +travel-bottels?
 schedule therapy +change-therapists?
