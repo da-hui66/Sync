@@ -5,3 +5,5 @@ usb brick
 mouse
 monitor stand
 dual monitor hdmi dock
+digital camera
+piano
