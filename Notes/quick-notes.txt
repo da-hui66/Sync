@@ -55,6 +55,5 @@ nissan kicks
 use Q2 benefits to shop for hotels/flights/cars
 
 switch notes to drop box/obsidian
-- usecase for git?
 
 # mint container for edibles
