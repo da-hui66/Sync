@@ -1,12 +1,6 @@
 shop for multi plugs
 plan pack/travel needs +travel-bottels?
 grocery list
-(A) kaya christmas due:12-9
-    +kaya-buy.txt
-    +yoga-mem
-    +pilates-mem
-    +wireless-HDMI?
-    +yeti?
-    +headphone-jack?
 rewrite schedule to have cardio during daylight hours
 schedule therapy +change-therapists?
+figure out remaining schedule notes todos
