@@ -59,3 +59,6 @@ switch notes to drop box/obsidian
 # mint container for edibles
 
 try proton VPN/proton drive
+
+how to take care of blundstones
+
