@@ -29,3 +29,4 @@ shirt jackets +true-classic?
 wool socks
 more goodfellow shirts (work)
 pair of theives shirts (workout)
+carhartt blanket lined detroit jacket

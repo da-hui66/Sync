@@ -1,31 +1,14 @@
-schedule therapy +change-therapists?
-figure out remaining schedule notes todos
-shop for multi plugs
-(A) kaya christmas due:12-9
-    +kaya-buy.txt
-    +yoga-mem
-    +pilates-mem
-    +wireless-HDMI?
-    +yeti?
-    +iphone-headphone-jack?
 (B) nginx runbook due:12-13,14,15
 (B) work cases +terfs +logs due:12-13,14,15
-buy house stuff @vegas +light +kaya-desk-light +dressers +multi-plugs +powerstrips
-vegas buy sweats @vegas +walmart +target +true classic
-clean house due:12-15
-look into gathering of nations
-look into muscadine at red rocks @9-14-25
+buy sweats @vegas +walmart +target +true-classic
+shop or Gis
 wedding/graduation plans
 make copy of key to run with
 write footwork for workout +incorporate-ladder?
-go through tasks.todo.txt
 find affirmations
 go through 23-24 notes
 file vscode notes +inbox +action +etc
-try soundlink via usbc audio
 therapy letter +dad-forgivness
-break down slist
-schedule haircut feburary
 go through projects.todo
 go through productivity note
 leanne spreadsheet
@@ -59,5 +42,5 @@ make WNO 23/24/25 listing
 make ADCC listing
 make CJI listing
 extract letters from kaya messages
-move files that are not actively working to obsidian
-	- limit number of directories/files in Sync
+look into muscadine at red rocks @9-14-25
+look into gathering of nations due:april-2026

@@ -1,7 +1,28 @@
+(A) kaya christmas due:12-9
+    +yoga-mem
+    +pilates-mem
+    +wireless-HDMI?
+    +iphone-headphone-jack?
+unpack
+schedule therapy +change-therapists?
+figure out remaining schedule notes todos
+put reoccuring/reminders on proton calendar
+shop for multi plugs
+shopt for dressers
 spend amz GCs
-plan pack/travel needs +travel-bottels?
-groceries
-pack
 move google tasks to reminders
+set up proton forwarding
+turn off inbox notifications in proton
 rewrite schedule to have cardio during daylight hours
-vegas move planning
+make sauce
+cook chicken
+shave
+trim
+clean house
+    - bathroom
+    - sweep/mop
+    - kitchen
+move Sync to dropbox
+move files that are not actively working to obsidian
+	- limit number of directories/files in Sync
+go through tasks.todo.txt
