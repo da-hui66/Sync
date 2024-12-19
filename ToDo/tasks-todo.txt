@@ -1,11 +1,10 @@
-- [ ] vegas move
-	- [ ] flights
-	- [ ] rental car
-	- [ ] air **bnb**
+vegas move
+	- [] flights
+	- [] rental car
+	- [] air bnb
 leanne spreadsheet
 make copy of key to run with
 make cleaning schedule
-set up obsidian git +plugin +.git-ignore
 figure out CC replayment strategy
 clean retainers
 schedule physical
@@ -30,4 +29,4 @@ make WNO 23/24/25 listing
 make ADCC listing
 make CJI listing
 look into muscadine at red rocks @9-14-25
-look into gathering of nations due:april-2026
+look into gathering of nations @april-2026

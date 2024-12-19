@@ -1,41 +1,21 @@
-- [] test working copy with pdf/images
-- [] move static files from repository to local storage
-- [] set calendar reminder for local backup to external +frequency?
-- [x] set alias for obsidian access
-- [x] start obsidian repository
-- [] write git script for obsidian
+## NEW WORKFLOW ##
+------------------
+no obsidian for work (only for music map)
+open workspace in vscode
+	- nested repositories?
+	- different directories as repos?
+    - move static files from repository to local storage?
+        - reoccuring reminder for local backup to external +frequency?
+put all reoccuring on calendar?
 
 
-
- 
 ## NOTES ##
 -----------
 add expected due dates to as calendar entries
 use fusion of markdown and plaintext for structuring notes
     - use multi level indentations
-    - use markdown for 'todo' in notes = '- [ ]'
+    - use markdown for 'todo' in notes = '- []'
 have notes in a single file till they grow too big then move to own file by subject
-libre office phone access? +test
-figure out how to incorporate spreadsheets
-    - how to view spreadsheets on iphone
-    - make scheudle in plaintext?
-    - find another app to host a schedule for plaintext +second-calendar?
-syncthing instead of dropbox?
 nextcloud instead of dropbox?
     - use hosted instance until able to host own
-how to strcuture todos
-    - add todo.txt to tasks.todo.txt?
-    - change today.todo.txt to todo.txt?
-make own kodex repository?
-obsidian terminal/git integration
-
-## TEMPLATE ##
----------------
-quick notes = sublime text/kodex
-long notes = vscode
-drive = working copy/dropbox
-office = libre
-obsidian = course learning
----------------------------
 use basic timer for pomodoro technique
-focus only on work during work day

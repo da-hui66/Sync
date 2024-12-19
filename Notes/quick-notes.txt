@@ -1,16 +1,11 @@
 switch to chicken instead of beef
 	- find was to use stock
 		- soup w/ masa dumplings?
-	- how to separate eggs/chicken
-		- chili verde?
-		- mole
-		- etc
-		- enchillades
+	- egg tacos to separate?
+	- chx chili verde
+		- tacos
 		- tamales
 		- empanades
-		
-chicken/hummus/roti
-	- always make 2x, eat one after work
 
 how to incorporate daily cold expsoure? morning cold showers?
 
@@ -19,13 +14,6 @@ order applicable things from target @free-shipping @fast-delivery
 expierment with getting a grinder and grinding own HEB coffee
 
 which direction to face blinds?
-
-post vegas buy:
-	walmart sweats (home)
-	target sweats(workout/training)
-	true classic sweats(casual)
-	sunglasses
-	gis
 
 2nd black warm socks from target
 
@@ -39,27 +27,8 @@ nissan kicks
 
 use Q2 benefits to shop for hotels/flights/cars
 
-switch notes to drop box/obsidian
-
 # mint container for edibles
-
-try proton VPN/proton drive
 
 how to take care of blundstones
 
-travel mouse for self, KK use old kevoard combo
-
-custom CSS for firefox
-
-try floorp
-
 tortilla press from mubs
-
-
-## NEW WORKFLOW ##
-------------------
-no obsidian (only personal for music map)
-open workspace in vscode
-	- nested repositories?
-	- different directories as repos?
-put tasks on calendar?
