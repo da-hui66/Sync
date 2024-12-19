@@ -1,12 +1,12 @@
 kaya christmas gift
-    +yoga-mem?
-    +pilates-mem?
-    +other?
+    yoga-mem?
+    pilates-mem?
+    other?
 get christamas card
 make sauce
 cook chicken
-
-## PRIORITY ##
---------------
-nginx runbook
-sre training
+kaya car
+    - coolant
+    - oil
+test jabra headset
+contact help desk to send back keyboard/headset
