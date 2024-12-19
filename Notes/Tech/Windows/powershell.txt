@@ -1,0 +1,27 @@
+## POWERSHELL HASH ##
+----------------------
+cat $path-to-file
+(Get-FileHash $filepath).Hash -eq '$output-of-path-to-file'
+
+## POWERSHELL ADMIN ##
+-----------------------
+Start-Process -FilePath "powershell.exe" -Verb RunAs
+Start-Process -FilePath "wt.exe" -ArgumentList "powershell" -Verb RunAs
+
+## POWERSHELL DIFFRENT USER ##
+------------------------------
+Start-Process -FilePath "powershell.exe" -Verb RunAsUser
+Start-Process -FilePath "wt.exe" -ArgumentList "powershell" -Verb RunAsUser
+
+## PS EXECUTION POLICY ##
+---------------------------
+Get-ExecutionPolicy
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
+
+## MAKE PS PROFILE ##
+---------------------
+New-Item -Path $PROFILE -ItemType File -Force
+
+## POWERSHELL 'GREP' ##
+-----------------------
+Get-ChildItem . -Recurse | Select-String -Pattern '$search'

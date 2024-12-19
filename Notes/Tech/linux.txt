@@ -1,0 +1,76 @@
+## ADD SUDO USER ##
+-------------------
+sudo su
+vim /etc/sudoers
+$user ALL=(ALL) ALL
+
+sudo adduser -aG sudo $username
+
+## CENTOS DARK MODE ##
+----------------------
+sudo yum install gnome-tweaks
+
+## DEBIAN BLUETOOTH ##
+---------------------
+sudo systemctl status bluetooth
+bluetoothctl
+power on
+discoverable on
+scan on
+pair XX:XX:XX:XX:XX:XX
+connect XX:XX:XX:XX:XX:XX
+trust XX:XX:XX:XX:XX:XX
+scan off
+discoverable off
+power off
+
+## GNOME BLACK BACKGROUND ##
+----------------------------
+gsettings set org.gnome.desktop.background picture-uri-dark ''
+gsettings set org.gnome.desktop.background primary-color '#000000'
+
+## HASH CHECK ##
+-----------------
+shasum -a 256 $path-to-file
+shasum -a 256 -c $path-to-sha-file
+
+## IMAGE FROM CLI ##
+---------------------
+xdg-open /$pathToImage
+
+## NVIM SETUP ##
+-----------------
+plug.vim goes to ~/local/share/nvim/site/autoload/
+make directory = ~/.config/nvim
+make file -> ~/.config/nvim/init.vim
+
+to comment out plug in = , { 'on': [] }
+
+## VIM COMMANDS ##
+-------------------
+set linebreak = enables line breaks for words
+set spell = enables spell check
+
+## RENAME FILES ##
+-------------------
+- test files to be renamed:
+for file in *.txt; do echo mv "$file" "${file%.txt}.md"; done
+
+- rename files:
+for file in *.txt; do mv "$file" "${file%.txt}.md"; done
+
+## VIRT MANAGER RESIZE ##
+--------------------------
+sudo qemu-img resize /var/lib/libvirt/images/&image-file +10G
+
+## VIRTUAL BOX DESKTOP RESZIE ##
+--------------------------------
+apt-get install spice-vdagent
+
+## COPY FILES ##
+-----------------
+- copy directory structure excluding a particular file:
+rsync -av --exclude='$file' $orginating-filepath $destination-filepath
+
+- copy directory structure to new location without the files within:
+rsync -av -f"+ */" -f"- *" $orginating-filepath $destination-filepath

@@ -1,0 +1,31 @@
+## SET STATIC IP ##
+--------------------
+sconfig
+
+## CHECK SETTINGS  ##
+-----------------------
+Get-CimInstance -ClassName Win32_ComputerSystem
+
+## CHANGE COMPUTERNAME ##
+--------------------------
+Rename-Computer -NewName "Svr12-01" -Restart
+
+## CHANGE WORKGROUP ##
+----------------------
+Add-Computer -WorkGroupName "SERVER-12" -Restart
+
+## FIREWALL RULES ##
+---------------------
+Get-NetFirewallRule | findstr <rule>
+Get-NetFirewallRule -Name <rule>
+
+## ALLOW PING REPLY ##
+-----------------------
+Enable-NetFirewallRule -Name FPS-ICMP4-ERQ-IN
+
+
+## TRUSTED HOSTS ## 
+-------------------
+Set-Item wsman:\localhost\Client\TrustedHosts 192.168.1.228  -Concatenate -Force
+
+Set-Item wsman:\localhost\Client\TrustedHosts 192.168.1.229  -Concatenate -Force 

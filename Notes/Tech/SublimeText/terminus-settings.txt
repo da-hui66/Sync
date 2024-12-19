@@ -1,0 +1,11 @@
+## PUT IN KEY BINDINGS ##
+-------------------------
+
+[
+{ "keys": ["alt+`"],
+"command": "terminus_open",
+"args" : {"show_in_panel": false,
+"cmd": "powershell.exe",
+"cwd": "{file_path:{folder}}",
+"panel_name": "Terminal"}}
+]
