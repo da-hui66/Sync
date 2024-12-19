@@ -54,3 +54,12 @@ custom CSS for firefox
 try floorp
 
 tortilla press from mubs
+
+
+## NEW WORKFLOW ##
+------------------
+no obsidian (only personal for music map)
+open workspace in vscode
+	- nested repositories?
+	- different directories as repos?
+put tasks on calendar?

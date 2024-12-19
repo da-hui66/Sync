@@ -1,7 +1,5 @@
 ## WYATT FLORES 12/27 ##
 ------------------------
-- [x] tickets due:11-14
-- [x] hotel due:12-16
 - [] coopers BBQ due:12-27 @11:00
 
 ## BRIGHT EYES ##

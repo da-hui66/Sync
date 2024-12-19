@@ -18,7 +18,7 @@ farmers
 tgu 
 
 ## EMOM ##
--------
+------------
 devils press
 thrusters
 
@@ -51,17 +51,17 @@ non hill run
 
 ## JUMPROPE ##
 ------------
-intervals
+
 
 ## FOOTWORK ##
 ---------------
 
 ## ASSAULT BIKE ##
----------------
+------------------
 8x 20s work/40s rest
 
 ## GRAPPLING ##
------------
+----------------
 sit-outs
 8pt drill
 single leg
@@ -76,7 +76,7 @@ circles
 feints
 
 ## BOXING ##
----------
+-------------
 1-2-3-2
 left/right
 1-2-5-2
