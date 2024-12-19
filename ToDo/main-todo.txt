@@ -10,5 +10,3 @@ kaya car
     - oil
 test jabra headset
 contact help desk to send back keyboard/headset
-pull tech notes from obsidian
-uninstall obsidian
