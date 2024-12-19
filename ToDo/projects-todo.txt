@@ -1,16 +1,12 @@
 make clothes line in apartment
 look at ACC or online school
 play with anki/ankiweb +google-docs-integration
-harden firefox
-obsidian readme
 make music map @obsidian-canvas
 read working copy welcome
 read plaintext articles
 look up GTD articles
-obsidian tutorial
 try crest whitening trays
 increase linux disk space from windows
-get proton mobile apps +calendar +mail
 forward email to proton
 move calendar to proton
 set email alias
@@ -48,7 +44,7 @@ fix virt-manager w/ bridge network
 try manjaro linux
 cutover to mx-linux
 configure NAS +orderMemory +swapSSD/RAM
-Migration: {oneNote-personal=plaintext, oneNote-school=markdown, oneNote-grappling=markdown}
+Migration: {oneNote-personal=plaintext, oneNote-school=plaintext, oneNote-grappling=plaintext}
 migrate safari reading list +from-iphone
 apply for 3rd credit card (travel/large purchase)
 setup VPN
@@ -57,7 +53,3 @@ odin project
 set up linkdin
 portable tails OS
 jiujitsu gameplan
-pay off CCs
-    - restore marcus savings
-    - payoff student loans
-    - start saving accounts
