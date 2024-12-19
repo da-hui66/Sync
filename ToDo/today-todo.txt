@@ -3,13 +3,9 @@
     +pilates-mem
     +wireless-HDMI?
     +iphone-headphone-jack?
-unpack
 schedule therapy +change-therapists?
 figure out remaining schedule notes todos
-put reoccuring/reminders on proton calendar
 shop for multi plugs
-shopt for dressers
-spend amz GCs
 move google tasks to reminders
 set up proton forwarding
 turn off inbox notifications in proton
