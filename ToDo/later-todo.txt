@@ -1,11 +1,22 @@
-write christmas card
-figure out remaining schedule reminders
-rewrite schedule to have cardio during daylight hours
 clean house
     - bathroom
     - sweep/mop
+kaya car
+    - coolant
+    - oil
+write christmas card due:12-23
+bright eyes situation
+figure out remaining schedule reminders
+put tasks on calendar
+process 'MoveToObsidian' notes
+rewrite schedule to have cardio during daylight hours
 go through tasks-todo.txt
 shop for multi plug
+order more long socks
+order sweats +walmart +target +true-classic
+khruangbin tickets @4/22
+unsubscribe thunderbird
+test opening saved emails
 ----------------
 >> nginx runbook
 >> sre training

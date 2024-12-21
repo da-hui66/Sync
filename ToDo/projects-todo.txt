@@ -8,7 +8,7 @@ try crest whitening trays
 increase linux disk space from windows
 forward email to proton
 move calendar to proton
-set email alias
+move bit warden to proton
 build guitar repertoire
 budgets after CCs paidof +loan-repayment +car-savings +school-budget +tattoo-savings
 transfer payment to CC +renzo +spotify +spectrum +betterhelp

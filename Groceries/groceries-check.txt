@@ -1,18 +1,18 @@
-tomato
+tomatillo
 garlic
 onion
 chilis
 cilantro
 avocado
 limes
-beef
+chicken
 butter
 eggs
 milk
 coffee
 coffee filters
 salt
-raw sugar
+honey
 gum
 wipes
 toilet paper
@@ -36,6 +36,5 @@ conditioner
 lysol spray
 q tips
 matches
-body soap
 electrolytes
 preworkout
