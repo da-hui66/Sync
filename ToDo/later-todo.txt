@@ -5,7 +5,7 @@ clean house
     - bathroom
     - sweep/mop
 go through tasks-todo.txt
-
+shop for multi plug
 ----------------
 >> nginx runbook
 >> sre training
