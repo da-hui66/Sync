@@ -1,8 +1,5 @@
 ## SUN ##
 ----------
-grocery list
-drop off bed
-grocies
 membership
 make prep list
 card
@@ -10,10 +7,11 @@ card
 ## MON ##
 ----------
 pick up stuff
+kova present
+wrap stuff
 therapy
 prep chili
 prep breakfast
-wrap stuff
 
 ## TUE ##
 ---------
@@ -23,6 +21,7 @@ dresser
 
 ## WED ##
 ---------- 
+clean house
 work @11:00-21:00 +mobile
 vitor house @11:00 +breakfast
 grandparents house @~14:00 +lunch
