@@ -1,26 +1,32 @@
-## SUN ##
-----------
-membership
-make prep list
-card
 
 ## MON ##
 ----------
-pick up stuff
-kova present
-wrap stuff
-therapy
-prep chili
-prep breakfast
+x 2024-12-23 make prep list
+run 9:00
+workout 10:00
+membership call 11:30
+pick up stuff 11:30
+kova present 11:30
+wrap stuff 12:15
+shave 12:30
+therapy 12:45
+soak beans 13:30
+    54g salt
+    32oz water
+chicken stock
+card
 
 ## TUE ##
 ---------
+memebership
+cook muffin test
 cook chili/cornbread
-cook breakfast
+
 dresser
 
 ## WED ##
 ---------- 
+cook muffin real
 clean house
 work @11:00-21:00 +mobile
 vitor house @11:00 +breakfast

@@ -1,22 +1,22 @@
 =====================
 ## MUSH/BEEF-LOAF ##
 =====================
-[] 1. defrost beef
-[] 2. peel garlic
-[] 3. mince garlic
-[] 4. pick sage/rose/thyme
-[] 5. chop herbs
-[] 6. roast mush w/ garlic+herbs
-[] 7. chop onion/carrot/celery
-[] 8. rst veg w/ garlic+herbs
-[] 9. spin veg
-[] 10. mix beef with veg
-[] 11. male egg mix
-[] 12. mix in panko
-[] 13. bake loaf
-[] 14. make glaze
-[] 15. finish loaf w/ glaze
-[] 16. slice loaf
+[] defrost beef
+[] peel garlic
+[] mince garlic
+[] pick sage/rose/thyme
+[] chop herbs
+[] roast mush w/ garlic+herbs
+[] chop onion/carrot/celery
+[] rst veg w/ garlic+herbs
+[] spin veg
+[] mix beef with veg
+[] male egg mix
+[] mix in panko
+[] bake loaf
+[] make glaze
+[] finish loaf w/ glaze
+[] slice loaf
 
 # LOAF GLAZE #
 --------------
@@ -27,46 +27,46 @@
 =======================
 ## BRUSSEL-GRATIN ##
 =======================
-[] 1. peel garlic (2 clove for vinagerette)
-[] 2. peel shallot (1 each for vinagerette)
-[] 3. trim/cut brussels
-[] 4. roast brussels w/ garlic
-[] 5. reduce cream with herb+bayleaf
-[] 6. roast shallot
-[] 7. render bacon
-[] 8. season cream redux w/ dijon
-[] 9. toast bread crumb
-[] 10. grate chees
-[] 11. mix brussel/bacon/redux
-[] 12. mix in cheese
-[] 13. bake to set
-[] 14. finish with bread crumbs
+[] peel garlic (2 clove for vinagerette)
+[] peel shallot (1 each for vinagerette)
+[] trim/cut brussels
+[] roast brussels w/ garlic
+[] reduce cream with herb+bayleaf
+[] roast shallot
+[] render bacon
+[] season cream redux w/ dijon
+[] toast bread crumb
+[] grate chees
+[] mix brussel/bacon/redux
+[] mix in cheese
+[] bake to set
+[] finish with bread crumbs
 
 =============================
 ## BEET/CARROT-SALAD ##
 =============================
-[] 1. cut apples
-[] 2. pickel apples
-[] 3. cut fennel
-[] 4. roast fennel
-[] 5. blanch kale
-[] 6. braise beets
-[] 7. peel carrots
-[] 8. cut carrots
-[] 9. roast carrots
-[] 10. peel beets
-[] 11. cut beets
-[] 12. toast pecans + honey glaze
-[] 13. mix veg
-[] 14. mix in cranberries/pecans
-[] 15. mix in apples
-[] 17. pick dill
-[] 18. chop dill
-[] 19. mix in dill/chevre
-[] 20. make vingerette
-[] 21. dress beets separately
-[] 22. mix salad/vinagarette
-[] 23. fold beets into salad
+[] cut apples
+[] pickel apples
+[] cut fennel
+[] roast fennel
+[] blanch kale
+[] braise beets
+[] peel carrots
+[] cut carrots
+[] roast carrots
+[] peel beets
+[] cut beets
+[] toast pecans + honey glaze
+[] mix veg
+[] mix in cranberries/pecans
+[] mix in apples
+[] pick dill
+[] chop dill
+[] mix in dill/chevre
+[] make vingerette
+[] dress beets separately
+[] mix salad/vinagarette
+[] fold beets into salad
 
 # SHERRY/TARRAGON-VINGERETTE #
 ------------------------------
