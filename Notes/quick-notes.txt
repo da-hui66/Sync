@@ -29,3 +29,5 @@ try floorp
 custom css for firefox
 
 why is it harder to concentrate when standing at desk?
+
+beats case w/ clip
