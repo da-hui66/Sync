@@ -1,24 +1,18 @@
 
 ## MON ##
 ----------
-x 2024-12-23 make prep list
-run 9:00
-workout 10:00
-membership call 11:30
-pick up stuff 11:30
-kova present 11:30
-wrap stuff 12:15
-shave 12:30
+wrap stuff
 therapy 12:45
 soak beans 13:30
     54g salt
     32oz water
-chicken stock
-card
+shave 12:30
+kova present +better-help
+send jacqueline scedule message
 
 ## TUE ##
 ---------
-memebership
+card
 cook muffin test
 cook chili/cornbread
 
@@ -28,6 +22,8 @@ dresser
 ---------- 
 cook muffin real
 clean house
+    - bathroom
+    - sweep/mop
 work @11:00-21:00 +mobile
 vitor house @11:00 +breakfast
 grandparents house @~14:00 +lunch
