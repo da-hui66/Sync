@@ -1,16 +1,16 @@
 ## FRUIT MUFFIN ##
 -------------------
-weigh coriander
-toast coriander
-grind coriander
-toast sugar ~5hrs @300
-berry mixture
+[x] weigh coriander
+[] toast coriander
+[] grind coriander
+[] toast sugar ~5hrs @300
+[] berry mixture
 	455g fruit
 	45g lemon juice
 	50g sugar
 	salt
-cutt butter
-mix dry dough
+[] cut butter
+[] mix dry dough
 	340g flour
 	2 tsp baking powder
 	2 tsp lemon zest
@@ -19,41 +19,41 @@ mix dry dough
 	1/4 tsp corainder
 	1/8 tsp nutmeg
 	170g butter
-mix wet dough
+[] mix wet dough
 	140g milk
 	100g eggs
 	10g vanilla extract
-fold dough together
-season/parchment line cast iron
-assemble mufficn
-bake muffin ~45min @ 350
+[] fold dough together
+[] season/parchment line cast iron
+[] assemble mufficn
+[] bake muffin ~45min @ 350
 
 ## CHILI ##
 -----------
-chicken stock
-cook beans  +bay-leaf
-cook beef +bay-leaf ~5hrs @250
-weigh spices
-toast spices
+[] chicken stock
+[] cook beans  +bay-leaf
+[] cook beef +bay-leaf ~5hrs @250
+[] weigh spices
 	9g cumin
 	3g coriander
 	2 cloves
 	1 star anise
 	3g cinnamon
 	1/4 tsp allspice
-grind spices
-toast dry chilis
+[] toast spices
+[] grind spices
+[] toast dry chilis
 	3 pasilla
 	3 new mexico
 	2 arbol
-make chili paste
+[] make chili paste
 	240ml chicken stock
 	30g chocolate
 	30ml tomato paste
 	5g coffee
 	2ea chipotles
 	ground spices
-make chili base
+[] make chili base
 	onion
 	garlic
 	jalapeno
@@ -65,26 +65,26 @@ make chili base
 	28g brown sugar
 	15ml hot sauce
 	salt/bp
-season beans +salt/bp
-season meat +salt/bp
-fold in meat/beans
+[] season beans +salt/bp
+[] season meat +salt/bp
+[] fold in meat/beans
 
 ## CORNBREAD ##
 ---------------
-season cast iron
-brown butter
+[] season cast iron
+[] brown butter
 	3x sticks
-mix dry dough
+[] mix dry dough
 	6c cornmeal
 	4 tsp salt
 	4 tsp baking powder
-	1.5 tsp baking soday
-mix wet dough
+	1.5 tsp baking soda
+[] mix wet dough
 	2.5c buttermilk
 	6ea eggs
 	bronwed butter
-fold dough together
-bake cornbread ~20min @ 425
+[] fold dough together
+[] bake cornbread ~20min @ 425
 
 
 ## NOTES ##
