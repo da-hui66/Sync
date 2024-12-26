@@ -1,30 +1,6 @@
-<<<<<<< HEAD
-=======
-## TUE ##
----------
-clean house
-    - bathroom
-    - sweep/mop
-wrap stuff
-card
-
-## WED ##
-----------
-wake up 5:00
-run 5:45
-workout 6:15
-shower 7:45
-drive to gtown 8:15
-vitor house @9:00 +breakfast
-work @11:00-21:00 +mobile
-grandparents house @~14:00 +lunch
-kova hang
-
->>>>>>> 51be7d899a53926acda5afe6f51771e3bbce9263
 ## THUR ##
 -----------
-dresser?
-kova dinner
+kova hang
 
 ## FRI ##
 -----------
