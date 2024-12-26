@@ -31,3 +31,12 @@ custom css for firefox
 why is it harder to concentrate when standing at desk?
 
 beats case w/ clip
+
+
+configure rig as server
+    - upgrade parts
+    - get stand
+    - figure out how to remote in, terminal/gui
+    - figure out what to do with old laptop
+    
+try manjaro, run on laptop
