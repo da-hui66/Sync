@@ -1,11 +1,15 @@
+send email for security deposit
 pay off hotel from CC
+confirm amazon refund
+finish set up coinbase account
+start charles swab account
 get grandpa beef recipie
 send jacqueline scedule message
-bright eyes situation
+(A) bright eyes situation
 figure out remaining schedule reminders
 put tasks on calendar
 process 'MoveToObsidian' notes
-rewrite schedule to have cardio during daylight hours
+rewrite schedule to have cardio during daylight hours/have scheduled 'to-do' time
 go through tasks-todo.txt
 shop for multi plug
 order more long socks
@@ -14,6 +18,5 @@ khruangbin tickets @4/22
 unsubscribe thunderbird
 test opening saved emails
 ----------------
->> nginx runbook
 >> sre training
 ----------------
