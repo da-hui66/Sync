@@ -1,8 +1,8 @@
+make fiat servie appointment
 vegas move
 	- [] flights
 	- [] rental car
 	- [] air bnb
-leanne spreadsheet
 make copy of key to run with
 make cleaning schedule
 figure out CC replayment strategy
@@ -20,7 +20,6 @@ extract letters from kaya messages
 write kaya letter
 rework quicknote script
 fix zwee script to not shut off
-make fiat servie appointment
 replace fiat tire
 write guitar routine
 write 4x yoga routine

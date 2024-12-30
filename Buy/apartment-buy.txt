@@ -4,7 +4,7 @@ laundry hamper
 delis
 towel clips
 cabinet liners
-anker powerstrips
+anker/belkin powerstrips
 modem mount
 router mount
 black summer blanket
