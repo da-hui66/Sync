@@ -1,0 +1,23 @@
+{
+    "workbench.activityBar.location": "hidden",
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "editor.minimap.enabled": false,
+    "workbench.startupEditor": "none",
+    "workbench.editor.empty.hint": "hidden",
+    "workbench.statusBar.visible": false,
+    "editor.fontSize": 18,
+    "workbench.settings.applyToAllProfiles": [
+        "editor.fontSize"
+    ],
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.pinnedTabsOnSeparateRow": true,
+    "workbench.editor.tabActionCloseVisibility": false,
+    "workbench.editor.tabActionUnpinVisibility": false,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.editor.wrapTabs": true,
+    "workbench.editor.editorActionsLocation": "hidden",
+    "workbench.editor.untitled.labelFormat": "name",
+    "security.workspace.trust.untrustedFiles": "open",
+}
