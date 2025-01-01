@@ -22,6 +22,8 @@ try floorp
 
 custom css for firefox
 
+harden firefox
+
 why is it harder to concentrate when standing at desk?
 
 configure rig as main/or keep as server?
