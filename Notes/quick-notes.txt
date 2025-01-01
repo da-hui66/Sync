@@ -70,3 +70,28 @@ dr squatch deoderent?
 HDMI to USB-C
 
 japanese funk youtube
+
+## VSCODE TAB CHANGE ##
+-----------------------
+1. open keyboard shortcuts json
+add:
+    {
+        "key": "alt+m",
+        "command": "workbench.action.toggleMenuBar"
+    },
+    {
+        "key": "ctrl+tab",
+        "command": "workbench.action.nextEditor"
+    },
+    {
+        "key": "ctrl+shift+tab",
+        "command": "workbench.action.previousEditor"
+    },
+
+
+## SUBLIME TAB CHANGE ##
+------------------------
+1. open key bindings json
+add:
+    { "keys": ["ctrl+tab"], "command": "next_view" },
+    { "keys": ["ctrl+shift+tab"], "command": "prev_view" }
