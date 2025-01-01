@@ -1,4 +1,3 @@
-pay toll fee
 pay rent
 nginx runbook
 cook chx sauce
