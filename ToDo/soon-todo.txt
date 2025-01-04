@@ -1,7 +1,12 @@
-pick up library book due:1-5
+groceries due:1-4
+shave due:1-4
+cook chx sauce due:1-4
+cook chx due:1-4
+laundry due:1-4
+pick up library books due:1-4
+(A) bright eyes situation due:1-5
+khruangbin tickets @4/22 due:1-5
 follow up on mann eye request
-(A) bright eyes situation
-khruangbin tickets @4/22
 get grandpa beef recipie
 read therapy message/worksheet
 write therapy letter

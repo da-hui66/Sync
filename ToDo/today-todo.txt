@@ -1,6 +1,6 @@
-nginx runbook
-cook chx sauce
-cook chx
-laundry
-put in maitence request
-pick up library books
+work cases
+put in maintence request
+grocery list
+-----------------
+>> nginx runbook due:1-4
+-----------------
