@@ -1,6 +1,13 @@
+x 2025-01-04 grocery list
+groceries 
 work cases
+shave 
+cook chx sauce 
+cook chx 
+laundry 
+pick up library books @10:00
 put in maintence request
-grocery list
 -----------------
->> nginx runbook due:1-4
+>> nginx runbook 
 -----------------
+consolidate notes
