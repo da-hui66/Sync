@@ -14,10 +14,9 @@ order sweats +walmart +target +true-classic
 unsubscribe thunderbird
 test opening saved emails
 leanne spreadsheet
-finish set up coinbase account
 start charles swab account
 make fiat servie appointment
-order vegas shipping supplies
+
 ----------------
 >> sre training
 ----------------

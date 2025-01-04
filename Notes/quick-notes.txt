@@ -97,3 +97,17 @@ add:
 add:
     { "keys": ["ctrl+tab"], "command": "next_view" },
     { "keys": ["ctrl+shift+tab"], "command": "prev_view" }
+
+run to explosions in the sky bands
+
+
+5/20 Razy wedding
+5/22 Evie grad party
+6/11 Evie gra
+
+sony earbuds/headphones instead of bose?
+	- speaker?
+
+play with notion calendar sync
+
+explore notion calendar integration
