@@ -1,13 +1,12 @@
-x 2025-01-04 grocery list
-groceries 
-work cases
-shave 
-cook chx sauce 
-cook chx 
-laundry 
-pick up library books @10:00
+shave
 put in maintence request
+schedule haircut
+work cases 
+make sauce
+pluck/mix chx
 -----------------
 >> nginx runbook 
 -----------------
 consolidate notes
+bright eyes situation @2/27 due:1-6
+khruangbin tickets @4/22 due:1-6
