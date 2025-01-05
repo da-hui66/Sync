@@ -1,3 +1,6 @@
+true classic SS button down = 1x
+true classic LS button down = 2x
+true classic shirt jacket
 cam chain
 cam watch
 replace progress training shorts
@@ -7,26 +10,28 @@ BCG compression shorts (jiujitsu)
 other compressions shorts(for home w/ cell pocket)
 replacement rashguards (kingz)
 replacement fight shorts (kingz)
-true classic SS button-downs
-true classic LS button-downs (dont need to tuck in)
 red wing Chelsea
 red wing moc
-tecova boots
 keanu leather jacket (thursday boots)
 mechanic jacket (thursday boot)
-New Gis +kingz-kore-v2
 dewalt work boot replacement
 jaxxon chain
 jaxxon bracelet
 jaxxon watch
 shady-rays: Cayman -- blackout polarized incognito
 true calssic swim trunk
-more jcrew chino
+more jcrew chino =1x
 more jcrew chino short
-more true classic tees
-more levis
-shirt jackets +true-classic?
+more levis =1x
 wool socks
+more true classic tees
 more goodfellow shirts (work)
 pair of theives shirts (workout)
 carhartt blanket lined detroit jacket
+true classic active training jogger
+pair of theives shorts (home replacement)
+brooks running shoes (all black)
+bomba house shoe
+vans replacement
+junk beanie
+junk black tie headband (for home - replace shirt headband)

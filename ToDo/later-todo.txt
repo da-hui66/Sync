@@ -1,8 +1,8 @@
+wedding/graduation plans
 make copy of key to run with
 make cleaning schedule
 clean retainers
 schedule physical
-wedding/graduation plans
 set up proton forwarding
 turn off inbox notifications in proton
 write footwork for workout +incorporate-ladder?
@@ -10,6 +10,7 @@ work through productivity note
 go through 23-24 notes
 go through projects.todo
 find affirmations
+process 'MoveToObsidian' notes
 extract letters from kaya messages
 write kaya letter
 rework quicknote script
