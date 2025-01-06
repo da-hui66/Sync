@@ -56,6 +56,7 @@ use pax at home/use linx for travel
 - use arizer on special occassions
 
 buy gum from wholefoods to keep in bag
+- switch home gun to wholefoods?
 
 jospeh leavy escapes death, rick straussman
 
@@ -93,8 +94,6 @@ add:
 add:
     { "keys": ["ctrl+tab"], "command": "next_view" },
     { "keys": ["ctrl+shift+tab"], "command": "prev_view" }
-
-run to explosions in the sky bands
 
 5/20 Razy wedding
 5/22 Evie grad party
