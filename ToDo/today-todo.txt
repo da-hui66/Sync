@@ -1,7 +1,5 @@
-change reminders
 nails
 work cases
 make sauce
 cook/pluck/mix chicken
 nginx runbook
-test instance
