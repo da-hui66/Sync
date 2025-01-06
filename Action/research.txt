@@ -34,4 +34,4 @@ what are fin techs
 bandwidth explained
 what is hot swapping
 what are containers
-(a) how do pointers work
+how do pointers work

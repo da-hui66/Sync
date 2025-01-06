@@ -1,117 +1,13 @@
-mint container for edibles
-
-how to take care of blundstones
-
-tortilla press from mubs
-
-find new dentist june/july
-
-turn spare monitor into travel monitor?
-
-authentic mexican cook book
-
-plan day for food prep
-
-how to braise chicken in dutch oven
-
-make different sauces for chicken: mole, enchilades, verse, roja, boomboom, creamy avocado
-- deliver with tortialla variety
-- save bones, make rich stock, tuen into soup
-
-try floorp
-
-custom css for firefox
-
-harden firefox
-
-why is it harder to concentrate when standing at desk?
-
-configure rig as main/or keep as server?
-    - upgrade parts
-    - get stand
-    - figure out how to remote in, terminal/gui
-    - figure out what to do with old laptop
-    - use case for new laptop
-    
-try manjaro, run on laptop
-
-when to smoke/edibles
-	how to replace drinking
-	legal stuff when needed?
-	
-no more blundstones
-	cadual = moc
-	fancy = chelsea moc
-	
-switch to chase bank for checking
-switch to amex for credit cards
-
-wear more button down shirts instead of plain tshirts
-
-shop for shirt jacket
-
-make minimum payment on quicksilver/pay extra to offload venture
-
-use pax at home/use linx for travel
-- use arizer on special occassions
-
-buy gum from wholefoods to keep in bag
-- switch home gun to wholefoods?
-
-jospeh leavy escapes death, rick straussman
-
 natural head & shoulder alternative
-
-write stretch to do after whole foods routine
 
 better to meditate AM or PM?
 
 better to journal AM or PM?
 
-HDMI to USB-C
+obsidian kanban plugin
+- kanban in notion?
 
-## VSCODE TAB CHANGE ##
------------------------
-1. open keyboard shortcuts json
-add:
-    {
-        "key": "alt+m",
-        "command": "workbench.action.toggleMenuBar"
-    },
-    {
-        "key": "ctrl+tab",
-        "command": "workbench.action.nextEditor"
-    },
-    {
-        "key": "ctrl+shift+tab",
-        "command": "workbench.action.previousEditor"
-    },
-
-
-## SUBLIME TAB CHANGE ##
-------------------------
-1. open key bindings json
-add:
-    { "keys": ["ctrl+tab"], "command": "next_view" },
-    { "keys": ["ctrl+shift+tab"], "command": "prev_view" }
-
-5/20 Razy wedding
-5/22 Evie grad party
-6/11 Evie grad
-
-sony earbuds/headphones instead of bose?
-	- speaker?
-
-play with notion calendar sync
-
-play with notion home dashboard
-
-explore notion calendar integration
-
-split notes between notion and plaintext?
-
-obsidian for canvad and kanban?
-	- kanban in notion?
+obsidian git integration
 
 switch to laundry powder?
 
@@ -120,8 +16,6 @@ native shampoo?
 why does hair get frizzy after washing
 
 how to fix bed head
-
-change lysol spray to odoban
 
 wilson leather jacket? -replace thursday boot?
 

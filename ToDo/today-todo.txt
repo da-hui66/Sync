@@ -1,11 +1,6 @@
-test icloud.com reminders
-work cases 
+change reminders
+nails
+work cases
 make sauce
-cook/pluck/mix chx
-
------------------
->> nginx runbook 
------------------
-consolidate notes
-bright eyes situation @2/27 due:1-6
-khruangbin tickets @4/22 due:1-6
+cook/pluck/mix chicken
+nginx runbook
