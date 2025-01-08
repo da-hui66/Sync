@@ -51,3 +51,20 @@ gitlab vs github
 logitech lightspeed gaming headset?
 
 where to find cybersecurity news
+
+# SWEATS #
+----------
+workout: walmart
+jitz: walmart
+errands: target
+home: walmart
+casual: regular clothes
+
+# SHORTS #
+-----------
+workout: progress
+jitz: fight
+errands: 10k
+home: pair of theives
+casual: pants
+swim: need*

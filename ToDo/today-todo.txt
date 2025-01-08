@@ -2,4 +2,5 @@ cook/pluck/mix chicken
 nginx runbook
 order sweats Walmart, target, true classic
 order more long socks/underwear
-go through productivity
+transfer obsidian notes
+go through productivitiy
