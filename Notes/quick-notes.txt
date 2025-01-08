@@ -31,3 +31,23 @@ Sorin xfactor
 obsidian use case
     - kanban?
     - canvas?
+	- use different repos instead?
+	- add repos to workspace?
+	- keep as local storage nongit?
+	
+request off 4/5 instead of 4/4?
+request off 2/15 instead of 2/14?
+valentines/birthday planning
+
+use push codes instead of email authentication
+
+use pass phrases over passwords
+
+how to connect desktop to usbc dock
+
+gitlab vs github
+	- bitbucket?
+	
+logitech lightspeed gaming headset?
+
+where to find cybersecurity news
