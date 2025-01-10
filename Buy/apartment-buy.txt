@@ -33,3 +33,4 @@ bigger britta
 projector stand
 projector screen
 wireless HDMI adapters
+HDMI -> USBC

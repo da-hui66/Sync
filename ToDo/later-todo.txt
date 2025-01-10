@@ -1,3 +1,6 @@
+go through later to-do
+unsubscribe Thunderbird
+    - test opening saved emails
 Make copy of key to run with
 Make cleaning schedule
 Clean retainers
@@ -5,7 +8,6 @@ Schedule physical
 Set up proton forwarding
 Turn off inbox notifications in proton
 Write footwork for workout +incorporate-ladder?
-Work through productivity note
 Go through 23-24 notes
 Go through projects.todo
 Find affirmations

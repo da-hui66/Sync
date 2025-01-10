@@ -1,0 +1,18 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"theme": "Default Dark.sublime-theme",
+	"color_scheme": "Dark+.sublime-color-scheme",
+	"font_size": 11,
+	"index_files": true,
+	"ui_separator": true,
+	"show_full_path": false,
+	"word_wrap": false,
+	"show_tab_close_buttons": true,
+    "enable_tab_scrolling": false,
+    "set_unsaved_view_name" :false,
+	"save_on_focus_lost": true,
+	"highlight_modified_tabs": true,
+}

@@ -4,11 +4,7 @@ better to meditate AM or PM?
 
 better to journal AM or PM?
 
-obsidian kanban plugin
-
 switch to laundry powder?
-
-native shampoo?
 
 why does hair get frizzy after washing
 
@@ -18,7 +14,6 @@ wilson leather jacket? -replace thursday boot?
 
 tecova boots?
 
-are chinos shorts necessary?
 
 banadana for home
 
@@ -33,7 +28,7 @@ obsidian use case
     - canvas?
 	- use different repos instead?
 	- add repos to workspace?
-	- keep as local storage nongit?
+	- keep files as local storage nongit?
 	
 request off 4/5 instead of 4/4?
 request off 2/15 instead of 2/14?
@@ -56,7 +51,7 @@ where to find cybersecurity news
 ----------
 workout: walmart
 jitz: walmart
-errands: target
+errands: target or regular clothes?
 home: walmart
 casual: regular clothes
 
@@ -64,10 +59,9 @@ casual: regular clothes
 -----------
 workout: progress
 jitz: fight
-errands: 10k
+errands: 10k - need for chino shorts?
 home: pair of theives
 casual: pants
-swim: need*
 
 obsidian for kanban, canvas, and habit tracking? screenshot stuff?
 
@@ -82,3 +76,6 @@ how to dopamine detox
 incorporate fruit for snacks?
 
 try cheaper HDMI transmitters then upgrade once new projector
+
+order more target sweats?
+	- use case?

@@ -31,7 +31,7 @@ Invisible monsters
 Haunted 
 Lullaby 
 Snuff 
-Diary 
+Diary
 Survivor 
 Rant 
 Pygmy 
@@ -148,3 +148,4 @@ Room - Emma Donoghue
 A Beautiful Mind - Sylvia Nasar 
 Lost city of Z 
 Killers of the flower moon 
+joseph leavy escapes death - rick straussman
