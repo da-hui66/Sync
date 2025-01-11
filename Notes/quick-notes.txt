@@ -14,8 +14,7 @@ wilson leather jacket? -replace thursday boot?
 
 tecova boots?
 
-
-banadana for home
+banadana for home?
 
 switch to beef instead of chx
 
@@ -23,12 +22,9 @@ Add small food processor to priority buy
 
 Sorin xfactor
 
-obsidian use case
-    - kanban?
-    - canvas?
-	- use different repos instead?
-	- add repos to workspace?
-	- keep files as local storage nongit?
+use different repos for notes?
+	- add repos to workspace
+	- keep files as local storage non-git?
 	
 request off 4/5 instead of 4/4?
 request off 2/15 instead of 2/14?
@@ -47,13 +43,6 @@ logitech lightspeed gaming headset?
 
 where to find cybersecurity news
 
-# SWEATS #
-----------
-workout: walmart
-jitz: walmart
-errands: target or regular clothes?
-home: walmart
-casual: regular clothes
 
 # SHORTS #
 -----------
@@ -62,8 +51,6 @@ jitz: fight
 errands: 10k - need for chino shorts?
 home: pair of theives
 casual: pants
-
-obsidian for kanban, canvas, and habit tracking? screenshot stuff?
 
 how to braise chicken?
 
@@ -77,7 +64,10 @@ incorporate fruit for snacks?
 
 try cheaper HDMI transmitters then upgrade once new projector
 
-order more target sweats?
-	- use case?
-	
-nvim instead of vscode?
+research condenstation on windows
+
+soup ideas
+
+braise chicken in gallentine + roast bones
+
+plaintext habit trackin

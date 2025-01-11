@@ -1,0 +1,16 @@
+walmart or target sweats as drivers?
+	- use walmart for workout, jitz, errands?
+		- order many
+		- use target as home sweats?
+	- pick up no delivery @1x walmart sweats?
+		- order more target sweats?
+				- use target for workout, jitz, errands?
+	- keep home walmart setup?
+		- use target for workout, jitz, errands?
+
+
+workout: walmart
+jitz: walmart
+errands: target or regular clothes?
+home: walmart
+casual: regular clothes
