@@ -79,3 +79,5 @@ try cheaper HDMI transmitters then upgrade once new projector
 
 order more target sweats?
 	- use case?
+	
+nvim instead of vscode?
