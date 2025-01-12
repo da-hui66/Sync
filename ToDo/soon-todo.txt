@@ -6,7 +6,6 @@ order sweats Walmart
 shop for bed
 go through productivitiy
 go through research
-follow up on man eye request
 get grandpa beef recipe
 figure out remaining schedule reminders
 rewrite schedule
@@ -21,3 +20,4 @@ get tortilla press from mubs
 	- 5/20 Razy wedding
 	- 5/22 Evie grad party
 	- 6/11 Evie grad
+(B) fiat renewal due:3-31
