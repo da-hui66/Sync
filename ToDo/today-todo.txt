@@ -1,5 +1,3 @@
 (A) nginx runbook 
 send phone links to computer
 go through emails
-order kaya shoes
-schedule haircut

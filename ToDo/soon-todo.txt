@@ -1,7 +1,8 @@
-read therapy message/worksheet due:1-12
-write therapy letter due:1-12
+schedule haircut
+order kaya shoes
+read therapy message/worksheet due:1-19
+write therapy letter due:1-19
 order sweats Walmart
-
 shop for bed
 go through productivitiy
 go through research
