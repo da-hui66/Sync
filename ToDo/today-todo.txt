@@ -1,3 +1,2 @@
 (A) nginx runbook 
-send phone links to computer
-go through emails
+soup ideas
