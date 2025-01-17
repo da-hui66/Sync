@@ -1,7 +1,12 @@
 read therapy message/worksheet due:1-19
 write therapy letter due:1-19
-get grandpa beef recipe
+look into toll tag
 rodeo hotel
+(A) Wedding/graduation plans
+	- 5/20 Razy wedding
+	- 5/22 Evie grad party
+	- 6/11 Evie grad
+get grandpa beef recipe
 shop for bed
 go through productivitiy
 go through research
@@ -14,8 +19,7 @@ Leanne spreadsheet
 start Charles swab account
 make fiat service appointment
 get tortilla press from mubs
-(A) Wedding/graduation plans
-	- 5/20 Razy wedding
-	- 5/22 Evie grad party
-	- 6/11 Evie grad
 (B) fiat renewal due:3-31
+---------------------------
+SRE training
+AWS cert
