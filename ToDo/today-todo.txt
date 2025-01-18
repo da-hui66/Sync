@@ -7,5 +7,6 @@ consolidate notes
 x 2025-01-18 make sauce
 get vix stick
 read therapy message/worksheet
+review bed stuff
 ---------------------
 (A) nginx runbook

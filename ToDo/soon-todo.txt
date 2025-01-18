@@ -8,6 +8,13 @@ rewrite schedule
 	- cardio during daylight hours
 	- scheduled 'to-do' time
 	- figure out remaining schedule reminders
+make best friends reservation
+make dai due reservation
+shop for western wear:
+	shirt
+	boots
+	belt
+	hat
 ---------------------------
 SRE training
 AWS cert
