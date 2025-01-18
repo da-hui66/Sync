@@ -1,25 +1,13 @@
-read therapy message/worksheet due:1-19
 write therapy letter due:1-19
+prepare TERF lecture due:1-20
+schedule haircut
+order sweats Walmart
 look into toll tag
-rodeo hotel
-(A) Wedding/graduation plans
-	- 5/20 Razy wedding
-	- 5/22 Evie grad party
-	- 6/11 Evie grad
-get grandpa beef recipe
-shop for bed
-go through productivitiy
-go through research
-figure out remaining schedule reminders
 rewrite schedule
 	- plan day for food prep
 	- cardio during daylight hours
 	- scheduled 'to-do' time
-Leanne spreadsheet
-start Charles swab account
-make fiat service appointment
-get tortilla press from mubs
-(B) fiat renewal due:3-31
+	- figure out remaining schedule reminders
 ---------------------------
 SRE training
 AWS cert
