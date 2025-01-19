@@ -1,12 +1,12 @@
 ## NEW WORKFLOW ##
 ------------------
-no obsidian for work (only for music map)
 open workspace in vscode
-	- nested repositories?
-	- different directories as repos?
-    - move static files from repository to local storage?
+	- nested repositories
+	- different directories as repos
+    - move static files from repository to local storage
         - reoccuring reminder for local backup to external +frequency?
 put all reoccuring on calendar?
+    - instead of reminders?
 
 
 ## NOTES ##

@@ -4,7 +4,6 @@ use gmail for non sensitive stuff
 use proton for main sensitive stuff
 
 
-
 keepass password manger
 simple login emial aliasing
 addy.io email aliasing
@@ -18,7 +17,7 @@ riseup vpn
 
 
 ## tips ##
-1. freeze credit, unfreeze credit when applying for somethin
+1. freeze credit, unfreeze credit when applying for something
 
 -----------------------
 Use password manager 
@@ -32,6 +31,6 @@ Check for router updates
 Create separate networks (SSID) for work, home, and “smart” devices 
 Apple Pay encrypts CC info and does not get to vendors 
 VPN when browsing public network 
-Passphrase > password 
+use pass phrases over passwords
+use push codes instead of email authentication
 create alternate account on machine that is not root user 
-How to secure browser (MS edge) 
