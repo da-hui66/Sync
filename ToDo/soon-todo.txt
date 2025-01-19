@@ -15,6 +15,7 @@ shop for western wear:
 	boots
 	belt
 	hat
+	bolero tie
 ---------------------------
 SRE training
 AWS cert

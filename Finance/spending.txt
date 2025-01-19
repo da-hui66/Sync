@@ -1,4 +1,7 @@
 # ex_comment: add new lines above @to not need to scroll to bottom
-2024-12-10 : "amount" "description" @"location"
 
-2024-12-10 track "spending" (* * *)
+1-19 : $amount
+$description
+@location
+
+2025-1-19 track "spending" (* * *)
