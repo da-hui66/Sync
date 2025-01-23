@@ -1,7 +1,7 @@
-# ex_comment: add new lines above to not need to scroll to bottom
+# add new lines above to not need to scroll to bottom 
 
-1-19 : $amount
+1-22: $amount
 $description
 @location
 
-2025-1-19 track "spending"
+2025-1-22 track "spending"
