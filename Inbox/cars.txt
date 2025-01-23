@@ -1,3 +1,5 @@
+## SUB SUVS ##
+---------------
 chevrolet trax
 mazada cx-30
 buick envista
@@ -5,6 +7,7 @@ volkswagen taos
 kia niro hybrid
 kissan kicks
 
-
->> TACOMA SR XtraCab
->> TACOMA TRD
+## TRUCKS ##
+-------------
+tacoma SR 2 door
+nissian frontier

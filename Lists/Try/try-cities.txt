@@ -6,3 +6,4 @@ louisville
 milwaukee
 new orleans
 charelston
+tuscon

@@ -1,28 +1,5 @@
-
-schedule haircut
 order sweats Walmart
 look into toll tag
-rewrite schedule
-	- plan day for food prep
-	- cardio during daylight hours
-	- scheduled 'to-do' time
-	- figure out remaining schedule reminders
-make best friends reservation
-mub birthday present
-valentines planning
-	dai due reservation
-	card
-shop for western wear:
-	shirt
-	boots
-	belt
-	hat
-	bolero tie
-birthday planning
-	kaya birthday:
-	marble falls
-	shooting?
-	jester king
 
 ---------------------------
 SRE training

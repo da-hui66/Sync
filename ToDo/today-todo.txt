@@ -1,10 +1,27 @@
-feedback
-get coffee/milk
-get vix/stick
-shave/trim
+trim
+get eyedrops
+laundry
 review bed stuff
-use gpt to jake cc repayment
-start tracking spending
-reset google password
+use gpt to make cc repayment
+make best friends reservation
+schedule haircut
+order extension chord
+mub birthday present
+walgreens stitch thing
+valentines planning
+    some small gift
+	dai due reservation
+	card
+review concerts
+    muscadine feb 13 @sa
+    tyler childer june 3 @htx
+    tyler childers jun 5 @abq
+    tyler cilder oct 10/11 @nashville
+    muscadine sept 14 @red-rocks
+rewrite schedule
+	- plan day for food prep
+	- cardio during daylight hours
+	- scheduled 'to-do' time
+	- figure out remaining schedule reminders
 ---------------------
 (A) nginx runbook
