@@ -1,5 +1,4 @@
 trim
-get eyedrops
 laundry
 review bed stuff
 use gpt to make cc repayment
@@ -7,7 +6,8 @@ make best friends reservation
 schedule haircut
 order extension chord
 mub birthday present
-walgreens stitch thing
+order sweats Walmart
+order true classic stuff
 valentines planning
     some small gift
 	dai due reservation
