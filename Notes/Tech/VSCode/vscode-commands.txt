@@ -1,0 +1,7 @@
+## SWITCH LINES ##
+------------------
+alt + up/down
+
+## SORT LINES ##
+----------------
+ctrl + shift p >> sort lines ascending/descending
