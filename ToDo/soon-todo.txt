@@ -1,6 +1,33 @@
+rewrite schedule
+	- plan day for food prep
+	- cardio during daylight hours
+	- scheduled 'to-do' time
+	- figure out remaining schedule reminders
+review concerts
+    tyler childer june 3 @htx
+    tyler childers jun 5 @abq
+    tyler cilder oct 10/11 @nashville
+    muscadine sept 14 @red-rocks
+(A) rodeo hotel
 
+(B) fiat renewal due:3-31
+	fiat inspection
+(A) Wedding/graduation plans
+	- 5/20 Razy wedding
+	- 5/22 Evie grad party
+	- 6/11 Evie grad
+shop for western wear:
+	shirt
+	boots
+	belt
+	hat
+	bolero tie
+birthday planning
+	kaya birthday:
+	marble falls
+	shooting?
+	jester king
 look into toll tag
-
 ---------------------------
 SRE training
 AWS cert

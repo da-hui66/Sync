@@ -38,6 +38,7 @@ ab wheel
 ## DAY 3 ##
 
 grappling, boxing, non hill run
+-------------------------------
 sit-outs
 8pt drill
 single leg
