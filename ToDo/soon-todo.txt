@@ -3,6 +3,8 @@ rewrite schedule
 	- cardio during daylight hours
 	- scheduled 'to-do' time
 	- figure out remaining schedule reminders
+	- write morning routine
+	- write bedtime routine
 review concerts
     tyler childer june 3 @htx
     tyler childers jun 5 @abq

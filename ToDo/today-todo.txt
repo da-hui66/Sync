@@ -5,7 +5,6 @@ terf runbook
 make best friends reservation
 put monitor away
 find place for guitar
-schedule haircut
 review bed stuff
 use gpt to make cc repayment
 order sweats Walmart
@@ -15,4 +14,15 @@ valentines planning
     some small gift
 	dai due reservation
 	card
-
+confirm no wxtra charge from haircut
+calculate budget
+	determine monthly spending
+	and track spending
+	determine credit card alloc
+	drain marcus to pay off and rebuild?
+	pull big sum from checking to pay off?
+	start budget to repay student loans
+	start budget to rebuild marcus (house)
+	start budget for car savings 
+	start budget for travel savings
+	start budget for tattoo savings
