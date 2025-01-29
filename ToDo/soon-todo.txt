@@ -1,4 +1,14 @@
 confirm no wxtra charge from haircut
+schedule haircut
+order kaya shoes
+read therapy message/worksheet due:1-19
+write therapy letter due:1-19
+order sweats Walmart
+shop for bed
+go through productivitiy
+go through research
+get grandpa beef recipe
+figure out remaining schedule reminders
 rewrite schedule
 	- plan day for food prep
 	- cardio during daylight hours
@@ -45,3 +55,4 @@ look into toll tag
 ---------------------------
 SRE training
 AWS cert
+(B) fiat renewal due:3-31
