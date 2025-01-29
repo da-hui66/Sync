@@ -1,3 +1,4 @@
+confirm no wxtra charge from haircut
 rewrite schedule
 	- plan day for food prep
 	- cardio during daylight hours
@@ -29,7 +30,18 @@ birthday planning
 	marble falls
 	shooting?
 	jester king
+calculate budget
 look into toll tag
+	determine monthly spending
+	and track spending
+	determine credit card alloc
+	drain marcus to pay off and rebuild?
+	pull big sum from checking to pay off?
+	start budget to repay student loans
+	start budget to rebuild marcus (house)
+	start budget for car savings 
+	start budget for travel savings
+	start budget for tattoo savings
 ---------------------------
 SRE training
 AWS cert
