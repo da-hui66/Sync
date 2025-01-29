@@ -1,58 +1,23 @@
-confirm no wxtra charge from haircut
-schedule haircut
-order kaya shoes
-read therapy message/worksheet due:1-19
-write therapy letter due:1-19
+schedule therapy
+deposit cash
+review bed stuff
+mub birthday present
+valentines planning
+    some small gift
+	card
+order true classic stuff
 order sweats Walmart
-shop for bed
-go through productivitiy
-go through research
-get grandpa beef recipe
-figure out remaining schedule reminders
-rewrite schedule
-	- plan day for food prep
-	- cardio during daylight hours
-	- scheduled 'to-do' time
-	- figure out remaining schedule reminders
-	- write morning routine
-	- write bedtime routine
+look into toll tag
+find positive affirmations
 review concerts
-    tyler childer june 3 @htx
-    tyler childers jun 5 @abq
-    tyler cilder oct 10/11 @nashville
     muscadine sept 14 @red-rocks
+	tyler cilder oct 11 @nashville
 (A) rodeo hotel
-
+	- goldies BBQ?
+	- shop for western wear: shirt,boots,belt,hat,bolero tie
 (B) fiat renewal due:3-31
-	fiat inspection
+	- fiat inspection
 (A) Wedding/graduation plans
 	- 5/20 Razy wedding
 	- 5/22 Evie grad party
 	- 6/11 Evie grad
-shop for western wear:
-	shirt
-	boots
-	belt
-	hat
-	bolero tie
-birthday planning
-	kaya birthday:
-	marble falls
-	shooting?
-	jester king
-calculate budget
-look into toll tag
-	determine monthly spending
-	and track spending
-	determine credit card alloc
-	drain marcus to pay off and rebuild?
-	pull big sum from checking to pay off?
-	start budget to repay student loans
-	start budget to rebuild marcus (house)
-	start budget for car savings 
-	start budget for travel savings
-	start budget for tattoo savings
----------------------------
-SRE training
-AWS cert
-(B) fiat renewal due:3-31

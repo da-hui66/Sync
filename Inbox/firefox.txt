@@ -1,2 +1,1 @@
-browser.tabs.closeButtons = false
 browser.tabs.closeWindowWithLastTab = false

@@ -1,13 +1,4 @@
-## SUB SUVS ##
----------------
-chevrolet trax
-mazada cx-30
-buick envista
-volkswagen taos
-kia niro hybrid
-kissan kicks
-
-## TRUCKS ##
+# TRUCKS
 -------------
 tacoma SR 2 door
 nissian frontier

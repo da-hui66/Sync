@@ -36,3 +36,5 @@ wireless HDMI adapters
 HDMI -> USBC
 delis(8/32oz)
 belkin/anker extension chord (for behind dresser)
+anker/belkin double usbc charging block (replace desk iphone charger)
+3rd fan
