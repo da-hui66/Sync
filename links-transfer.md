@@ -1,6 +1,3 @@
-interactive todo list
-how to make kanban from list
-
 https://www.youtube.com/watch?v=q-H_A_dQUxQ&pp=ygUdYW5kcmV3IGh1YmVybWFuIHN0bmFkaW5nIGRlc2s%3D
 https://www.youtube.com/watch?v=rEq-AYSRFHE&pp=ygUdYW5kcmV3IGh1YmVybWFuIHN0bmFkaW5nIGRlc2s%3D
 https://www.youtube.com/watch?v=qUz93CyNIz0&pp=ygUdYW5kcmV3IGh1YmVybWFuIHN0bmFkaW5nIGRlc2s%3D

@@ -1,12 +1,15 @@
-vscode markdown tutorial
+# vscode markdown tutorial
+
 - how to make wiki/TOC
 - how to make kanban?
 - how to convert markdown to pdf
 - markdown extensions
 - todo.md
+- interactive todo list
+- how to make kanban from list
 
 # CLOTHES
-----------
+
 only long sleeve shirts for home instead of sweats?
 use thermals under clothes to run instead of sweats?
 walmart for workout/jitz
