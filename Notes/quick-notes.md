@@ -1,4 +1,6 @@
-⏫ obsidian use
+- [ ] example task #priorty
+
+obsidian use
     kanban or canvas?
     incorporate 
 
