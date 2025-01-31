@@ -1,4 +1,4 @@
-obsidian use
+⏫ obsidian use
     kanban or canvas?
     incorporate 
 
