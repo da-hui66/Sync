@@ -1,2 +1,1 @@
-order vegas boxes
-put monitor away
+cook ELK
