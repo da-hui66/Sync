@@ -1,8 +1,4 @@
-- [ ] example task #priorty
-
-obsidian use
-    kanban or canvas?
-    incorporate 
+use both markdown and todo.txt for notes and todos
 
 is there a need for errand sweats or can just wear regular clothes
 
