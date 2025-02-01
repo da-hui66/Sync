@@ -1,4 +1,4 @@
-plates
+hi plates
 bowls
 vix/stick
 masa
@@ -18,3 +18,4 @@ tortilla
 gum
 toilet paper
 eye drops (day)
+butter

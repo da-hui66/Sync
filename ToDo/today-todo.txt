@@ -1,3 +1,5 @@
-cook ELK ⏫
+cook elk
 schedule therapy
 review bed stuff
+write emoms
+process transfer links
