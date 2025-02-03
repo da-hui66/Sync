@@ -1,15 +1,13 @@
-go through watch later videos
-	- move tabstash vids to watch later
+use doubke usbc block to power strip or longer usb cables from wall
 	
-go through links/file
-
 how to use browser profiles
 
 defense soap liquid soap for face wash
 
 use both markdown and todo.txt for notes and todos
 
-is there a need for errand sweats or can just wear regular clothes
+is there a need for errand sweats or can just wear regular clothes?
+[sweats-review](../Inbox/sweats.txt)
 
 custom CSS firefox 
 harden fire fox

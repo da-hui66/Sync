@@ -23,3 +23,10 @@ https://c2tactical.com/new-to-shooting/
 https://www.horseforum.com/threads/i-want-to-learn-how-to-shoot-a-gun.273065/
 https://armedwomen.org/2024/09/11/new-to-handguns-our-10-beginner-tips-when-learning-to-shoot-a-gun/
 https://www.gq.com/story/move-out-stay-together-conscious-resettling
+
+https://www.amazon.com/Yamazaki-Home-Tower-Laundry-Basket/dp/B00T9AJ03U?crid=32BN65L9FB0RF&dib=eyJ2IjoiMSJ9.w7yGlu4rKTAbvi4qRgmLj4ghwCEaF75iY-MH51eUs8UvXRn1Zt0hzTb2nUs-7Fh2u50QtSIeTd6_TJbAGA2rNbPoSnx_oaHiPc_m5UGTS1KrGkSYLPV_Tdc2l_5Cx1oA9PG4j2-Aah5PaMofRmxfRj_eAjqWA3_Si9f_hAYSJC7JUCo7-43EOgRdpjqA93fCDfExquYyaHM01KdpgDhXQQ4owI5hKNEwf0gw8SWqYrAMQ21dqqPv4GpOUfmPwO86pXAQyatdbrl5SBf9XD_s2wX8OPghA07zEt_0z6Fngx4.Roya2NNJikwPRJlt2jxEfLtaliNM2NyLo4CKOEkdCSM&dib_tag=se&keywords=yamazaki%2Blaundry&qid=1733512538&sprefix=yamazaki%2Blaund%2Caps%2C137&sr=8-5&th=1)
+https://www.amazon.com/ASTOFLI-Cabinet-Adhesive-Drilling-Stainless/dp/B09J2H5WWQ?th=1
+https://www.thefutonshop.com/organic-cotton-barrier-cover-for-mattresses-and-futons
+https://www.thefutonshop.com/tatami-mat-japanese
+https://www.thefutonshop.com/tatami-bed-natural-japanese-style-platform-bed
+https://www.thefutonshop.com/2-inch-soft-organic-wool-mattress-topper

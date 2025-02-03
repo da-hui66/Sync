@@ -1,8 +1,6 @@
-(A) birthday planning
-    gift
-	marble falls
-    jester king
-	shooting?
+go through links/file
+go through watch later videos
+	- move tabstash vids to watch later
 figure out remaining schedule reminders
 rewrite schedule
 	- plan day for food prep
