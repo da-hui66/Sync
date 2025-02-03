@@ -1,4 +1,4 @@
-use doubke usbc block to power strip or longer usb cables from wall
+use double usbc block to power strip or longer usb cables from wall
 	
 how to use browser profiles
 
