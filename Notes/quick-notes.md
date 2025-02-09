@@ -1,3 +1,19 @@
+daily workout
+    1000 push ups
+    100 pull ups
+    300 dips
+    1000 squats
+
+how to make markdown wiki
+
+p365 sig suaer hand gun
+
+how to sing
+
+switch venture to non annual CC
+
+buy masa book
+
 andrew huberman heartbreak
 
 use double usbc block to power strip or longer usb cables from wall

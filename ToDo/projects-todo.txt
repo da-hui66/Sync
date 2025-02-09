@@ -8,7 +8,6 @@ Write footwork for workout +incorporate-ladder?
 read authentic mexican cook book
 Write guitar routine
 Write 4x yoga routine
-look at ACC or online school
 play with anki/ankiweb
 read working copy welcome
 read plaintext articles
@@ -17,17 +16,6 @@ try crest whitening trays
 increase linux disk space from windows
 move bit warden to proton?
 build guitar repertoire
-budgets after CCs paidof
-    - loan repayment
-    - car savings
-    - school budget
-    - tattoo savings
-transfer payment to CC
-    - renzo 
-    - spotify 
-    - spectrum
-    - betterhelp
-set up auto drafts on student loan payments
 set up searxng
 change debian to centOS for server OS
 set up next cloud instace to replace Dropbox
@@ -45,12 +33,6 @@ transfer brave creds to bit warden
 transfer credentials to bit warden
 remove done-date from todo extension in codium
 turn off auto complete in codium
-plan/budget slist
-set auto-withdrawls for
-    - savings
-    - car 
-    - tattoos 
-    - slist-fund
 rework resume
 plan certs q2/personal
 Anki python tutorial

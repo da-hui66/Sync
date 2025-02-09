@@ -1,1 +1,13 @@
-get walmart sweats
+return library book
+transfer payment to CC
+    - renzo 
+    - spotify 
+    - spectrum
+    - betterhelp
+    - amazon
+    - venmo
+    - paypal
+    - apple
+order GIs
+order true classic shirt jacket
+groceries due:2/10
