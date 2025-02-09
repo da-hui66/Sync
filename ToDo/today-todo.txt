@@ -10,4 +10,5 @@ transfer payment to CC
     - apple
 order GIs
 order true classic shirt jacket
+schedule therapy
 groceries due:2/10
