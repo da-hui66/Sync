@@ -1,3 +1,5 @@
+make list of emails to change from gmail to proton
+
 daily workout
     1000 push ups
     100 pull ups

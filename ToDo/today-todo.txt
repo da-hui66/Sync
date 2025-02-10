@@ -1,14 +1,2 @@
 return library book
-transfer payment to CC
-    - renzo 
-    - spotify 
-    - spectrum
-    - betterhelp
-    - amazon
-    - venmo
-    - paypal
-    - apple
-order GIs
-order true classic shirt jacket
-schedule therapy
-groceries due:2/10
+groceries due:2/11
