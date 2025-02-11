@@ -1,4 +1,3 @@
-get walmart sweats due:2-14
 take apart desk
 donate chair/desk/corner rack/shoe rock/hangers
 deposit cash
@@ -48,4 +47,5 @@ transfer payment to CC
     - amazon
     - venmo
     - paypal
-    - apple
+    - apple/apple pay
+	- uber
