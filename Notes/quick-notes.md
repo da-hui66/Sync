@@ -1,4 +1,5 @@
-target shirt jacket for home
+use flimsy composition books for projects (replace writing in memo pad)
+use sturdy for journaling
 
 make list of emails to change from gmail to proton
 
