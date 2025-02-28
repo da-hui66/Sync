@@ -9,6 +9,7 @@ beef
 butter
 eggs
 milk
+cheese
 coffee
 coffee filters
 salt
