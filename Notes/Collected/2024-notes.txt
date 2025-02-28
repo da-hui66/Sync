@@ -787,14 +787,6 @@ try insomnia cookies
 
 try voodoo dounghnuts
 
-replace:
-    'nine stories'
-    'make something up'
-    'sometimes you feel so alone'
-    'sifting through the word'
-    'on the road'
-    'catcher in the rye'
-
 watch WNO: 23, 24
 
 rewatch CJI, ADCC
