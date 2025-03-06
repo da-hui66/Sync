@@ -1,0 +1,73 @@
+## INSTALL OPENSSH SERVER ##
+Get-WindowsCapability -Online | ? Name -like 'OpenSSH*'
+Add-WindowsCapability -Online -Name OpenSSH.Server~~~~0.0.1.0
+
+## CONFIRM OPEN SSH SERVER INSTALL ##
+Get-WindowsCapability -Online | ? Name -like 'OpenSSH*'
+
+## START SSH ##
+Start-Service sshd
+Get-Service sshd
+
+## CONFIURE SSH TO START ON BOOT ##
+Set-Service -Name sshd -StartupType 'Automatic'
+
+## SET DEFAULT SHELL ##
+New-ItemProperty -Path "HKLM:\SOFTWARE\OpenSSH" -Name DefaultShell -Value "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" -PropertyType String -Force 
+
+
+install docker desktop
+configure to start on startup?
+
+## CONFIGURE CONTAINER ##
+mkdir NewsBoat-Docker
+cd /NewsBoat-Docker
+create Dockerfile
+
+## BUILD CONTAINER ##
+docker build -t newsboat .
+docker images
+
+
+## CREATE CONTIANER/MAP THE SSH PORT (22) INSIDE THE CONTAINER TO A PORT ON HOST MACHINE ##
+docker run -d -p 2222:22 --name newsboat newsboat
+
+docker ps -a
+
+## CONNECT TO CONTAINER LOCALLY ##
+ssh root@localhost -p 2222 
+$password
+
+## ADD URLS ##
+newsboat
+nano ~/.newsboat/urls
+
+https://www.wired.com/feed/tag/wired-guide/latest/rss
+
+
+## CONNECT TO CONTAINER REMOTELY ##
+ssh $windows-user@$windows-ip -p 22
+$windows-password
+ssh into container 
+    ssh root@$windows-ip -p 2222
+
+
+## POWERSHELL PROFILE
+$PROFILE
+New-Item -Path $PROFILE -ItemType File -Force
+code $PROFILE
+function poki {
+    ssh root@localhost -p 2222
+}
+
+## bash alias
+nano ~/.bashrc
+alias poki='newsboat'
+source ~/.bashrc
+
+
+## ANDROID TERMINAL ALIAS ##
+alias poki='ssh $windows-user@$windows-ip -p 22'
+
+## IF NEED TO REBUILD DOCKER ##
+ssh-keygen -R [localhost]:2222
