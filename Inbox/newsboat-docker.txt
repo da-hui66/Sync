@@ -77,6 +77,10 @@ function newdoc {
     ssh root@localhost -p 2222
 }
 
+function e {
+exit
+}
+
 ## ANDROID TERMINAL ALIAS ##
 -------------------------------
 alias wind='ssh $windows-user@$windows-ip -p 22'
@@ -146,11 +150,37 @@ alias read='$path-to-script/newsboat-open.sh'
 -----------
 cat /tmp/urls-to-open
 
-#### ANDROID SCRIPT ####
+#### ANDROID SCRIPT IF NEEDED ####
 ------------------------
 pkg update && pkg install openssh xdg-utils
 
 #!/data/data/com.termux/files/usr/bin/bash
+
+## LAPTOP SETUP ##
+--------------------
+Get-WindowsCapability -Online | ? Name -like 'OpenSSH*'
+
+
+$PROFILE
+New-Item -Path $PROFILE -ItemType File -Force
+code $PROFILE
+function wind {
+    ssh DaHui@192.168.1.208
+}
+
+
+function open{
+    & "C:\Users\DaHui\Documents\Scripts\newsboat-open.ps1"
+}
+
+New-Item -Path "C:\Temp" -ItemType Directory -Force
+New-Item -Path "C:\Users\$user\Documents\Scripts" ItemType Directory -Force
+New-Item -Path "C:\Users\$user\Documents\Scripts\newsboat-open.ps1"
+code  C:\Users\user\Documents\Scripts\newsboat-open.ps1
+
+    scp -P 2222 root@localhost:/root/.newsboat/urls-to-open C:\Temp\newsboat-urls.txt
+    Get-Content C:\Temp\newsboat-urls.txt | ForEach-Object { Start-Process $_ }
+    Clear-Content C:\Temp\newsboat-urls.txt
 
 ===================
 ### VALIDATION ###
