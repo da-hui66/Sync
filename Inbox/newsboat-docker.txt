@@ -134,6 +134,7 @@ cat C:\Temp\newsboat-transfer.txt
 ---------------
 touch newsboat-open.sh
 chmod a+x newsboat-open.sh
+nano newsboat-open.sh
     #!/bin/bash
     scp DaHui@192.168.1.208:C:\Temp\newsboat-transfer.txt /tmp/urls-to-open
     cat /tmp/urls-to-open | xargs -n 1 xdg-open
@@ -144,12 +145,44 @@ alias read='$path-to-script/newsboat-open.sh'
 ## TEST ##
 -----------
 cat /tmp/urls-to-open
-==========================================================================
-==========================================================================
 
+#### ANDROID SCRIPT ####
+------------------------
+pkg update && pkg install openssh xdg-utils
+
+#!/data/data/com.termux/files/usr/bin/bash
+
+===================
 ### VALIDATION ###
--------------------
-test from windows to contianer, check feed, clear, open urls, exit, transfer and read in browser
+===================
 
-test from android to container, check feed, clear, open urls, exit, transfer to windows, exit, transfer and read on mobile
+test from windows to contianer
+    - feed
+    - clear
+    - open urls 
+    - exit
+    - transfer and read in browser
 
+test from android to container
+    - check feed
+    - clear
+    - open urls
+    - exit
+    - transfer to windows
+    - exit
+    - transfer and read on mobile
+
+===================
+### commands ###
+===================
+ssh into windows = wind
+ssh into container = newdoc
+
+run newsboat = news
+clear dock urls = clean
+show dock urls = feed
+
+open urls in windows = open (clears feed on windows)
+
+transfer to windows for android = droid (overwrites android-feed for transfer)
+transfer to android from windows = read (clears feed on android)
