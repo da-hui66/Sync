@@ -1,7 +1,7 @@
 ## COPY CONFIG/URLS ##
 ------------------------
 bash
-code ~/.newsboat/config ~/.newsboat/urls /mnt/c/users
+code ~/.newsboat/config ~/.newsboat/urls
 
 ## INSTALL OPENSSH SERVER ##
 -------------------------------
