@@ -46,7 +46,8 @@ https://www.wired.com/feed/tag/wired-guide/latest/rss
 
 ## MAKE NEWSBOAT ALIAS IN CONTAINER ##
 nano ~/.bashrc
-alias poki='newsboat'
+alias news='newsboat'
+alias e='exit'
 
 ## CONNECT TO CONTAINER REMOTELY ##
 ssh $windows-user@$windows-ip -p 22
@@ -59,12 +60,14 @@ ssh into container
 $PROFILE
 New-Item -Path $PROFILE -ItemType File -Force
 code $PROFILE
-function poki {
+function newdoc {
     ssh root@localhost -p 2222
 }
 
 ## ANDROID TERMINAL ALIAS ##
-alias poki='ssh $windows-user@$windows-ip -p 22'
+alias wind='ssh $windows-user@$windows-ip -p 22'
 
+
+======================================================
 ## IF NEED TO REBUILD DOCKER ##
 ssh-keygen -R [localhost]:2222
