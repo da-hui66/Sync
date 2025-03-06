@@ -1,3 +1,8 @@
+## COPY CONFIG/URLS ##
+------------------------
+bash
+code ~/.newsboat/config ~/.newsboat/urls /mnt/c/users
+
 ## INSTALL OPENSSH SERVER ##
 -------------------------------
 Get-WindowsCapability -Online | ? Name -like 'OpenSSH*'
@@ -46,6 +51,7 @@ docker ps -a
 -------------------------------
 ssh root@localhost -p 2222 
 $password
+
 
 ## ADD URLS ##
 -------------------------------
