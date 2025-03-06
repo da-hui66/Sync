@@ -44,6 +44,9 @@ nano ~/.newsboat/urls
 
 https://www.wired.com/feed/tag/wired-guide/latest/rss
 
+## MAKE NEWSBOAT ALIAS IN CONTAINER ##
+nano ~/.bashrc
+alias poki='newsboat'
 
 ## CONNECT TO CONTAINER REMOTELY ##
 ssh $windows-user@$windows-ip -p 22
@@ -59,12 +62,6 @@ code $PROFILE
 function poki {
     ssh root@localhost -p 2222
 }
-
-## bash alias
-nano ~/.bashrc
-alias poki='newsboat'
-source ~/.bashrc
-
 
 ## ANDROID TERMINAL ALIAS ##
 alias poki='ssh $windows-user@$windows-ip -p 22'
