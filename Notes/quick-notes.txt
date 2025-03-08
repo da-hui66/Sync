@@ -1,3 +1,8 @@
+shop for android phone non-goolge
+project += pixel OEM w/ graphene OS
+
+install manjaro on old laptop
+
 either set up nested repositories or set up a workspace and move unrequire stuff to a different repository - switch to github?
 
 take two step notes

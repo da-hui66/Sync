@@ -1,3 +1,4 @@
+find vans replacement
 confirm ticket master return
 confirm axs return
 write andrinne +deliver-in-may
@@ -46,9 +47,8 @@ transfer payment to CC
 	- uber
 	- statefarm
 replace:
-    'nine stories'
-    'make something up'
-    'sometimes you feel so alone'
-    'sifting through the word'
-    'on the road'
-    'catcher in the rye'
+?    'nine stories'
+?    'make something up'
+?    'sometimes you feel so alone'
+?    'sifting through the word'
+?    'catcher in the rye'
