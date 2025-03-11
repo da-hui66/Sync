@@ -1,3 +1,6 @@
+use thrive accounts for home speakers, web cam, headset, keyboard/mouse, etc.
+
+
 shop for android phone non-goolge
 project += pixel OEM w/ graphene OS
 

@@ -1,6 +1,4 @@
 find vans replacement
-confirm ticket master return
-confirm axs return
 write andrinne +deliver-in-may
 write emoms
     - add burpees, kb snatch, thrustersprocess transfer links
