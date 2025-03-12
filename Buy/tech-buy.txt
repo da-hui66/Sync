@@ -10,17 +10,19 @@ to-go dock
     - 2x-usb-A 
 2x portable monitors +wiresless HDMI adapters
 Cord management system
-Compact/mechanical keyboard (Logitech MX mechanical Mini) 
-Mouse upgrade (Logitech MX master 3s) 
-mx anywhere 3s (travel mouse)
+Compact/mechanical keyboard (Logitech MX mechanical Mini) +thrivepass
+Mouse upgrade (Logitech MX master 3s) +thrivepass
+mx anywhere 3s (travel mouse) +thrivepass
 logitech Computer speakers (Z625 or G560)
 anker power bank
 monitor arms upgrade
 Anker 568 USB-C dock upgrade 
-logitech web cam( C920s PRO)
+logitech web cam( C920s PRO) +thrivepass
 new laptop
 anker usb hub
 bose quiet comfort ultra
 benQ light bars
 benQ desk lamp
-logitech headset zone vibe 125 or logitche zone wireless earbuds (for work)
+logitech headset zone vibe 125 or logitche zone wireless earbuds (for work) +thrivepass
+anker usbc -> usbc chords
+anker hdmi -> usbc chord

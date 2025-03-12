@@ -1,3 +1,4 @@
+make wiki
 Make cleaning schedule
 go through productivitiy
 go through research/learn
@@ -12,12 +13,13 @@ play with anki/ankiweb
 read working copy welcome
 read plaintext articles
 look up GTD articles
-try crest whitening trays
 increase linux disk space from windows
 move bit warden to proton?
 build guitar repertoire
 set up searxng
-change debian to centOS for server OS
+change mx-linux to centOS for server OS
+change debian to manjaro
+change mint to mx-linux
 set up next cloud instace to replace Dropbox
     - buy domain
     - run as container
@@ -42,9 +44,7 @@ get enigma subscription
 work though browser links
 'watch later' in youtube
 clear archived emails
-fix virt-manager w/ bridge network
-try manjaro linux
-cutover to mx-linux
+fix virt-manager w/ bridge network 
 configure NAS
     - orderMemory
     - swapSSD/RAM

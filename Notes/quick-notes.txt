@@ -1,10 +1,21 @@
-use thrive accounts for home speakers, web cam, headset, keyboard/mouse, etc.
+change language in text editor to markdown but keep files named .txt to link things
 
+try true classic briefs
+
+true classic comuter pants to replace jcrew chinos for casual in summer?
+
+figure out how to pay off CCs to avoid interest charges
+
+use github for personal and gitlab for projects
+
+go back to school in the fall
+
+certs = aws, hasicorp, linux, network+
+
+use thrive accounts for home speakers, web cam, headset, keyboard/mouse, etc.
 
 shop for android phone non-goolge
 project += pixel OEM w/ graphene OS
-
-install manjaro on old laptop
 
 either set up nested repositories or set up a workspace and move unrequire stuff to a different repository - switch to github?
 
@@ -19,7 +30,7 @@ have coffee away from desk in the morning
 meditate in the morning, journal at night
 
 ## goals: get certs, back to school
-## finance: leanne, bed, student loans, truck, tattoo
+## finance: bed, student loans,tattoo, truck
 
 when to pay off credit card to avoid interest charges?
 

@@ -1,20 +1,17 @@
-find vans replacement
 write andrinne +deliver-in-may
 write emoms
-    - add burpees, kb snatch, thrustersprocess transfer links
+    - add burpees, kb snatch, thrusters
 look into toll tag
 find positive affirmations
-(B) fiat renewal due:3-31
-	- inspection
 (A) Wedding/graduation plans
-	- flight
-	- hotel
+	- [x] flight
+	- hotels
 	- car +use-credit-voucher
 	- clothes: TC shirt/blazer/chinos/chain/watch
 	- time off 5/18-5-24
 	- 5/20 Razy wedding
 	- 5/22 Evie grad party
-go through links/file
+go through links +file
 go through watch later videos
 	- move tabstash vids to watch later
 figure out remaining schedule reminders
@@ -29,24 +26,30 @@ calculate budget
 	- determine monthly spending
 	- track spending
 	- student loan repayment plan ($7,635.48)
-	- start budgets: leann repayment, student loans, rebuild marcus (house), car savings, travel savings, tattoo savings
+	- start budgets: 
+		bed
+		student loans
+		tattoo savings
+		car savings
+		rebuild marcus (house)
+		travel savings
 	- plan/budget slist
 look at ACC
 research heavy bag stand
 transfer payment to CC
-    - renzo 
-    - spotify 
-    - spectrum
-    - betterhelp
-    - amazon
-    - venmo
-    - paypal
-    - apple/apple pay
-	- uber
-	- statefarm
+    renzo 
+    spotify 
+    spectrum
+    betterhelp
+    amazon
+    venmo
+    paypal
+    apple/apple pay
+	uber
+	statefarm
 replace:
-?    'nine stories'
-?    'make something up'
-?    'sometimes you feel so alone'
-?    'sifting through the word'
-?    'catcher in the rye'
+    ? 'nine stories'
+    ? 'make something up'
+    ? 'sometimes you feel so alone'
+    ? 'sifting through the word'
+    ? 'catcher in the rye'
