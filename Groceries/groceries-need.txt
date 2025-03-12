@@ -1,11 +1,10 @@
 plates
 bowls
 -------
-coffee
 cheese
 avos
 salsa
 tortillas
-milk
 wipes
 hair clips
+eye drops
