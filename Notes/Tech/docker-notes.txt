@@ -1,0 +1,30 @@
+docker ps
+docker ps -a
+
+docker images
+docker rmi $image-name
+docker search $image-search
+docker pull $image
+
+docker run -it --name $name $image /bin/bash
+docker start $container-name
+docker exec -it $container-name /bin/bash
+docker stop $container-name
+
+docker rm $container-name
+docker container prune -f
+
+## KALI ##
+-----------
+docker pull kalilinux/kali-rolling
+docker run -it --privileged --name kali-lab -v ~/Documents/Projects/Docker/KaliData:/root kalilinux/kali-rolling /bin/bash
+docker start kali-lab
+docker exec -it kali-lab /bin/bash
+docker stop kali-lab
+docker rm kali-lab
+
+
+## DOCKER COMPOSE ##
+---------------------
+docker-compose up --build -d
+docker-compose down 
