@@ -1,8 +1,11 @@
-change language in text editor to markdown but keep files named .txt to link things
+meals:
+    1 - egg taco /w cheese
+    2 - beef taco /w avo
+    3 - egg+beef taco w/ cheese+avo 
 
 try true classic briefs
 
-true classic comuter pants to replace jcrew chinos for casual in summer?
+true classic comuter pants to replace jcrew chinos for casual in summer
 
 figure out how to pay off CCs to avoid interest charges
 
@@ -10,7 +13,7 @@ use github for personal and gitlab for projects
 
 go back to school in the fall
 
-certs = aws, hasicorp, linux, network+
+certs = aws, hasicorp, linux+, network+
 
 use thrive accounts for home speakers, web cam, headset, keyboard/mouse, etc.
 
@@ -43,12 +46,6 @@ use sturdy for journaling
 
 make list of emails to change from gmail to proton
 
-daily workout
-    1000 push ups
-    100 pull ups
-    300 dips
-    1000 squats
-
 how to make markdown wiki
 
 p365 sig suaer hand gun
@@ -59,8 +56,6 @@ switch venture to non annual CC
 
 buy masa book
 
-andrew huberman heartbreak
-
 use double usbc block to power strip or longer usb cables from wall
 	
 how to use browser profiles
@@ -68,11 +63,5 @@ how to use browser profiles
 defense soap liquid soap for face wash
 
 use both markdown and todo.txt for notes and todos
-
-is there a need for errand sweats or can just wear regular clothes?
-[sweats-review](../Inbox/sweats.txt)
-
-custom CSS firefox 
-harden fire fox
 
 use nested repositories

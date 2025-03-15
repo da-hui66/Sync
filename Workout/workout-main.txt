@@ -11,16 +11,19 @@ lunges
 curls + tricep extension
 wood chops
 
+
 ## KB FINISHER ##
 --------------------
 halos
 farmers
 tgu 
 
+
 ## EMOM ##
 ------------
 devils press
 thrusters
+
 
 ## CAL ##
 ------
@@ -28,12 +31,15 @@ pistol squats
 hspu
 pull-up
 dips
+pike press
 med ball push-outs
 crosshack squat
 pike press
 chin-ups
 push-ups
+handstand push-up
 med ball sit-ups
+
 
 ## ISO ##
 -------------
@@ -42,6 +48,7 @@ band front raise/shoulder press
 band rows/push press
 band curls/tricep extensions
 ab wheel
+
 
 ## RUN ##
 ---------
@@ -56,9 +63,11 @@ non hill run
 ## FOOTWORK ##
 ---------------
 
+
 ## ASSAULT BIKE ##
 ------------------
 8x 20s work/40s rest
+
 
 ## GRAPPLING ##
 ----------------
@@ -74,6 +83,7 @@ snap downs
 sprawls
 circles
 feints
+
 
 ## BOXING ##
 -------------

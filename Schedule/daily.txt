@@ -1,6 +1,6 @@
 cardio
 workout
-training
+x training
 code
 tryhackme
 guitar
@@ -10,3 +10,4 @@ read
 yoga
 meditation
 affirmations
+study

@@ -1,10 +1,7 @@
-temp schedule = 1/2/3 + 1/2/4
 schedule = 1/3/2/4
 
-## DAY 1 ##
-
-kb, footwork, jumprope
-----------------------
+## DAY 1 - KB/JUMPROPE ## 
+-----------------------------
 deadlift
 strict press
 front squat
@@ -16,42 +13,23 @@ lunges
 curls + tricep extension
 wood chops
 
-## DAY 2 ##
-
-cal, iso, hill run
-------------------
+## DAY 2 - CAL/NON-HILL-RUN ##
+------------------------------
 pistol squats
 pull-up
 dips
+pike press
 Med ball push-outs
 crosshack squat
 chin-ups
 push-ups
+handstand push-up
 Med ball sit-ups
 
-banded squats
-band front raise/shoulder press
-band rows/push press
-band curls/tricep extensions
-ab wheel
 
-## DAY 3 ##
 
-grappling, boxing, non hill run
+## DAY 3 - BOXING/HILL-RUN ##
 -------------------------------
-sit-outs
-8pt drill
-single leg
-double leg
-ankle pick
-arm drags
-ducks
-down blocks
-snap downs
-sprawls
-circles
-feints
-
 1-2-3-2
 left/right
 1-2-5-2
@@ -65,14 +43,18 @@ slips
 rolls
 2-5-6-3
 
-## DAY 4 ## 
+## DAY 4 - KB-FINISHER/EMOM/BIKE-SPRINTS/ISO/FOOTWORK ##
+--------------------------------------------------------
+halos
+farmers
+tgu
 
-kb finisher, bike sprints, emom, footwork, jumprope
----------------------------------------------------
 devils press/thrusters
 
 8x 20s work/40s rest
 
-halos
-farmers
-tgu
+banded squats
+band front raise/shoulder press
+band rows/push press
+band curls/tricep extensions
+ab wheel
