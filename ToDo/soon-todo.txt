@@ -1,3 +1,4 @@
+kova reinstall wsl/git/vscode/newsboat/docker
 consolidate notes
 process MoveToCodium
 taxes
