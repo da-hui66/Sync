@@ -1,3 +1,4 @@
+haircut due:3-31
 kova reinstall wsl/git/vscode/newsboat/docker
 consolidate notes
 process MoveToCodium
@@ -5,15 +6,15 @@ taxes
 figure out aws free tier expiration
 turn off quicksilver emails
 turn off coinbase emails
+turn off schwab emails
 request wf time off for wedding trip
 confirm ticket master return
-find vans replacement
-buy guitar strings
+get active short
+get 5 pocket short
+order new work pants
 determine schedule
 come up with no capo repertoire
 write andrinne +deliver-in-may
-write emoms
-    - add burpees, kb snatch, thrusters
 look into toll tag
 find positive affirmations
 (A) Wedding/graduation plans
@@ -24,6 +25,8 @@ find positive affirmations
 	- time off 5/18-5-24
 	- 5/20 Razy wedding
 	- 5/22 Evie grad party
+	- planning
+	- haircut?
 go through links +file
 go through watch later videos
 	- move tabstash vids to watch later
@@ -60,9 +63,4 @@ transfer payment to CC
     apple/apple pay
 	uber
 	statefarm
-replace:
-    ? 'nine stories'
-    ? 'make something up'
-    ? 'sometimes you feel so alone'
-    ? 'sifting through the word'
-    ? 'catcher in the rye'
+find vans replacement
