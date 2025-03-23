@@ -1,0 +1,16 @@
+nmap -sV $host-ip
+nmap -sn $subnet/24
+
+ping -c $number $hostw
+
+msfconsole
+
+ls -lah /usr/share/wordlists/ | grep rockyou
+gzip -d /usr/share/wordlists/rockyou.txt.gz
+hydra -l admin -P /usr/share/wordlists/rockyou.txt ssh://192.168.1.208
+
+
+tcpdump -i eth0 -nn -c 50 -w capture.pcap
+tcpdump -r capture.pcap
+
+nikto -h 192.168.1.208
