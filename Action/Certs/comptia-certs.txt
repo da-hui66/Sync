@@ -1,0 +1,21 @@
+1. CompTIA Core
+---------------
+ITF+
+A+
+NW+
+SEC+
+
+2. CompTIA Speciality
+----------------------
+
+# INFRA #
+--------
+Linux+
+Server+
+Cloud+
+
+# SEC #
+--------
+CYSA+
+PenTest+
+CASP+

@@ -1,4 +1,4 @@
-make wiki
+make markdown wiki
 Make cleaning schedule
 go through productivitiy
 go through research/learn
@@ -60,3 +60,4 @@ odin project
 set up linkdin
 portable tails OS
 jiujitsu gameplan
+pixel OEM w/ graphene OS

@@ -1,0 +1,7 @@
+plug.vim goes to ~/local/share/nvim/site/autoload/
+make file -> init.vim goes to .config/nvim/ <- have to make this directory
+
+
+
+to comment out plug = <plug>, { 'on': [] }
+

@@ -1,66 +1,19 @@
-haircut due:3-31
-kova reinstall wsl/git/vscode/newsboat/docker
-consolidate notes
-process MoveToCodium
-taxes
-figure out aws free tier expiration
-turn off quicksilver emails
-turn off coinbase emails
-turn off schwab emails
-request wf time off for wedding trip
-confirm ticket master return
-get active short
-get 5 pocket short
-order new work pants
-determine schedule
-come up with no capo repertoire
-write andrinne +deliver-in-may
-look into toll tag
-find positive affirmations
 (A) Wedding/graduation plans
-	- [x] flight
-	- hotels
-	- car +use-credit-voucher
-	- clothes: TC shirt/blazer/chinos/chain/watch
-	- time off 5/18-5-24
-	- 5/20 Razy wedding
-	- 5/22 Evie grad party
-	- planning
-	- haircut?
-go through links +file
-go through watch later videos
-	- move tabstash vids to watch later
-figure out remaining schedule reminders
-rewrite schedule
-	- plan day for food prep
-	- cardio during daylight hours
-	- scheduled 'to-do' time
-	- figure out remaining schedule reminders
-	- write morning routine
-	- write bedtime routine
+-----------------------------
+haircut due:3-31
+meet with michael
+meet with dylan
+write andrinne +deliver-in-may
+confirm PTO requests for WF for wedding trip 5/18-19 + 5/24-26
 calculate budget
 	- determine monthly spending
 	- track spending
 	- student loan repayment plan ($7,635.48)
 	- start budgets: 
-		bed
-		student loans
-		tattoo savings
-		car savings
-		rebuild marcus (house)
-		travel savings
+		- bed
+		- student loans
+		- tattoo savings
+		- car savings
+		- rebuild marcus (house)
+		- travel savings
 	- plan/budget slist
-look at ACC
-research heavy bag stand
-transfer payment to CC
-    renzo 
-    spotify 
-    spectrum
-    betterhelp
-    amazon
-    venmo
-    paypal
-    apple/apple pay
-	uber
-	statefarm
-find vans replacement

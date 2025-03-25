@@ -1,0 +1,2 @@
+'set linebreak' = enables line breaks for words
+'set spell' = enables spell check
