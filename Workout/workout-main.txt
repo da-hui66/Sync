@@ -50,18 +50,12 @@ band curls/tricep extensions
 ab wheel
 
 
-## RUN ##
----------
+## CARDIO ##
+--------------
 hill run
 non hill run
-
-
-## JUMPROPE ##
-------------
-
-
-## FOOTWORK ##
----------------
+jumprope
+footwork
 
 
 ## ASSAULT BIKE ##

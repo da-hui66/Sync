@@ -1,21 +1,12 @@
-schedule due:3-29
+schedule haircut due:3-29
 talk to james about off 4/5-4/6
-figure out aws free tier expiratione
-turn off quicksilver emails
-turn off coinbase emails
-turn off schwab emails
-confirm ticket master return
 get active short
-get 5 pocket short
-order new work pants
-figure out remaining schedule reminders
-rewrite schedule
- 	- plan day for food prep
- 	- cardio during daylight hours
- 	- scheduled 'to-do' time
- 	- figure out remaining schedule reminders
- 	- write morning routine
- 	- write bedtime routinelook into toll tag
+getnew work pants
+get vansreplacement
+use thrive pass
+---------------------------------------
+rewrite schedule-main
+look into toll tag
 find positive affirmations
 go through links +file
 go through tabstash vids
@@ -38,7 +29,8 @@ transfer payment to CC
 
 ## MONDAY/TUESDAY ##
 --------------------
+shave/trim
 get whisky
 get soda water
 clean house
-plan workout
+plan tue workout

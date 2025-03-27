@@ -1,6 +1,6 @@
 cardio
 workout
-x training
+training
 code
 tryhackme
 guitar
