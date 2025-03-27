@@ -1,6 +1,5 @@
 (A) Wedding/graduation plans
 -----------------------------
-haircut due:3-31
 meet with michael
 meet with dylan
 write andrinne +deliver-in-may
@@ -9,11 +8,11 @@ calculate budget
 	- determine monthly spending
 	- track spending
 	- student loan repayment plan ($7,635.48)
+	- plan/budget slist
 	- start budgets: 
 		- bed
 		- student loans
-		- tattoo savings
 		- car savings
+		- tattoo savings
 		- rebuild marcus (house)
 		- travel savings
-	- plan/budget slist
