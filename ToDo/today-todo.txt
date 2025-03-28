@@ -1,10 +1,7 @@
-schedule haircut due:3-29
+(A) check in for flight +add-bag]
+finish taxes
 talk to james about off 4/5-4/6
-get active short
-getnew work pants
 get vansreplacement
-(A) use thrive pass
----------------------------------------
 rewrite schedule-main
 look into toll tag
 find positive affirmations
@@ -26,6 +23,8 @@ transfer payment to CC
 	- apple/apple pay
 	- uber
 	- statefarm
+plan meet with michael
+plan meet with dylan
 
 ## MONDAY/TUESDAY ##
 --------------------
