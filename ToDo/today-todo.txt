@@ -1,7 +1,8 @@
-(A) check in for flight +add-bag]
+schedule therapy
 finish taxes
 talk to james about off 4/5-4/6
 get vansreplacement
+get running shoes
 rewrite schedule-main
 look into toll tag
 find positive affirmations
@@ -20,7 +21,8 @@ transfer payment to CC
 	- amazon
 	- venmo
 	- paypal
-	- apple/apple pay
+	- app store
+	- apple pay
 	- uber
 	- statefarm
 plan meet with michael
