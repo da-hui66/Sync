@@ -1,6 +1,7 @@
 (A) finish taxes
 (A) Wedding/graduation plans
 -----------------------------
+flip macbook
 rewrite schedule-main
 find positive affirmations
 go through links +file
