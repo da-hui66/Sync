@@ -1,4 +1,4 @@
-tomatillo
+tomato
 garlic
 onion
 chilis
@@ -15,7 +15,6 @@ coffee filters
 salt
 honey
 tortilla
-hot sauce
 gum
 wipes
 toilet paper
