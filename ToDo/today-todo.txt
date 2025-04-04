@@ -1,13 +1,9 @@
 salsa
-shave
-
-## TOMORROW ##
---------------
 hotel review
 write saturday workout
 trim/nails
 guitar
 run
 pack
-lift
+workout
 sweep/mop
