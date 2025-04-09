@@ -1,4 +1,5 @@
-brush
+new brush (knot doctor)
+boar brush
 manscapped shavor
 different active short
 shower curtain
@@ -9,6 +10,7 @@ tolietry kit
 bluetooth headphones
 running shoes replacement
 vans replacement
+music stand
 
 
 desk drawer
@@ -29,4 +31,3 @@ belt/buckel
 cowboy boots
 cowboy hat
 straight western jeans +levis
-carry on suitcase or duffel bag?
