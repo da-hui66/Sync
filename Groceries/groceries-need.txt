@@ -1,15 +1,14 @@
-lube
--------
-
-
-
-
-
-
-
-
-
-
-
- 
-
+avocado
+potatos
+beef
+eggs
+milk
+cheese
+hand soap
+chapstick
+toothpaste
+floss
+eye drops (day)
+electrolytes
+preworkout
+electrolyte water
