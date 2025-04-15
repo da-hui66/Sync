@@ -1,6 +1,8 @@
-(A) taxes
+x (A) 2025-04-15 taxes
 (B) lacy airbnb
 (C) work out warp tour/flordia dates
+run
+workout
 clean bathroom
 sweep
 water plants
