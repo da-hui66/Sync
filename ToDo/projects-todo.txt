@@ -1,12 +1,10 @@
 make markdown wiki
-Make cleaning schedule
 go through productivitiy
 go through research/learn
 go through later to-do
 Go through projects.todo
 Go through 23-24 notes
 Write footwork for workout +incorporate-ladder?
-read authentic mexican cook book
 Write guitar routine
 Write 4x yoga routine
 play with anki/ankiweb
@@ -14,7 +12,6 @@ read working copy welcome
 read plaintext articles
 look up GTD articles
 increase linux disk space from windows
-move bit warden to proton?
 build guitar repertoire
 set up searxng
 change mx-linux to centOS for server OS
