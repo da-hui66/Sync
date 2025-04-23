@@ -1,13 +1,11 @@
 ## BUY ##
 ----------
-sink screen
-toothbrush
-coffee cup
 water cup
 headphones
 immersion circulator
 cast iron
 on food and cooking
+wok
 
 ## FOOD ##
 -----------
@@ -25,6 +23,7 @@ elephant room
 white horse tx on tap
 
 
-wok
-opal
-marigold
+## LIKES ##
+------------
+stone = opal
+color = marigold
