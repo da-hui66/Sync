@@ -1,5 +1,3 @@
-sink screen
--------------
 tomato
 tomatillo
 garlic
@@ -14,4 +12,10 @@ milk
 cheese
 coffee filters
 paper towels
+toilet paper
+wipes
+deodorent
+toothbrush
+handsoap
+trash bags(10gals)
 eye drops (day) 2x
