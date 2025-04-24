@@ -6,6 +6,8 @@ chilis
 cilantro
 avocado
 limes
+potatoes
+tortillas
 beef
 eggs
 milk

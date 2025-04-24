@@ -6,11 +6,13 @@ chilis
 cilantro
 avocado
 limes
+potatoes
 beef
 butter
 eggs
 milk
 cheese
+tortillas
 coffee
 coffee filters
 salt
