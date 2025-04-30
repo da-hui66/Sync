@@ -1,6 +1,6 @@
 groceries @6:00
 x 2025-04-30 buy window part @7:30
-lacy airbnb
+x 2025-04-30 lacy airbnb
 order tire
 amazon return
 water plants
