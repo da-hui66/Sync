@@ -1,9 +1,8 @@
 cook beef
 cook salsa
 cook potatos
-appply to domain store
+apply to domain store +format-resume
 add middle name to cait flights
-check IRS stuff
 macbook appointment
 (B) work out warp tour/flordia dates
 schedule pick up window part
