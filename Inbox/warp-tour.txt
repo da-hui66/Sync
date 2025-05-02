@@ -1,2 +1,4 @@
-rent car for the trip +use-credit
+time off @q2 @wf
+rent car for the trip
+    - use rental credit
 best friends reservation @vegas

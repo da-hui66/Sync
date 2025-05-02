@@ -1,5 +1,8 @@
 time off @q2 @wf
 flights
+    - use spirt credit?
 car
+    - use venture miles?
 hotel
+    - use venture miles?
 activities
