@@ -3,7 +3,7 @@
 	- stay at jiba's house 
 	- determine time/location of registration renewal
 	- determine registration requirements
-	- gather necesssary resources for next day
+	- gather necesssary resources for tomorrow
 	- stage necessary resources for alice
 	- finish what was started before WF ("on top")
 
