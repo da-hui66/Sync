@@ -1,7 +1,9 @@
 ## TODAY ##
 ------------
+research tax office
 organize todo files
-plan things
+schedule thearpy
+request mexico the cookbook
 
 
 
@@ -41,4 +43,5 @@ ask off family vacation dates @q2 @wf +7/31-8/5
 plan zac bryan +8/21-9/1
 BMTH time off @wf +9-27
 RCS time off @wf +9-28
+ACL time off @q2 @wf +??
 make outline for thailand trip
