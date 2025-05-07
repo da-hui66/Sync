@@ -1,0 +1,122 @@
+## LATER ##
+------------
+change WF/Q2 withholding
+replace levis/order new jeans +true-classic?
+find positive affirmations
+go through links +file
+go through tabstash vids
+	- move keep to watch later @youtube
+go through watch directory
+ 	- move to youtube playlists
+go through watch later videos
+transfer payment to CC
+	- renzo 
+	- spotify 
+	- spectrum
+	- betterhelp
+	- amazon
+	- venmo
+	- paypal
+	- app store
+	- apple pay
+	- uber
+	- statefarm
+calculate budget
+	- determine monthly spending
+	- track spending
+	- student loan repayment plan ($7,635.48)
+	- plan/budget slist
+	- start budgets: 
+		- bed
+		- student loans
+		- car savings
+		- tattoo savings
+		- rebuild marcus (house)
+		- travel savings
+set auto-withdrawls for
+    - savings
+    - car 
+    - tattoos 
+    - student loans
+research heavy bag stand
+confirm ticket master return due:5-1
+look at ACC due:fall
+come up with no capo repertoire
+try crest whitening trays
+fund charles swab account
+make fiat service appointment
+clean retainers
+back up files to external
+    - set reoccuring reminder
+find new dentist due:june/july
+replace sometimes you feel so alone, it just makes sense
+figure out how to pay off CCs to avoid interest charges
+find use for spirit flight voucher due:feb-2026
+find use for rental car voucher due:sept-2025
+make list of emails accounts to change from gmail to proton
+switch venture to non annual capitol one +savor
+increase credit limits
+increase boxing to cover non grappling during workout
+
+
+## PROJECTS ##
+---------------
+go through productivitiy
+go through research/learn
+go through later to-do
+Go through projects.todo
+Go through 23-24 notes
+Write footwork for workout +incorporate-ladder?
+Write guitar routine
+Write 4x yoga routine
+play with anki/ankiweb
+read working copy welcome
+read plaintext articles
+look up GTD articles
+increase linux disk space from windows
+build guitar repertoire
+set up searxng
+change mx-linux to centOS for server OS
+change debian to manjaro
+change mint to mx-linux
+set up next cloud instace to replace Dropbox
+    - buy domain
+    - run as container
+write budget @student-loans
+write better solo grappling workout
+write cron job to auto update/upgrade applications
+make bridge network in virt manager
+make IAM swap the root creds for those in terraform project
+delete root user access key
+fix assualt bike arm
+read through AI chat
+transfer brave creds to bit warden
+transfer credentials to bit warden
+remove done-date from todo extension in codium
+turn off auto complete in codium
+rework resume
+plan certs q2/personal
+Anki python tutorial
+generate unique passwords/usernames(aliases) for creds in bitwarden
+transfer email logins to proton mail
+get enigma subscription
+work though browser links
+'watch later' in youtube
+clear archived emails
+fix virt-manager w/ bridge network 
+configure NAS
+    - orderMemory
+    - swapSSD/RAM
+migrate oneNotes 
+    -personal
+    - school
+    - grappling
+migrate safari reading list +from-iphone
+apply for 3rd credit card (travel/large purchase)
+setup VPN
+hack the box
+odin project
+set up linkdin
+portable tails OS
+jiujitsu gameplan
+pixel OEM w/ graphene OS

@@ -1,3 +1,14 @@
+what is dhcp
+explain how an api works
+how to read urls
+explain how dns works
+explain how ip addresses work
+what are open api
+what are fin techs
+bandwidth explained
+what is hot swapping
+what are containers
+how do pointers work
 how to sing
 how to make markdown wiki
 how to use browser profiles

@@ -37,3 +37,17 @@ SUN 11/16  || WF
 MON 11/17  || WF
 TUE 11/18  || Q2
 WED 11/19  || Q2
+
+
+=================
+## ZAC BRYAN ##
+=================
+time off @q2 @wf
+flights
+    - use spirt credit?
+car
+    - use venture miles?
+hotel
+    - use venture miles?
+activities
+
