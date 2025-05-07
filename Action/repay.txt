@@ -2,15 +2,18 @@
 --------
 545 
 
+
 ## ZB ##
 --------
 448 
+
 
 ## HOTELS ##
 ------------
 denton = 182
 whichita falls = 82
 temple = 125
+
 
 ## TOTAL ##
 -----------
