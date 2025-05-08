@@ -16,7 +16,7 @@ plan activities
     - adrienne time?
     - monday activity
     - mt st.helens +backup-plan
-    - shooting range
+    - glacier park +backup-plan
     - thursday activity
     - friday activity/air bnb +backup-plan
     - mt rainer/airbnb +backup-plan

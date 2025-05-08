@@ -1,5 +1,10 @@
 ## APARTMENT ##
 ----------------
+shower curtain
+small target box (for vaporizer parts)
+2x small target box (for bathroom division)
+medium target box (for laundry)
+brita pitcher
 plates
 bowels
 coffee cups
@@ -52,9 +57,10 @@ cow skull
 
 ## CLOTHES ##
 --------------
-tecovas
-bolo tie
+casio duro watch?
+guages (2g=L 0g=R)
 47 brand beanie
+shady rays
 junk beanie (for workout)
 true classic SS button down = 1x
 true classic LS button down = 2x
@@ -70,8 +76,8 @@ true classic commuter short (replace jcrew chino short)
 more levis
 more true classic tees
 more goodfellow shirts (work/workout)
-more goodfellow sweats? (replace walmart?)
-true classic sweats (for home?)
+more goodfellow sweats? (rfor home)
+true classic sweats (for errands)
 carhartt blanket lined detroit jacket
 pair of theives shorts (home)
 brooks running shoes (all black)
@@ -100,6 +106,7 @@ belt/buckel
 cowboy boots
 cowboy hat
 straight western jeans +levis
+bolo tie
 
 
 ## FITNESS ##
@@ -135,6 +142,7 @@ sand bags
 ## MISC ##
 -----------
 electric toothbrush replacement
+mascaped shaver
 ear bud cleaning tools
 groovelife wallet
 flashlight
@@ -154,18 +162,18 @@ timbuk2 dopp kit(toiletries bag)
 timbuk2 never check expandable backpack  ( for travel)
 timbuk2 'player' duffel bag (for travel)
 timbuk2 cipilot luggae roller 'M'
+timbuk2 slacker chest pack?
 datsusara spartan bag (for gym)
-datssara paraphernalia bag
+datssara paraphernalia bag (tolietries?)
 datsusara backpack 28l (for day trips)
 datsusara duffel 62l (for exploring trips)
-fanny pack
 
 
 ## TECH ##
 -----------
-nice earbuds for home
-mid earbuds for workout
-headset earbud replacement for work
+earbuds for home (nice )
+earbuds for workout (mid )
+logitche zone wireless earbuds (work headset replacement) +thrivepass
 spectrum router replacement
 android phone (non-google)
 netgear mesh routers
@@ -177,11 +185,11 @@ to-go dock
     - 2x-usb-A 
 2x portable monitors +wiresless HDMI adapters
 Cord management system
-Compact/mechanical keyboard (Logitech MX mechanical Mini) +thrivepass
-Mouse upgrade (Logitech MX master 3s) +thrivepass
+mechanical keyboard (Logitech MX mechanical Mini) +thrivepass
+mouse upgrade (Logitech MX master 3s) +thrivepass
 mx anywhere 3s (travel mouse) +thrivepass
-logitech Computer speakers (Z625 or G560)
-anker power bank
+anker power bank (for phone)
+anker power bank (for laptop)
 monitor arms upgrade
 Anker 568 USB-C dock upgrade 
 logitech web cam( C920s PRO) +thrivepass
@@ -190,9 +198,13 @@ anker usb hub
 bose quiet comfort ultra
 benQ light bars
 benQ desk lamp
-logitech headset zone vibe 125 or logitche zone wireless earbuds (for work) +thrivepass
 anker usbc -> usbc chords
+anker usba -> usbc chords
 anker hdmi -> usbc chord
+anker lighting cables
+more anker power blocks? (usba?)
+anker car mount
+logitech usb bluetooth audio receiver?
 
 
 ## SOMEDAY ##
@@ -200,7 +212,7 @@ anker hdmi -> usbc chord
 uplift desk
 cobi steel case armless
 state bicycle 6061
-toyota tacoma
-indian scout
+truck
 semi hallowbody electric guitar + amp
 p365 sig suaer hand gun
+tecovas

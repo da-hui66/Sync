@@ -1,10 +1,8 @@
 ## TODAY ##
 ------------
-research tax office
 organize todo files
 schedule thearpy
-request mexico the cookbook
-priority buy
+finish plan washington trip
 
 
 ## SOON ##
@@ -12,7 +10,6 @@ priority buy
 order wedding clothes due:4-30
 	check out dress blundstones
 order shorts for WA trip  +chino +active due:4-30
-	check on realID
 	check out bearbottom shorts
 	check out vuori shorts
 pick up sal weed
@@ -45,3 +42,4 @@ BMTH time off @wf +9-27
 RCS time off @wf +9-28
 ACL time off @q2 @wf +??
 make outline for thailand trip
+check realID
