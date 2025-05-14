@@ -1,28 +1,13 @@
-X flight
-X caitlin WA flight @5/24-5/26
-X time off 5/18 + 5/24-26
-order clothes: blazer/chinos
-schedule haircut
-rental car @kova
 adrienne time
 airbnb
     - x lacy
-    - tacoma @kova
-    - forks @kova
+    - x tacoma @kova
+    - neah @kova
 plan activities
-    - sunday activity
-        - backup plan
-    - mt st.helens planning
-        - backup plan
-    - wednesday activity
-        - backup plan
-    - thursday activity
-        - backup plan
-    - friday activity
-        - backup plan
-    - mt rainer
-        - backup plan
-    - hoh foreset
-        - backup plan
-    - nay bay/cape flattery
-        - backup plan
+    - wednesday activity (tentative)
+    - thursday activity (tentative)
+    - friday activities @seattle
+        - tourist stuff: fisherman's warf, space needle, 
+    - monday activity @science-route
+        - neah bay
+        - plan stops: bainbridge, port townshed, etc.
