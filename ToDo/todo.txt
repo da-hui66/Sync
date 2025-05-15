@@ -2,7 +2,7 @@
 ------------
 add middle name to cait flights
 send cait flight info 
-schedule haircut
+schedule haircut @saturday-12:00
 cancel/reschedule therapy for 5/18 and 5/25
 anmol email
 go through emails
@@ -19,6 +19,5 @@ order jeans for WA trip?
 rain jacket from caitlin
 consult allie due:5-15
 oil change due:5-16
-finish plan washington trip
-neah bay lodging
+(A) finish plan washington trip
 amazon return

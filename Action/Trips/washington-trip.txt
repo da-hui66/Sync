@@ -1,7 +1,6 @@
+write temp workout
 adrienne time
 airbnb
-    - x lacy
-    - x tacoma @kova
     - neah @kova
 plan activities
     - wednesday activity (tentative)
