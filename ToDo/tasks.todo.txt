@@ -3,6 +3,7 @@
 (B) work out warp tour/flordia dates
 ----------------------------------------------------------
 order short sleeve shirt for wedding due:5-30
+order true classic chinos for wedding due:5-30
 ask off port A trip @wf +7/18-19 due:5-30
 ask off warp tour dates @q2 @wf +7/23-30 due:5-30
 ask off family vacation dates @q2 @wf +7/31-8/5 due:5-30
@@ -13,10 +14,12 @@ BMTH time off @wf +9-27
 RCS time off @wf +9-28
 ACL time off @q2 @wf 10/10-10/12
 make outline for thailand trip
-set deadline to return to jiujitsu +wash-GIs
 ----------------------------------------------------------
+rework schedule and specifics for moving in with cait
 order work pants
+order new jeans
 organize todo files
+move reminders and todos at night
 define 3 cc uses
 check out bearbottom shorts
 check out vuori shorts

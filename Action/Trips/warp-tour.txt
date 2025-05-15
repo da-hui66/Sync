@@ -1,4 +1,9 @@
-time off @q2 @wf
+===========
+## TO DO ##
+===========
+get travel monitor and dock?
+time off @q2
+time off @wf
 rent car for the trip
     - use rental credit
 best friends reservation @vegas

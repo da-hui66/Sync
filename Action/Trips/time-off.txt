@@ -1,18 +1,25 @@
-WED 7/23   || Q2
-THU 7/24   || Q2
-FRI 7/25   || Q2
-SAT 7/26   || WF
-SUN 7/27   || WF
-MON 7/28   || WF
-TUE 7/29   || Q2
-WED 7/30   || Q2
-THU 7/31   || Q2
-FRI 8/1    || Q2
-SAT 8/2    || WF
-SUN 8/3    || WF
-SUN 8/4    || WF
-TUE 8/5    || Q2
 ----------------
+WARPED TOUR
+----------------
+WED 7/23   || Q2 | austin -> el paso = 8hrs
+THU 7/24   || Q2 | el paso -> phoenix = 6hrs
+FRI 7/25   || Q2 | phoenix -> long beach = 5hrs
+SAT 7/26   || WF | warp tour
+SUN 7/27   || WF | warp tour
+MON 7/28   || WF | long beach -> las vegas = 5hrs
+TUE 7/29   || Q2 | las vegas -> albuquerque = 8hrs
+WED 7/30   || Q2 | albuquerque -> austin = 8hrs
+----------------
+FLORIDA
+----------------
+THU 7/31   || Q2 | fly
+FRI 8/1    || Q2 |
+SAT 8/2    || WF |
+SUN 8/3    || WF |
+SUN 8/4    || WF |
+TUE 8/5    || Q2 | fly
+----------------
+WEST VIRGINA
 ----------------
 THU 8/28   || Q2
 FRI 8/29   || Q2
@@ -21,6 +28,7 @@ SUN 8/31   || WF
 MON 9/1    || WF
 TUE 9/2    || Q2
 ----------------
+THAILAND
 ----------------
 WED 11/5   || Q2
 THU 11/6   || Q2
@@ -37,17 +45,3 @@ SUN 11/16  || WF
 MON 11/17  || WF
 TUE 11/18  || Q2
 WED 11/19  || Q2
-
-
-=================
-## ZAC BRYAN ##
-=================
-time off @q2 @wf
-flights
-    - use spirt credit?
-car
-    - use venture miles?
-hotel
-    - use venture miles?
-activities
-
