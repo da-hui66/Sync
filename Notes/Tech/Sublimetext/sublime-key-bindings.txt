@@ -1,4 +1,5 @@
 { "keys": ["ctrl+alt+n"], "command": "timestamp" },
+
 { "keys": ["alt+z"], "command": "toggle_setting", "args": {"setting": "word_wrap"}},
 { "keys": ["ctrl+tab"], "command": "next_view" },
 { "keys": ["ctrl+shift+tab"], "command": "prev_view" }
@@ -15,4 +16,4 @@
 ```
 
 [timestamp](https://gist.github.com/tpitale/11e5a2a152ec67a172f9)
-[terminus keybindings](https://packagecontrol.io/packages/Terminus)
+[terminus](https://packagecontrol.io/packages/Terminus)

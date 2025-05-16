@@ -1,8 +1,2 @@
-## SWITCH LINES ##
--------------------
-ctrl+shift up/down
-
-## SORT LINES ##
------------------
-ctrl + a = select lines
-f9 = sort lines
+ctrl+shift up/down = swtich lines
+ctrl+shift+d = duplicate line
