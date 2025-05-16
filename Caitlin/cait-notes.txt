@@ -1,6 +1,7 @@
 ## BUY ##
 ----------
-water cup
+water bottle
+yeti tumblr
 bluetooth earbuds
 noise cancel headphone
 immersion circulator
@@ -47,3 +48,9 @@ flower = peony
 -----------
 sexy calendar for birthday
 go to pilates class
+
+## WEDDING ##
+--------------
+alice
+lights
+play "rattlesnake"
