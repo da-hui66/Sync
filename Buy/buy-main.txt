@@ -207,7 +207,8 @@ anker usbc -> usbc chords
 anker usba -> usbc chords
 anker hdmi -> usbc chord
 anker lighting cables
-more anker power blocks? (usba?)
+anker usbc blocks
+anker usba blocks
 anker car mount
 logitech usb bluetooth audio receiver?
 
