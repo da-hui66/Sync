@@ -2,14 +2,9 @@
 ## WARPED TOUR ##
 ==================
 
-WED 7/23   | Q2 | austin -> el paso = 8hrs
-THU 7/24   | Q2 | el paso -> phoenix = 6hrs
-FRI 7/25   | Q2 | phoenix -> long beach = 5hrs
 SAT 7/26   | WF | warp tour
 SUN 7/27   | WF | warp tour
 MON 7/28   | WF | long beach -> las vegas = 5hrs
-TUE 7/29   | Q2 | las vegas -> albuquerque = 8hrs
-WED 7/30   | Q2 | albuquerque -> austin = 8hrs
 
 ==============
 ## FLORIDA ##

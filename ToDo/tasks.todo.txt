@@ -1,10 +1,13 @@
+===========
 ## SOON ##
-----------
-amazon return due:5-17
+===========
+order short sleeve shirt for WEDDING
+order true classic chinos for wedding
+order shady rays
+amazon return/pick up
 maintenance request
 schedule haircut
 review trip budget
-(B) work out warp tour/flordia dates
 zac bryan planning
 thailand planning
 rework cook resume
@@ -12,21 +15,18 @@ apply easy tiger
 research laptop battery
 research portable monitor
 next cloud instance
-
-
-## LATER ##
-------------
-ask off port-A trip @wf +7/18-19 due:5-30
-ask off warp tour dates @q2 @wf +7/23-30 due:5-30
-ask off family vacation dates @q2 @wf +7/31-8/5 due:5-30
-plan jester king date due:6-10
-	- enchanted rock > fredricksburg > hamilton pool > desert door > jester king
-plan zac bryan +8/21-9/1
-plan thailand trip +11/5-11/19?
+ask off warp tour time off @wf 
+family vacation time off @q2 @wf +7/31-8/5 due:5-30
 BMTH time off @wf +9-27
 RCS time off @wf +9-28
+plan jester king date due:6-10
+	- enchanted rock > fredricksburg > hamilton pool > desert door > jester king
 ACL time off @q2 @wf +10/10-10/12
-----------------------------------------------------------
+
+
+============
+## LATER ##
+============
 go through emails
 rework schedule and specifics for moving in with cait
 	- rewrite schedule-main
@@ -35,8 +35,7 @@ rework schedule and specifics for moving in with cait
 		- move calendar schedules to reminders app?
 order work pants
 order new jeans
-order short sleeve shirt for wedding due:5-30
-order true classic chinos for wedding due:5-30
+
 organize todo files
 move reminders and todos at night
 define 3 cc uses
@@ -108,8 +107,9 @@ increase credit limits
 increase boxing to cover non grappling during workout
 
 
+==============
 ## PROJECTS ##
----------------
+==============
 go through productivitiy
 go through research/learn
 go through later to-do

@@ -1,3 +1,10 @@
+## TO DO ##
+-----------
+setup password manager
+review personal computer
+remove personal stuff on work computer
+
+
 ## BUY ##
 ----------
 water bottle
@@ -5,7 +12,6 @@ yeti tumblr
 bluetooth earbuds
 noise cancel headphone
 immersion circulator
-cast iron
 non stick pan
 on food and cooking
 wok
@@ -50,6 +56,9 @@ flower = peony
 -----------
 sexy calendar for birthday
 go to pilates class
+go to jitz class
+go to hot yoga class
+
 
 ## WEDDING ##
 --------------
