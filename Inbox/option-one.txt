@@ -11,7 +11,7 @@ keyboard charger
 weed grinder
 
 ============
-## BRING ##
+## TAKE ##
 ============
 monitor
 pax/charger
