@@ -1,12 +1,14 @@
+============
 ## TO DO ##
------------
+============
 setup password manager
 review personal computer
 remove personal stuff on work computer
 
 
+============
 ## BUY ##
-----------
+============
 water bottle
 yeti tumblr
 bluetooth earbuds
@@ -19,8 +21,9 @@ power bank for phones
 new mouse
 
 
+============
 ## FOOD ##
------------
+============
 chobani greek yogurt
 kiwi
 chia seeds
@@ -29,14 +32,16 @@ steak
 tart cherry juice glass bottle
 
 
+============
 ## TAKE ##
------------
+============
 jester king
 elephant room
+desert door
 
-
+============
 ## WATCH ##
-------------
+============
 inside lewelyn davis
 star is born
 sling blade
@@ -44,16 +49,18 @@ number 23
 minority report
 
 
+============
 ## LIKES ##
-------------
+============
 stone = opal
 color = marigold
 dessert = cream brulee
 flower = peony
 
 
+============
 ## IDEAS ##
------------
+============
 sexy calendar for birthday
 go to pilates class
 go to jitz class
