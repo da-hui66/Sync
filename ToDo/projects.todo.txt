@@ -1,0 +1,60 @@
+rework cook resume
+go through productivitiy
+go through research/learn
+go through later to-do
+Go through projects.todo
+Go through 23-24 notes
+Write footwork for workout +incorporate-ladder?
+Write guitar routine
+Write 4x yoga routine
+play with anki/ankiweb
+read working copy welcome
+read plaintext articles
+look up GTD articles
+increase linux disk space from windows
+build guitar repertoire
+set up searxng
+change mx-linux to centOS for server OS
+change debian to manjaro
+change mint to mx-linux
+set up next cloud instace to replace Dropbox
+    - buy domain
+    - run as container
+write budget @student-loans
+write better solo grappling workout
+write cron job to auto update/upgrade applications
+make bridge network in virt manager
+make IAM swap the root creds for those in terraform project
+delete root user access key
+fix assualt bike arm
+read through AI chat
+transfer brave creds to bit warden
+transfer credentials to bit warden
+remove done-date from todo extension in codium
+turn off auto complete in codium
+rework resume
+plan certs q2/personal
+Anki python tutorial
+generate unique passwords/usernames(aliases) for creds in bitwarden
+transfer email logins to proton mail
+get enigma subscription
+work though browser links
+'watch later' in youtube
+clear archived emails
+fix virt-manager w/ bridge network 
+configure NAS
+    - orderMemory
+    - swapSSD/RAM
+migrate oneNotes 
+    -personal
+    - school
+    - grappling
+migrate safari reading list +from-iphone
+apply for 3rd credit card (travel/large purchase)
+setup VPN
+hack the box
+odin project
+set up linkdin
+portable tails OS
+jiujitsu gameplan
+pixel OEM w/ graphene OS

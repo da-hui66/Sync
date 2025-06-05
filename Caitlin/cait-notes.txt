@@ -9,10 +9,9 @@ remove personal stuff on work computer
 ============
 ## BUY ##
 ============
-water bottle
 yeti tumblr
 bluetooth earbuds
-noise cancel headphone
+noise cancel headphones
 immersion circulator
 non stick pan
 on food and cooking
@@ -39,6 +38,7 @@ jester king
 elephant room
 desert door
 
+
 ============
 ## WATCH ##
 ============
@@ -61,14 +61,16 @@ flower = peony
 ============
 ## IDEAS ##
 ============
-sexy calendar for birthday
 go to pilates class
 go to jitz class
 go to hot yoga class
 
 
+===============
 ## WEDDING ##
---------------
-alice
-lights
+===============
+location = alice
+lights/flowers
+wooden dance floor
+whole animal BBQ
 play "rattlesnake"

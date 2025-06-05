@@ -1,6 +1,7 @@
 ================
 ## QUESTIONS ##
 ================
+condiment organization
 
 
 ==========
@@ -17,5 +18,5 @@
 ## IDEAS ##
 ============
 switch jitz gyms
-gold membership
 storage (once lease ends)
+    - build home gym
