@@ -1,6 +1,3 @@
-============
-## TODAY ##
-============
 add quicksilver to apple pay
 make WA payment plan
 start car saving
