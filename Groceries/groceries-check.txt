@@ -10,7 +10,7 @@ potatoes
 beef
 lard
 eggs
-1/2+1/2
+half+half
 cheese
 coffee
 coffee filters
@@ -34,8 +34,10 @@ mouthwash white
 mouthwash green
 bathroom cleaner
 laundry detergent
-shampoo
-conditioner
+shampoo (native)
+shampoo (tea tree)
+conditioner (native)
+conditioner (tea tree)
 q tips
 matches
 electrolytes
