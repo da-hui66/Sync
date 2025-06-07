@@ -23,6 +23,10 @@ dish soap
 hand soap
 trash bags(4gal)
 trash bags(10gals)
+storage bags (snack)
+storage bags (sandwich)
+storage bags (quart)
+storage bags (gallon)
 deodorent
 chapstick
 toothpaste
@@ -43,6 +47,5 @@ matches
 electrolytes
 preworkout
 all purpose cleaner
-electrolyte water
-soda water
+alkaline water
 lint rollers
