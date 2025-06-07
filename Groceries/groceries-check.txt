@@ -12,8 +12,6 @@ lard
 eggs
 1/2+1/2
 cheese
-tortillas corn
-tortillas flour
 coffee
 coffee filters
 salt
@@ -29,6 +27,7 @@ deodorent
 chapstick
 toothpaste
 floss
+eye drops (work)
 eye drops (day)
 eye drops (night)
 mouthwash white
