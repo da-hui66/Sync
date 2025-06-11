@@ -6,3 +6,7 @@ make WA payment plan
 start car saving
 look at marble falls/kingsland loding
 order shady rays
+transfer quicknotes
+file notebook
+check airline/rental credit expiration
+make dentist appointment

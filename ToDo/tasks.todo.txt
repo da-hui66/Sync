@@ -27,8 +27,6 @@ rework schedule and specifics for moving in with cait
 		- move workouts to AM
 		- move todo/study to PM
 		- move calendar schedules to reminders app?
-order work pants
-order new jeans
 organize todo files
 move reminders and todos at night
 define 3 cc uses

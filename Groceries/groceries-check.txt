@@ -10,10 +10,8 @@ potatoes
 beef
 lard
 eggs
-1/2+1/2
+half+half
 cheese
-tortillas corn
-tortillas flour
 coffee
 coffee filters
 salt
@@ -25,23 +23,31 @@ dish soap
 hand soap
 trash bags(4gal)
 trash bags(10gals)
+storage bags (snack)
+storage bags (sandwich)
+storage bags (quart)
+storage bags (gallon)
 deodorent
 chapstick
 toothpaste
 floss
+eye drops (work)
 eye drops (day)
 eye drops (night)
 mouthwash white
 mouthwash green
 bathroom cleaner
 laundry detergent
-shampoo
-conditioner
+shampoo (native)
+shampoo (tea tree)
+conditioner (native)
+conditioner (tea tree)
 q tips
 matches
 electrolytes
 preworkout
 all purpose cleaner
-electrolyte water
-soda water
+alkaline water
 lint rollers
+scrubbies (blue)
+scrubbies (green)
