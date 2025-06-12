@@ -1,6 +1,5 @@
-order wedding clothes/shoes
-cook: beef,pork, lard,
-nails
+order shoes?
+cook: beef
 add quicksilver to apple pay
 make WA payment plan
 start car saving
@@ -10,3 +9,9 @@ transfer quicknotes
 file notebook
 check airline/rental credit expiration
 make dentist appointment
+ask off warp tour time off @wf 
+family vacation time off @q2 @wf +7/31-8/5
+BMTH time off @wf +9-27
+RCS time off @wf +9-28
+ACL time off @q2 @wf +10/10-10/12
+maintenance request
