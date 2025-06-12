@@ -1,61 +1,16 @@
-post office
-office depot
-heb
-lift
-run
-discuss:sleeping at wedding,acl
-----------------------------
-=======
 order shoes?
 cook: beef
->>>>>>> origin/main
 add quicksilver to apple pay
 make WA payment plan
 start car saving
-look at marble falls/kingsland loding
 order shady rays
 transfer quicknotes
 file notebook
 check airline/rental credit expiration
 make dentist appointment
-<<<<<<< main
-cc payment
-=======
 ask off warp tour time off @wf 
 family vacation time off @q2 @wf +7/31-8/5
 BMTH time off @wf +9-27
 RCS time off @wf +9-28
 ACL time off @q2 @wf +10/10-10/12
 maintenance request
->>>>>>> origin/main
-<<<<<<< main
-post office
-office depot
-heb
-lift
-run
-discuss:sleeping at wedding,acl
-----------------------------
-=======
-order shoes?
-cook: beef
->>>>>>> origin/main
-add quicksilver to apple pay
-make WA payment plan
-start car saving
-look at marble falls/kingsland loding
-order shady rays
-transfer quicknotes
-file notebook
-check airline/rental credit expiration
-make dentist appointment
-<<<<<<< main
-cc payment
-=======
-ask off warp tour time off @wf 
-family vacation time off @q2 @wf +7/31-8/5
-BMTH time off @wf +9-27
-RCS time off @wf +9-28
-ACL time off @q2 @wf +10/10-10/12
-maintenance request
->>>>>>> origin/main
