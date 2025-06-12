@@ -1,5 +1,6 @@
+=================
 ## APARTMENT ##
-----------------
+=================
 shower curtain
 small target box (for vaporizer parts)
 2x small target box (for bathroom division)
@@ -56,9 +57,9 @@ whisky ice tray
 cow skull
 towel holders
 
-
+==============
 ## CLOTHES ##
---------------
+==============
 high top vans (for lifting)
 casio duro watch?
 guages (2g=L 0g=R)
@@ -84,9 +85,7 @@ more goodfellow shirts (work/workout)
 more goodfellow sweats? (rfor home)
 true classic sweats (for errands)
 carhartt blanket lined detroit jacket
-pair of theives shorts (home)
 brooks running shoes (all black)
-vans replacement
 replace progress training shorts
 true classic ls crew necks
 true classic sweatshirt
@@ -100,7 +99,7 @@ jaxxon bracelet
 jaxxon watch
 red wing Chelsea
 red wing moc
-bomba house shoe
+tecovas
 true classic briefs
 true classic socks?
 pair of theives undershirts?
@@ -110,13 +109,15 @@ pearl snap shirt
 belt/buckel
 cowboy boots
 cowboy hat
-straight western jeans +levis
+wranger straight cowboy jeans
 bolo tie
 rain jacket
+true classic blazer
 
 
+==============
 ## FITNESS ##
---------------
+==============
 40lb KB 
 53lb KB 
 heavy bag stand
@@ -145,9 +146,9 @@ o2 trainer
 heavy bag stand
 sand bags
 
-
+==========
 ## MISC ##
------------
+==========
 electric toothbrush replacement
 mascaped shaver
 yeti flask
@@ -167,18 +168,18 @@ anaconda fight ware knee brace
 back up arizer parts (bags, etc)
 arizer solo 3 
 timbuk2 dopp kit(toiletries bag)
-timbuk2 never check expandable backpack  ( for travel)
+timbuk2 never check expandable backpack (for travel)
 timbuk2 'player' duffel bag (for travel)
 timbuk2 cipilot luggae roller 'M'
 timbuk2 slacker chest pack?
 datsusara spartan bag (for gym)
 datssara paraphernalia bag (tolietries?)
 datsusara backpack 28l (for day trips)
-datsusara duffel 62l (for exploring trips)
+datsusara duffel 62l (for camping trips)
 
-
+===========
 ## TECH ##
------------
+===========
 earbuds for home (nice )
 earbuds for workout (mid )
 logitche zone wireless earbuds (work headset replacement) +thrivepass
@@ -215,13 +216,12 @@ anker usba blocks
 anker car mount
 logitech usb bluetooth audio receiver?
 
-
+==============
 ## SOMEDAY ##
---------------
+==============
 uplift desk
 cobi steel case armless
 state bicycle 6061
 truck
 semi hallowbody electric guitar + amp
 p365 sig suaer hand gun
-tecovas
