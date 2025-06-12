@@ -1,27 +1,25 @@
 ===========
 ## SOON ##
 ===========
-amazon return/pick up
-maintenance request
-schedule haircut
-zac bryan planning
-thailand planning
+(A)plan 6-21
+	- enchanted rock > fredricksburg > hamilton pool > jester king
+(B) zac bryan planning
+(C) thailand planning
 research laptop battery
 research portable monitor
-next cloud instance
-ask off warp tour time off @wf 
-family vacation time off @q2 @wf +7/31-8/5
-BMTH time off @wf +9-27
-RCS time off @wf +9-28
-plan jester king date due:6-10
-	- enchanted rock > fredricksburg > hamilton pool > jester king
-ACL time off @q2 @wf +10/10-10/12
+	- how to work in car with monitor
+research travel mouse
+schedule haircut
+go through emails
+figure out what needs to be in dropbox and what needs to be in gitlab +configure
+research work shoes
+
 
 
 ============
 ## LATER ##
 ============
-go through emails
+research logitech bluetooth transmitter
 rework schedule and specifics for moving in with cait
 	- rewrite schedule-main
 		- move workouts to AM
@@ -55,7 +53,7 @@ calculate budget
 	- student loan repayment plan ($7,635.48)
 	- plan/budget slist
 	- start savings: 
-		- IRS, student loans, car, tattoos, rebuild marcus (house), travel savings
+		- IRS, student loans, car, tattoos, rebuild marcus (house), travel savings, business
 	- set auto-withdrawls for savings
 research heavy bag stand
 confirm ticket master return due:5-1
