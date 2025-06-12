@@ -1,3 +1,10 @@
+post office
+office depot
+heb
+lift
+run
+discuss:sleeping at wedding,acl
+----------------------------
 add quicksilver to apple pay
 make WA payment plan
 start car saving
@@ -7,3 +14,4 @@ order true classic chinos for wedding
 order shady rays
 check airline/rental credit expiration
 make dentist appointment
+cc payment
