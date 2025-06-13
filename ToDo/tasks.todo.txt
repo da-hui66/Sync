@@ -1,14 +1,15 @@
 ===========
 ## SOON ##
 ===========
-(A)plan 6-21
+(A) plan 6-21
 	- enchanted rock > fredricksburg > hamilton pool > jester king
 (B) zac bryan planning
 (C) thailand planning
-research laptop battery
+research laptop powerbank (able to power off travel plug)
 research portable monitor
 	- how to work in car with monitor
 research travel mouse
+shop for desk drawer
 schedule haircut
 go through emails
 figure out what needs to be in dropbox and what needs to be in gitlab +configure
@@ -19,6 +20,7 @@ research work shoes
 ============
 ## LATER ##
 ============
+find work jean
 research logitech bluetooth transmitter
 rework schedule and specifics for moving in with cait
 	- rewrite schedule-main

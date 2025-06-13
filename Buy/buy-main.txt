@@ -188,16 +188,17 @@ android phone (non-google)
 netgear mesh routers
 netgear modem
 sandisk USB drives
-to-go dock
+anker to-go dock
     - 2x-HDMI-connections
     - 2x-usb-C
     - 2x-usb-A 
-2x portable monitors +wiresless HDMI adapters
+2x portable monitors
+2x wiresless HDMI adapters
 Cord management system
 mechanical keyboard (Logitech MX mechanical Mini) +thrivepass
 mouse upgrade (Logitech MX master 3s) +thrivepass
 mx anywhere 3s (travel mouse) +thrivepass
-anker power bank (for phone)
+anker magGo slim power bank (for phone)
 anker power bank (for laptop)
 monitor arms upgrade
 Anker 568 USB-C dock upgrade 

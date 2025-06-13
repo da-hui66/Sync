@@ -1,4 +1,3 @@
-order shoes?
 cook: beef
 add quicksilver to apple pay
 make WA payment plan
@@ -13,4 +12,7 @@ family vacation time off @q2 @wf +7/31-8/5
 BMTH time off @wf +9-27
 RCS time off @wf +9-28
 ACL time off @q2 @wf +10/10-10/12
+JVC time off @q2 @WF +dates?
+    - planning
 maintenance request
+pay toll fee
